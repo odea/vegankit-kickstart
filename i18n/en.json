@@ -1,5 +1,4 @@
 {
-  "locale": "",
   "home": {
     "title": "Vegan Starter Kit"
   },
@@ -10,5 +9,7 @@
   "eat": "",
   "wear": "",
   "use": "",
-  "think": ""
+  "think": "",
+  "videos": "",
+  "resources": "",
 }
