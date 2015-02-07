@@ -1,6 +1,4 @@
-extends ../layout
+extends ../page-layout
 
-block content
-  h1 Page
-  p {{ hello }}
-  p {{ foo.fizz }}
+block page-content
+  h1 {{ use.title }}

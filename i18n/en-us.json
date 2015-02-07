@@ -5,7 +5,9 @@
   "why": {
     "title": "Why Vegan?"
   },
-  "be": "",
+  "be": {
+    "title": "Becoming Vegan"
+  },
   "eat": "",
   "wear": "",
   "use": "",
