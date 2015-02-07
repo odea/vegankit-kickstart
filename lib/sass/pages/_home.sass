@@ -1,0 +1,16 @@
+[data-page="home"]
+  padding: $space*2
+
+  h1
+    +heading_md
+    font-weight: 200
+    text-align: center
+
+  ul
+    +list($style: 'unstyled')
+    +row
+
+    li
+      +column(6)
+      width: calc(50% - 15px)
+      text-align: center

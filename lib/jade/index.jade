@@ -1,11 +1,12 @@
 extends layout
 
 block content
-  h1 {{ home.title }}
-  ul
-    li: a(href="./why") {{ why.title }}
-    li: a(href="./be") {{ be.title }}
-    li: a(href="./eat") {{ eat.title }}
-    li: a(href="./wear") {{ wear.title }}
-    li: a(href="./use") {{ use.title }}
-    li: a(href="./learn") {{ learn.title }}
+  div(data-page="home")
+    h1 {{ home.title }}
+    ul
+      li: a(href="./why") {{ why.shortTitle }}
+      li: a(href="./be") {{ be.shortTitle }}
+      li: a(href="./eat") {{ eat.shortTitle }}
+      li: a(href="./wear") {{ wear.shortTitle }}
+      li: a(href="./use") {{ use.shortTitle }}
+      li: a(href="./learn") {{ learn.shortTitle }}

@@ -1,4 +1,8 @@
 extends ../page-layout
 
+block variables
+  - var title = "{{ learn.title }}"
+  - var dataPage = "learn"
+
 block page-content
   h1 {{ learn.title }}

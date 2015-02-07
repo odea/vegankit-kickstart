@@ -1,5 +1,9 @@
 extends ../page-layout
 
+block variables
+  - var title = "{{ why.title }}"
+  - var dataPage = "why"
+
 block page-content
   h1 {{ why.title }}
   p Testing

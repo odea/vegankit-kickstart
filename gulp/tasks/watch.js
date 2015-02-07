@@ -4,6 +4,7 @@ gulp.task('watch', ['setWatch', 'browserSync'], function() {
     gulp.watch('./lib/sass/**/*.sass', ['sass', 'minify']);
     gulp.watch('./lib/images/**', ['images']);
     gulp.watch('./lib/jade/**/*.jade', ['jade']);
+    gulp.watch('./i18n/**/*.json', ['mustache']);
     gulp.watch(['./lib/coffee/**/*.coffee'], ['browserify', 'minify']);
     gulp.watch(['./lib/jade/tests/**', './lib/tests/**'], ['test']);
 });

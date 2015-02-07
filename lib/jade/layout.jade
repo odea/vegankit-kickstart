@@ -1,6 +1,7 @@
 doctype html
 block variables
   - var title = "Home"
+  - var dataPage = ""
 
 html(lang='en')
   head
@@ -8,12 +9,12 @@ html(lang='en')
     meta(name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no")
     meta(http-equiv='X-UA-Compatible', content='text/html', charset='UTF-8')
     title My Website - #{title}
-  body
+  body(data-page="#{dataPage}")
     main.main
       block content
 
     footer.main
       .wrapper
-        p Made by <a href="http://twitter.com/everythingdotio">Everything</a>
+        a(href="http://twitter.com/vegankitdotcom") @VeganKitDotCom
 
     script(src="/js/script.min.js")

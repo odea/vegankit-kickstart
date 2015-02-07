@@ -1,9 +1,23 @@
 @import themes/kickstart-serenity-theme/theme
 
-// Write your styles here.
+// Page-specific styling
 
-h1
-  +heading-xl
+@import pages/_home
+@import pages/_single
+@import pages/_why
+@import pages/_be
+@import pages/_eat
+@import pages/_wear
+@import pages/_use
+@import pages/_learn
 
-p
-  +p(true)
+footer.main
+  .wrapper
+    +wrapper
+
+  text-align: center
+
+img
+  max-width: 100%
+  display: block
+

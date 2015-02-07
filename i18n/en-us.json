@@ -4,18 +4,30 @@
   },
   "why": {
     "title": "Why Vegan?",
+    "shortTitle": "Why",
     "videos": {
-      "foo": "RmGPvSbqkcE",
-      "fizz": "buzz"
+      "foo": "RmGPvSbqkcE"
     }
   },
   "be": {
-    "title": "Becoming Vegan"
+    "title": "Becoming Vegan",
+    "shortTitle": "Be"
   },
-  "eat": "",
-  "wear": "",
-  "use": "",
-  "think": "",
-  "resources": ""
+  "eat": {
+    "title": "Eating",
+    "shortTitle": "Eat"
+  },
+  "wear": {
+    "title": "Wearing",
+    "shortTitle": "Wear"
+  },
+  "use": {
+    "title": "Using",
+    "shortTitle": "Use"
+  },
+  "learn": {
+    "title": "Thinking Vegan",
+    "shortTitle": "Learn"
+  }
 }
 
