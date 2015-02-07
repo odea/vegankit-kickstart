@@ -1,21 +1,22 @@
 var gulp = require('gulp'),
-  mustache = require('gulp-mustache');
-
-var dest = './public',
-  json = new Object();
-
-requireJSON = function(file) {
-  var fs = require('fs');
-  contents = JSON.parse(fs.readFileSync(file));
-  return contents
-}
-
-json.en = requireJSON('./i18n/en.json');
-console.log(json.en)
+    mustache = require('gulp-mustache'),
+    fs = require('fs'),
+    files = fs.readdirSync('./i18n'),
+    requireJSON = function(file) { return contents = JSON.parse(fs.readFileSync(file)); };
 
 gulp.task('mustache', ['jade'], function() {
-  return gulp.src(['./templates/**/*.html'])
-    .pipe(mustache(json.en))
-    .pipe(gulp.dest(dest))
+  // For files in i18n...
+  for (var $i=0; $i<files.length; $i++) {
+    console.log(files[$i])
+
+    var dir = (files[$i] == "en.json" ? "" : files[$i].replace('.json', '') + '/');
+
+    gulp.src(['./templates/**/*.html'])
+      .pipe(mustache(requireJSON("./i18n/" + files[$i])))
+      .pipe(gulp.dest('./public/' + dir))
+  }
 })
+// Push each one through
+// Match filename to directory except for en.
+
 
