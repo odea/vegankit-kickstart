@@ -1,3 +1,14 @@
 {
-  "hello": "Bonjour Le Monde"
+  "locale": "fr",
+  "home": {
+    "title": "Kit de Démarrage Vegan"
+  },
+  "why": {
+    "title": "Pourquoi Vegan?"
+  },
+  "be": "",
+  "eat": "",
+  "wear": "",
+  "use": "",
+  "think": ""
 }

@@ -1,3 +1,14 @@
 {
-  "hello": "Hello World"
+  "locale": "",
+  "home": {
+    "title": "Vegan Starter Kit"
+  },
+  "why": {
+    "title": "Why Vegan?"
+  },
+  "be": "",
+  "eat": "",
+  "wear": "",
+  "use": "",
+  "think": ""
 }

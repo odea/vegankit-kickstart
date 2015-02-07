@@ -5,7 +5,6 @@ var gulp = require('gulp'),
     requireJSON = function(file) { return contents = JSON.parse(fs.readFileSync(file)); };
 
 gulp.task('mustache', ['jade'], function() {
-  // For files in i18n...
   for (var $i=0; $i<files.length; $i++) {
     console.log(files[$i])
 
@@ -15,8 +14,4 @@ gulp.task('mustache', ['jade'], function() {
       .pipe(mustache(requireJSON("./i18n/" + files[$i])))
       .pipe(gulp.dest('./public/' + dir))
   }
-})
-// Push each one through
-// Match filename to directory except for en.
-
-
+}) 

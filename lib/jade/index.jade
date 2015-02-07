@@ -1,5 +1,6 @@
 extends layout
 
 block content
-  h1 Test
-  p {{ hello }}
+  h1 {{ home.title }}
+  p
+    a(href="./why") {{ why.title }}
