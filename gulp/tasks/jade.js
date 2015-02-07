@@ -3,7 +3,7 @@ var gulp = require('gulp'),
   changed = require('gulp-cached'),
   browserSync  = require('browser-sync');
 
-var dest = './public';
+var dest = './templates';
 
 gulp.task('jade', function() {
   return gulp.src(['./lib/jade/**/*.jade'])
