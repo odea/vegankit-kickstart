@@ -8,7 +8,7 @@ gulp.task('mustache', ['jade'], function() {
   for (var $i=0; $i<files.length; $i++) {
     console.log(files[$i])
 
-    var dir = (files[$i] == "en.json" ? "" : files[$i].replace('.json', '') + '/');
+    var dir = (files[$i] == "en-us.json" ? "" : files[$i].replace('.json', '') + '/');
 
     gulp.src(['./templates/**/*.html'])
       .pipe(mustache(requireJSON("./i18n/" + files[$i])))

@@ -3,7 +3,11 @@
     "title": "Vegan Starter Kit"
   },
   "why": {
-    "title": "Why Vegan?"
+    "title": "Why Vegan?",
+    "videos": {
+      "foo": "RmGPvSbqkcE",
+      "fizz": "buzz"
+    }
   },
   "be": {
     "title": "Becoming Vegan"
@@ -12,6 +16,6 @@
   "wear": "",
   "use": "",
   "think": "",
-  "videos": "",
   "resources": ""
 }
+

@@ -4,3 +4,6 @@
 [submodule "lib-docs/sass/vendor/switch"]
 	path = lib-docs/sass/vendor/switch
 	url = https://github.com/ajkochanowicz/switch.git
+[submodule "lib/sass/themes/kickstart-serenity-theme"]
+	path = lib/sass/themes/kickstart-serenity-theme
+	url = git@github.com:ajkochanowicz/kickstart-serenity-theme.git

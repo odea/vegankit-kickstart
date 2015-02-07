@@ -2,3 +2,7 @@ extends ../page-layout
 
 block page-content
   h1 {{ why.title }}
+  p Testing
+  p {{ why.videos.foo }}
+  p
+    img(src="http://img.youtube.com/vi/{{ why.videos.foo }}/0.jpg")
