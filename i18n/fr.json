@@ -1,5 +1,4 @@
 {
-  "locale": "fr",
   "home": {
     "title": "Kit de Démarrage Vegan"
   },
@@ -11,6 +10,7 @@
   "wear": "",
   "use": "",
   "think": "",
+  "locale": "fr",
   "videos": "",
   "resources": ""
 }
