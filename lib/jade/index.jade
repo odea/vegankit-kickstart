@@ -1,12 +1,31 @@
 extends layout
 
 block content
+  - var cow = fs.readFileSync('lib/img/cow.svg')
+  - var butterfly = fs.readFileSync('lib/img/butterfly.svg')
+  - var apple = fs.readFileSync('lib/img/apple.svg')
+  - var shoe = fs.readFileSync('lib/img/shoe.svg')
+  - var bottle = fs.readFileSync('lib/img/bottle.svg')
+  - var tree = fs.readFileSync('lib/img/tree.svg')
+
   div(data-page="home")
     h1 {{ home.title }}
     ul
-      li: a(href="./why") {{ why.shortTitle }}
-      li: a(href="./be") {{ be.shortTitle }}
-      li: a(href="./eat") {{ eat.shortTitle }}
-      li: a(href="./wear") {{ wear.shortTitle }}
-      li: a(href="./use") {{ use.shortTitle }}
-      li: a(href="./learn") {{ learn.shortTitle }}
+      li
+        != cow
+        a(href="./why") {{ why.shortTitle }}
+      li
+        != butterfly
+        a(href="./be") {{ be.shortTitle }}
+      li
+        != apple
+        a(href="./eat") {{ eat.shortTitle }}
+      li
+        != shoe
+        a(href="./wear") {{ wear.shortTitle }}
+      li
+        != bottle
+        a(href="./use") {{ use.shortTitle }}
+      li
+        != tree
+        a(href="./learn") {{ learn.shortTitle }}
