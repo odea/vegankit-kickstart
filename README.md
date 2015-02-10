@@ -1,5 +1,5 @@
-VeganKit.com v3
-===============
+VeganKit.com v3.0
+=================
 
 Kickstart is a modern front-end framework for clean HTML and fast performance.
 
