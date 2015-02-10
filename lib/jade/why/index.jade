@@ -5,8 +5,17 @@ block variables
   - var dataPage = "why"
 
 block page-content
-  h1 {{ why.title }}
-  p Testing
-  p {{ why.videos.foo }}
-  p
-    img(src="http://img.youtube.com/vi/{{ why.videos.foo }}/0.jpg")
+  | {{#why}}
+  h1 {{ title }}
+  h2 {{ definition_of_veganism }}
+  p 
+    | {{{ the_word_vegan_was_coined }}}
+    em  {{ veganism_is_a_way_of_living }}
+  p 
+    | {{ as_you_can_see_veganism_is }}&nbsp;
+    a(href="/products") {{ while_vegans_follow }}
+  aside
+    img(src="http://img.youtube.com/vi/{{ videos.herbie }}/0.jpg")
+    h1 {{ dogs_cats_cows }}
+    p {{ watch_this_video_of_a }}
+  | {{/why}}

@@ -5,8 +5,15 @@
   "why": {
     "title": "Why Vegan?",
     "shortTitle": "Why",
+    "definition_of_veganism": "Definition of Veganism",
+    "the_word_vegan_was_coined": "The word &ldquo;vegan&ldquo; was coined in 1944 by Donald Watson of the Vegan Society of the UK. This definition states:",
+    "veganism_is_a_way_of_living": "Veganism is a way of living that seeks to exclude, as far as possible and practicable, all forms of exploitation of, and cruelty to, animals for food, clothing and any other purpose.",
+    "as_you_can_see_veganism_is": "As you can see, veganism is not defined as a diet, but a way of living.",
+    "while_vegans_follow": "While vegans follow an animal-free diet, they also do not wear animals or use them for entertainment or any other purpose.",
+    "dogs_cats_cows": "Dogs, Cats, and Cows, What's the difference?",
+    "watch_this_video_of_a": "Watch this video of a rescued cow from the For the Animals Sanctuary playing with his new ball.",
     "videos": {
-      "foo": "RmGPvSbqkcE"
+      "herbie": "GQvukhDinII"
     }
   },
   "be": {
@@ -30,4 +37,3 @@
     "shortTitle": "Learn"
   }
 }
-
