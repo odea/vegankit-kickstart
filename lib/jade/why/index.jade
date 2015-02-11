@@ -13,9 +13,73 @@ block page-content
     em  {{ veganism_is_a_way_of_living }}
   p 
     | {{ as_you_can_see_veganism_is }}&nbsp;
-    a(href="/products") {{ while_vegans_follow }}
+    a(href="{{ links.0 }}") {{ while_vegans_follow }}
   aside
-    img(src="http://img.youtube.com/vi/{{ videos.herbie }}/0.jpg")
+    img(src="http://img.youtube.com/vi/{{ videos.0 }}/0.jpg")
     h1 {{ dogs_cats_cows }}
     p {{ watch_this_video_of_a }}
+  p {{ when_they_pass_away }}
+
+  h2 {{ moral_dissonance }}
+  p 
+    | {{ if_it_is_wrong_to_act }}
+    a(href="{{ links.1 }}") {{ we_certainly_do_not_need }}
+  p {{ some_of_us_try }}
+  p {{ in_any_case_these_terms }}
+  h2 {{ cant_we_just_consume_humane }}
+  p {{ asking_how_well_we_should }}
+  p {{ for_example_there_are_no }}
+  p {{ as_with_any_other_form }}
+  blockquote
+    | {{ humans_have_no_need }}
+    cite {{ angel_flinn }}
+  p {{ animals_suffer_from_cold }}
+  p {{ as_long_as_these_animals }}
+  p {{ to_some_humane_legislation }}
+  p {{ animal_welfare_fosters_more }}
+  blockquote 
+    | {{ the_use_of_humane_slaughter }}
+    cite {{ united_states_humane_slaughter }}
+  p {{ notice_the_lack_of_any }}
+
+  h2 {{ should_i_go_vegetarian }}
+  p {{ vegetarianism_equals }}
+  p {{ veganism_may_seem_way }}
+  p {{ but_if_for_some_reason }}
+  p {{ dont_i_need_animal_products }}
+  blockquote
+    | {{ properly_planned_vegan_diets }}
+    cite america_dietetic_association
+  p {{ not_only_are_animal_products }}
+  p {{ check_out_our_nutrition }}
+  p 
+    a(href="") {{ the_china_study }}
+    | {{ by_t_colin_campbell }}
+  p 
+    | {{ sentience_is_all }}
+    a(href="") {{ regardless_of_how }}
+
+  h2 {{ is_veganism_good_for_the }}
+  blockquote
+    | {{ about_2000_pounds }}
+    cite {{ me_ensminger }}
+  p {{ consuming_a_plant_based }}
+  p {{ compare_that_to_25 }}
+
+  h2 {{ is_veganism_sustainable }}
+  p {{ considering_the_amount }}
+  p {{ essentially_we_have }}
+  p {{ imagine_instead }}
+  blockquote
+    | {{ go_vegan_its_better }}
+    cite {{ gary_l_francione }}
+  p {{ check_out_some }}
+  ul
+    li: a(href="") {{ vegan_faq }}
+    li: a(href="") {{ meal_planning }}
+    li: a(href="") {{ books_on_animal }}
+    li: a(href="") {{ vegan_vendors }}
+  blockquote
+    | {{ whenever_you_find }}
+    cite {{ mark_twain }}
   | {{/why}}
