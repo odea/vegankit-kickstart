@@ -10,5 +10,7 @@ var expect         = require('gulp-expect-file');
 gulp.task('test', ['bundle-tests', 'jade'], function() {
   var files = ['public/tests/index.html']
   gulp.src(files)
-    .pipe(mochaPhantomJS({reporter: 'list'}))
+    .pipe(mochaPhantomJS({
+      reporter: 'list'
+    }))
 });

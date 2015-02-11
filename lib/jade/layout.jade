@@ -1,14 +1,17 @@
 doctype html
 block variables
-  - var title = "Home"
   - var dataPage = ""
+  - var title = ""
 
 html(lang='en')
   head
     link(rel="stylesheet" href="/css/style.min.css")
     meta(name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no")
     meta(http-equiv='X-UA-Compatible', content='text/html', charset='UTF-8')
-    title My Website - #{title}
+    title 
+      | Vegan Starter Kit
+      if title != ""
+        | &nbsp;- #{title}
   body(data-page="#{dataPage}")
     main.main
       block content
