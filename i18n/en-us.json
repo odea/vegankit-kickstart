@@ -26,6 +26,16 @@
       "http://www.eatlikeyoucarebook.com/\n",
       "http://www.abolitionistapproach.com/"
     ],
+    "videos": [
+      "GQvukhDinII",
+      "LUkHkyy4uqw",
+      "qwe2HnYHGdQ",
+      "Z7Gbq3lkKwY",
+      "ce4DJh-L7Ys",
+      "Rg3Yfdbs24I",
+      "wu5RrqMTUtM",
+      "QIcRDen6PEU"
+    ],
     "title": "Why Vegan?",
     "shortTitle": "Why",
     "definition_of_veganism": "Definition of Veganism",
@@ -134,21 +144,49 @@
     "breaking_the_set": "Breaking the Set: Abby Martin interviews Gary Francione",
     "rutgers_law_professor": "Rutgers Law Professor, Gary Francione, is interviewed on the show Breaking The Set, and asks the fundamental question: \"Why are we eating, wearing or using animals at all?-particularly when we don't have to?\". Professor Francione's newest book:",
     "eat_like_you_care": "Eat Like You Care",
-    "and_website": "and website",
-    "videos": [
-      "GQvukhDinII",
-      "LUkHkyy4uqw",
-      "qwe2HnYHGdQ",
-      "Z7Gbq3lkKwY",
-      "ce4DJh-L7Ys",
-      "Rg3Yfdbs24I",
-      "wu5RrqMTUtM",
-      "QIcRDen6PEU"
-    ]
+    "and_website": "and website"
   },
   "be": {
+    "links": [
+      "/eat#planyourmeal",
+      "http://blog.fatfreevegan.com/2008/02/ridiculously-easy-lunchbox-enchilada.html",
+      "/eat#planyourmeal",
+      "/wear#recycled"
+    ],
+    "videos": [
+      
+    ],
     "title": "Becoming Vegan",
-    "shortTitle": "Be"
+    "shortTitle": "Be",
+    "veganism_is_not": "Veganism is not about giving anything up or losing anything; it is about gaining the peace within yourself that comes from embracing nonviolence and refusing to participate in the exploitation of the vulnerable",
+    "where_to_start": "Where To Start?",
+    "some_of_our_newly": "Some of our newly vegan friends are worried they'll have trouble living in a small town where specialty soy products aren't available. To the contrary, eating a vegan version of a typical omnivore diet is one of the worst ways to kick off your first day as a vegan.",
+    "not_that_theres_anything": "Not that there's anything wrong with having a vegan soy patty or soy grilled cheese, but it's neither healthy, affordable, or practical to sustain yourself on those types of foods. Instead, familiarize yourself with new kinds of ingredients like tofu and tempeh.",
+    "try_out_some_of_our": "Try out some of our excellent vegan recipes.",
+    "weve_designed_these_recipes": "We've designed these recipes to be easy to make in any part of the world.",
+    "we_also_recommend_converting": "We also recommend converting your kitchen as well as yourself. Make sure you are stocked with vegan foods so it's easy to fulfill those late-night snack temptations. Consider buying granola and pouring it in a bowl. It's cheap, doesn't require preparation, and it's a nice standby for a vegan snack any time of the day.",
+    "if_you_think_you_can": "If you think you can go vegan overnight, don't even hesitate! However, if you still have cold feet, try eating a vegan breakfast for a few weeks, then a vegan lunch for a few weeks, and finally a vegan dinner for a few weeks.",
+    "is_veganism_expensive": "Is Veganism Expensive?",
+    "no_veganism_is_not_expensive": "No! Veganism is not expensive. While there are plenty of nonvegans ready to tell you otherwise, this is largely due to the myth that vegans are eating processed soy versions of what everyone else eats. In fact, vegans survive mainly on beans, rice, pasta, fruits, and vegetables--the cheapest ingredients on earth.",
+    "this_myth_is_also_perpetuated": "This myth is also perpetuated by specialty vegan restaurants with either the same processed ingredients or high quality prepared dishes. But is this really any different from other specialty restaurants?",
+    "veganism_is_actually_easy": "Veganism is actually easy, even on a college student's budget.",
+    "ridiculously_easy_lunchbox": "Ridiculously Easy Lunchbox Enchilada anyone?",
+    "if_youre_not_a_fan_of_recipes": "If you're not a fan of recipes, look into prepared thai and indian foods, which are often vegan or can be made so very easily.",
+    "see_our_recipes": "See our recipes",
+    "what_about_my_nonvegan": "What About My Nonvegan Things?",
+    "what_should_we_do_about": "What should we do about the leather wallets, shoes, or wool coats we have collected before we even heard about veganism? Of course, it would be ideal to have all vegan items, but shouldn't it be okay to use these since they've already been purchased?",
+    "this_is_a_good_time": "This is a good time to remind ourselves the issue of what we do to animals is not treatment, but use. Sure, wearing a leather belt another day doesn't cause the deceased to suffer even more, but an understanding of the injustice we cause to animals should have us asking why we consider a dead animal's body parts fashion?",
+    "if_you_see_animals_as": "If you see animals as something other than objects of our property, getting rid of animal based belongings isn't wasteful. Would we call the burying of our deceased loved ones \"wasteful\" because we did not turn them into leather shoes? We don't because we don't view them as resources in the first place and that's exactly what \"waste\" implies.",
+    "what_about_buying": "What about buying secondhand?",
+    "family_issues": "Family Issues",
+    "even_though_youre_motivated": "Even though you're motivated to go vegan, you may have some reservations about the reaction you'll get from those close to you. Here are a few tips and resources for making things work with your family.",
+    "being_vegan_in_a": "Being vegan in a nonvegan family",
+    "not_all_families_are": "Not all families are equally supportive of a vegan life. This is often fueled by negative myths about a vegan's diet as well as the importance of traditional foods within a family.",
+    "you_can_ease_any": "You can ease any resistance you may get from your family by doing your research. Learn as much as you can about vegan health and insure you have plenty of b12, omega-3, and iron on your menu.",
+    "as_for_your_familys": "As for your family's high regard for traditional foods, it may just take a while for them to get used to veganism. Be as respectful as possible and even try making some traditional dishes vegan. This will communicate to them you're not that far out there and you're still able to take part in important family traditions.",
+    "raising_vegan_children": "Raising vegan children",
+    "plenty_of_vegans_have": "Plenty of vegans have raised (very) healthy, happy children and it's easier than you think.",
+    "check_out_these_blogs": "Check out these blogs from actual vegan parents:"
   },
   "eat": {
     "title": "Eating",
