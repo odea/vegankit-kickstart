@@ -12,20 +12,32 @@ block content
     h1 {{ home.title }}
     ul
       li
-        != cow
-        a(href="./why") {{ why.shortTitle }}
+        a(href="./why")
+          != cow
+          span.short {{ why.shortTitle }}
+          span.long {{ why.title }}
       li
-        != butterfly
-        a(href="./be") {{ be.shortTitle }}
+        a(href="./be")
+          != butterfly
+          span.short {{ be.shortTitle }}
+          span.long {{ be.title }}
       li
-        != apple
-        a(href="./eat") {{ eat.shortTitle }}
+        a(href="./eat")
+          != apple
+          span.short {{ eat.shortTitle }}
+          span.long {{ eat.title }}
       li
-        != shoe
-        a(href="./wear") {{ wear.shortTitle }}
+        a(href="./wear")
+          != shoe
+          span.short {{ wear.shortTitle }}
+          span.long {{ wear.title }}
       li
-        != bottle
-        a(href="./use") {{ use.shortTitle }}
+        a(href="./use")
+          != bottle
+          span.short {{ use.shortTitle }}
+          span.long {{ use.title }}
       li
-        != tree
-        a(href="./learn") {{ learn.shortTitle }}
+        a(href="./learn")
+          != tree
+          span.short {{ learn.shortTitle }}
+          span.long {{ learn.title }}

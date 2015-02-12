@@ -1,10 +1,37 @@
 [data-page="home"]
   padding: $space*2
+  max-width: 300px
+  margin: 0px auto
+
+  +gt($phablet)
+    max-width: 525px
+
+  +gt($tablet)
+    max-width: 700px
+    margin-top: 50px
+
+  +gt($tablet-landscape)
+    max-width: 900px
+    margin-top: 100px
+
+  +gt($desktop)
+    max-width: 1000px
 
   h1
     +heading_md
     font-weight: 200
     text-align: center
+
+    +gt($phablet)
+      margin-bottom: 50px
+
+    +gt($tablet)
+      +heading_lg
+      font-weight: 100
+
+    +gt($tablet-landscape)
+      +heading_xl
+      font-weight: 100
 
   ul
     +list($style: 'unstyled')
@@ -14,17 +41,87 @@
       +column(6)
       width: calc(50% - 15px)
       text-align: center
+      line-height: normal
+
+      span.long
+        display: none
+
+      a 
+        color: $default-font-color
+
+        &:hover
+          text-decoration: none
+
+      +gt($tablet)
+        font-size: 0.85rem
 
       svg
-        width: 100px
-        height: 100px
+        width: 90px
+        height: 90px
         display: block
+        max-width: 100%
         margin: 0px auto
+          bottom: -10px
 
         g
           fill: black
 
+      &:hover
+        svg g
+          opacity: 0.9
+
       &:nth-child(1)
         svg
           g
-            fill: map-get($colors, blue)
+            fill: darken(map-get($colors, blue), 10%)
+
+      &:nth-child(2)
+        svg
+          g
+            fill: darken(map-get($colors, green), 10%)
+
+      &:nth-child(3)
+        svg
+          g
+            fill: darken(map-get($colors, orange), 10%)
+
+      &:nth-child(4)
+        svg
+          g
+            fill: darken(map-get($colors, teal), 10%)
+
+      &:nth-child(5)
+        svg
+          g
+            fill: darken(map-get($colors, yellow), 5%)
+
+      &:nth-child(6)
+        svg
+          g
+            fill: darken(map-get($colors, grassstain), 10%)
+
+      +gt($phablet)
+        +column(4)
+
+        svg
+          width: 120px
+          height: 120px
+
+      +gt($tablet)
+        +column(2)
+
+        svg
+          width: 100px
+          height: 100px
+
+      +gt($tablet-landscape)
+        svg
+          width: 125px
+          height: 125px
+
+        span.short
+          display: none
+
+        span.long
+          display: block
+
