@@ -17,6 +17,11 @@
         left: calc((100vw - #{$tablet-landscape})/2)
         right: $space
 
+    @media screen and (min-width: $desktop)
+      width: calc(#{$desktop}*(0.65) + ((100vw - #{$desktop})/2))
+      padding:
+        left: calc((100vw - #{$desktop})/2)
+
   .sidebar-content
     background: white
     margin:
@@ -29,6 +34,11 @@
         left: $space
       margin:
         bottom: 0
+
+    @media screen and (min-width: $desktop)
+      width: calc(#{$desktop}*(0.35) + ((100vw - #{$desktop})/2))
+      padding:
+        right: calc((100vw - #{$desktop})/2)
 
   h1
     +heading_lg

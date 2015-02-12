@@ -85,6 +85,7 @@ block page-content
   | {{/why}}
 
 block sidebar-content
+  | {{#why}}
   h1 {{ more_than_56 }}
   .counter
     p {{ marine_animals }}
@@ -119,7 +120,8 @@ block sidebar-content
 
   article
     h1 {{ im_vegan_phillip }}
-    img(src="http://img.youtube.com/vi/{{ videos.1 }}/0.jpg")
+    img(src="http://img.youtube.com/vi/{{ videos.2 }}/0.jpg")
     p {{ long_time_vegan }}
     p {{ read_the_we_are_all }}
 
+  | {{/why}}
