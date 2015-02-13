@@ -151,7 +151,14 @@
       "/eat#planyourmeal",
       "http://blog.fatfreevegan.com/2008/02/ridiculously-easy-lunchbox-enchilada.html",
       "/eat#planyourmeal",
-      "/wear#recycled"
+      "/wear#recycled",
+      "http://ourpreciousrose.blogspot.com/s",
+      "http://ourveganpregnancy.blogspot.com/",
+      "http://www.eatlikeyoucarebook.com/",
+      "http://www.amazon.com/Becoming-Vegan-Complete-Adopting-Plant-Based/dp/1570671036/ref=sr_1_2?s=books&ie=UTF8&qid=1337692830&sr=1-2",
+      "http://www.amazon.com/Vegan-Freak-Being-Non-Vegan-World/dp/1604860154/ref=sr_1_1?s=books&ie=UTF8&qid=1337693350&sr=1-1",
+      "http://www.amazon.com/Generation-Complete-Guide-Staying-Teenager/dp/1604863382/ref=sr_1_1?s=books&ie=UTF8&qid=1337693465&sr=1-1",
+      "http://www.amazon.com/Introduction-Animal-Rights-Your-Child/dp/1566396921/ref=sr_1_1?s=books&ie=UTF8&qid=1337693289&sr=1-1"
     ],
     "videos": [
       
@@ -186,7 +193,30 @@
     "as_for_your_familys": "As for your family's high regard for traditional foods, it may just take a while for them to get used to veganism. Be as respectful as possible and even try making some traditional dishes vegan. This will communicate to them you're not that far out there and you're still able to take part in important family traditions.",
     "raising_vegan_children": "Raising vegan children",
     "plenty_of_vegans_have": "Plenty of vegans have raised (very) healthy, happy children and it's easier than you think.",
-    "check_out_these_blogs": "Check out these blogs from actual vegan parents:"
+    "check_out_these_blogs": "Check out these blogs from actual vegan parents:",
+    "our_precious": "Our Precious Rose",
+    "from_vegan_parent": "From vegan parent Melissa Viau, this blog chronicles the life of the Viau family's vegan child, Rose and living as a vegan parent.",
+    "our_vegan_pregnancy": "Our Vegan Pregnancy ",
+    "vegan_couple_lucas": "Vegan couple Lucas and Kenya's blog orignally on vegan preganancy--which now continues with the lives of their healthy, growing vegan children.",
+    "recommended_reading": "Recommended Reading",
+    "eat_like_you_care": "Eat Like you Care\n",
+    "by_gary_francione_and_anna": "By Gary Francione and Anna Charlton",
+    "brilliantly_written_clear": "Brilliantly written. Clear, no nonsense, non emotional straight talk. A must read for everyone. Period. Too many people are ignorant of how their food is produced. This clears up any myths and states the facts irrevocably.",
+    "becoming_vegan": "Becoming Vegan",
+    "by_brenda_davis_and": "by Brenda DAvis and Vesanto Melina",
+    "everything_you_need": "Everything you need to know about vegan nutrition. Advice for pregnant women, infants, kids, teens, the middle years, seniors, and athletes. Lots of sample meal plans.",
+    "vegan_freak": "Vegan Freak",
+    "by_bob_torres_and": "by Bob Torres and Jenna Torres\n",
+    "vegan_freak_offers": "VeganFreak offers solid advice for dealing with the non-vegan world. This is a book you'll want to keep handy, particularly if you are a new vegan trying to negotiate the grocery store, restaurants, and questions/challenges from friends and family.",
+    "generation_v": "Generation V: The Complete Guide To Going, Being, And Staying Vegan As A Teenager ",
+    "by_claire_askew": "by Claire Askew",
+    "essential_for_the_teen": "Essential for the teen vegan. Claire Askew is a talented writer who has filled a niche with \"Generation V\", providing vital information and support to teens who are vegans in a primarily non-vegan teen world.",
+    "introduction_to_animal_rights": "Introduction to Animal Rights: Your Child or the Dog?",
+    "by_gary_l_francione": "by Gary L. Francione",
+    "the_best_and_most_consistent": "The best and most consistent book ever written on animal rights.",
+    "it_caused_me_to_go": "It caused me to become vegan (and I am grateful for it).",
+    "be_the_change_you": "Be the change you want to see in the world",
+    "mohandas_gandhi": "Mohandas Gandhi"
   },
   "eat": {
     "title": "Eating",
