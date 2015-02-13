@@ -1,5 +1,5 @@
 KS        = require '../../lib-core/coffee/app'
-myScript  = require './myscript'
+videoLoader = require './videoLoader'
 
 document.addEventListener 'DOMContentLoaded', ->
-  myScript()
+  videoLoader()

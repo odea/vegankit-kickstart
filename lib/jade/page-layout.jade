@@ -1,5 +1,9 @@
 extends layout
 
+mixin vid-img(id)
+  div(data-vid-id="{{ videos.#{id} }}")
+    img
+
 block content
   .wrapper(data-page-type="single")
     section.page-content

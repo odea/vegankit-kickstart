@@ -1,0 +1,56 @@
+$circle-width: 100px
+$arrow-width: 30px
+
+[data-vid-id]
+  position: relative
+  cursor: pointer
+
+  &:before
+    content: " "
+    display: block
+    border-radius: 50%
+    width: $circle-width
+    height: $circle-width
+    margin:
+      top: -$circle-width/2
+      left: -$circle-width/2
+    position: absolute
+    background: rgba(0, 0, 0, 0.4)
+    top: 50%
+    left: 50%
+    border: 2px solid rgba(255, 255, 255, 0.5)
+
+  &:after
+    content: " "
+    display: block
+    width: 0
+    height: 0
+    position: absolute
+    top: 50%
+    left: 50%
+    margin:
+      top: -$arrow-width*(3/5)
+      left: -$arrow-width/4
+    border:
+      top: $arrow-width*(3/5) solid transparent
+      bottom: $arrow-width*(3/5) solid transparent
+      left: $arrow-width solid rgba(255, 255, 255, 0.5)
+
+  &:hover
+    &:before
+      border-color: white
+
+    &:after
+      border-left-color: white
+
+  &:active
+    &:before
+      border-color: black
+
+    &:after
+      border-left-color: black
+
+  img
+    display: block
+    max-width: 100%
+    margin: 0px auto

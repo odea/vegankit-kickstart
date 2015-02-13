@@ -15,7 +15,7 @@ block page-content
     | {{ as_you_can_see_veganism_is }}&nbsp;
     a(href="{{ links.0 }}") {{ while_vegans_follow }}
   aside
-    img(src="http://img.youtube.com/vi/{{ videos.0 }}/0.jpg")
+    +vid-img(0)
     h1 {{ dogs_cats_cows }}
     p {{ watch_this_video_of_a }}
   p {{ when_they_pass_away }}
@@ -110,7 +110,7 @@ block sidebar-content
 
   article
     h1 {{ frightened_cow_awaits }}
-    img(src="http://img.youtube.com/vi/{{ videos.1 }}/0.jpg")
+    +vid-img(1)
     p {{ this_footage_is_not }}
 
   article
@@ -120,13 +120,13 @@ block sidebar-content
 
   article
     h1 {{ im_vegan_phillip }}
-    img(src="http://img.youtube.com/vi/{{ videos.2 }}/0.jpg")
+    +vid-img(2)
     p {{ long_time_vegan }}
     p {{ read_the_we_are_all }}
 
   article
     h1 {{ the_faces_of_free_range }}
-    img(src="http://img.youtube.com/vi/{{ videos.3 }}/0.jpg")
+    +vid-img(3)
     p {{ footage_of_actual }}
 
   article
@@ -136,7 +136,7 @@ block sidebar-content
 
   article
     h1 {{ watch_the_earthlings }}
-    img(src="http://img.youtube.com/vi/{{ videos.4 }}/0.jpg")
+    +vid-img(4)
     p {{ warning_graphic_footage }}
     p {{ this_is_what_it_means }}
     p {{ its_easy_to_watch }}
@@ -144,13 +144,13 @@ block sidebar-content
 
   article
     h1 {{ the_truth_behind }}
-    img(src="http://img.youtube.com/vi/{{ videos.5 }}/0.jpg")
+    +vid-img(5)
     p {{ an_illustrated_account }}
     p {{ by_peaceful }}
 
   article
     h1 {{ the_truth_behind_eggs }}
-    img(src="http://img.youtube.com/vi/{{ videos.6 }}/0.jpg")
+    +vid-img(6)
     p {{ an_illustrated_account_eggs }}
     p {{ when_we_consume }}
 
@@ -164,7 +164,7 @@ block sidebar-content
 
   article
     h1 {{ breaking_the_set }}
-    img(src="http://img.youtube.com/vi/{{ videos.7 }}/0.jpg")
+    +vid-img(7)
     p {{ rutgers_law_professor }}
     p {{ eat_like_you_care }}
     p {{ and_website }}
