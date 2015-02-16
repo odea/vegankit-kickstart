@@ -3,6 +3,130 @@ extends ../page-layout
 block variables
   - var title = "{{ be.title }}"
   - var dataPage = "be"
+  - var butterfly = fs.readFileSync('lib/img/butterfly.svg')
 
 block page-content
-  h1 {{ be.title }}
+  | {{#be}}
+  header.page-header
+    != butterfly
+    h1 {{ title }}
+
+  blockquote
+    | {{ veganism_is_not }}
+    cite Gary L. Francione
+
+  h2 {{ where_to_start }}
+  p {{ some_of_our_newly }}
+  p {{ not_that_theres_anything }}
+  p
+    a(href="{{ links.0 }}") {{ try_out_some_of_our }}
+  p {{ weve_designed_these_recipes }}
+  p {{ we_also_recommend_converting }}
+  p {{ if_you_think_you_can }}
+
+  h2 {{ is_veganism_expensive }}
+  p {{ no_veganism_is_not_expensive }}
+  p {{ this_myth_is_also_perpetuated }}
+  p {{ veganism_is_actually_easy }}
+  p 
+    a(href="{{ links.1 }}") {{ ridiculously_easy_lunchbox }}
+  p {{ if_youre_not_a_fan_of_recipes }}
+  p 
+    a(href="{{ links.2 }}") {{ see_our_recipes }}
+  h2 {{ what_about_my_nonvegan }}
+  p {{ what_should_we_do_about }}
+  p {{ this_is_a_good_time }}
+  p {{ if_you_see_animals_as }}
+
+  h3 {{ what_about_buying }}
+  p {{ what_should_we_do_about }}
+  p {{ this_is_a_good_time }}
+  p {{ if_you_see_animals }}
+  p
+    a(href="{{ links.3 }}") {{ what_about_buying }}
+  
+  h2 {{ family_issues }}
+  p {{ even_though_youre_motivated }}
+  h3 {{ being_vegan_in_a }}
+  p {{ not_all_families_are }}
+  p {{ you_can_ease_any }}
+  p {{ as_for_your_familys }}
+
+  h3 {{ raising_vegan_children }}
+  p {{ plenty_of_vegans_have }}
+
+  h4 {{ check_out_these_blogs }}
+  ul
+    li
+      a(href="{{ links.4 }}") {{ our_precious }}
+      | {{ from_vegan_parent }}
+    li
+      a(href="{{ links.5 }}") {{ our_vegan_pregnancy }}
+      | {{ vegan_couple_lucas }}
+  
+  h2 {{ recommended_reading }}
+  ul
+    li
+      h3 {{ eat_like_you_care }}
+      h4 {{ by_gary_francione_and_anna }}
+      blockquote
+        | {{ brilliantly_written_clear }}
+
+    li
+      h3 {{ becoming_vegan }}
+      h4 {{ by_brenda_davis_and }}
+      blockquote
+        | {{ everything_you_need }}
+
+    li
+      h3 {{ vegan_freak }}
+      h4 {{ by_bob_torres_and }}
+      blockquote
+        | {{ vegan_freak_offers }}
+
+    li
+      h3 {{ generation_v }}
+      h4 {{ by_claire_askew }}
+      blockquote
+        | {{ essential_for_the_teen }}
+
+    li
+      h3 {{ introduction_to_animal_rights }}
+      h4 {{ by_gary_l_francione }}
+      blockquote
+        | {{ the_best_and_most_consistent }}
+
+      blockquote
+        | {{ it_caused_me_to_go }}
+
+  blockquote
+    | {{ be_the_change_you }}
+    cite Mohandas Gandhi
+
+  | {{/be}}
+
+block sidebar-content
+  | {{#be}}
+  article
+    h1 {{ watch-our-cartoon-ve }}
+
+  article
+    h1 {{ paola-on-staying-veg }}
+    p {{ on-her-regular-video }}
+
+  article
+    h1 {{ sam-tucker-on-being }}
+    p {{ host_of_food_for_thought }}
+
+  article
+    h1 {{ im-vegan-regina }}
+    p {{ regina-talks-about-h }}
+
+  article
+    h1 {{ michaels-fight }}
+    p {{ read-about-michaels }}
+
+  article
+    h1 {{ lucas-the-pig }}
+    p {{ read-about-lucass-un }}
+  | {{/be}}
