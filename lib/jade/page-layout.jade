@@ -5,6 +5,8 @@ mixin vid-img(id)
     img
 
 block content
+  include ./_includes/_page-nav.jade
+
   .wrapper(data-page-type="single")
     section.page-content
       block page-content

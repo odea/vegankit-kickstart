@@ -10,8 +10,11 @@ gulp.task('mustache', ['jade'], function() {
 
     var dir = (files[$i] == "en-us.json" ? "" : files[$i].replace('.json', '') + '/');
 
+    $json = requireJSON("./i18n/" + files[$i])
+    $json.rootDir = dir
+
     gulp.src(['./templates/**/*.html'])
-      .pipe(mustache(requireJSON("./i18n/" + files[$i])))
+      .pipe(mustache($json))
       .pipe(gulp.dest('./public/' + dir))
   }
 }) 
