@@ -16,20 +16,20 @@ var textFile = null,
   };
 
 function slugify(text) {
-return text.toString().toLowerCase()
+return Math.floor(Math.random() * (100)) + "-" + text.toString().toLowerCase()
 .replace(/\s+/g, '-') // Replace spaces with -
 .replace(/[^\w\-]+/g, '') // Remove all non-word chars
 .replace(/\-\-+/g, '-') // Replace multiple - with single -
 .replace(/^-+/, '') // Trim - from start of text
 .replace(/-+$/, ''); // Trim - from end of text
-} 
+}
 
 var $json = new Object();
 
-for (var $i = 0; $i < $pieces.length; $i++) { 
+for (var $i = 0; $i < $pieces.length; $i++) {
   $piece = $pieces[$i];
   $slug = slugify($piece.innerHTML).substr(0, 20)
   $json[$slug] = $piece.innerHTML
 }
- 
+
 document.location.href = makeTextFile(JSON.stringify($json));
