@@ -12,6 +12,8 @@
 @import pages/_learn
 
 @import components/_vid-img
+@import components/_page-nav
+@import components/_icon-list
 
 footer.main
   .wrapper
@@ -23,3 +25,15 @@ img
   max-width: 100%
   display: block
 
+blockquote
+  font-family: $blockquote-font-family
+  font-size: 2rem
+  margin-right: 0
+  quotes: "\201C""\201D""\2018""\2019"
+
+  &:before
+    content: open-quote
+    font-size: 4.5rem
+    margin-top: -30px
+    position: absolute
+    left: 30px

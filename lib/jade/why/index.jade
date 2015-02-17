@@ -3,10 +3,15 @@ extends ../page-layout
 block variables
   - var title = "{{ why.title }}"
   - var dataPage = "why"
+  - var cow = fs.readFileSync('lib/img/cow.svg')
 
 block page-content
   | {{#why}}
-  h1 {{ title }}
+
+  header.page-header
+    != cow
+    h1 {{ title }}
+
   h2 {{ definition_of_veganism }}
   p 
     | {{{ the_word_vegan_was_coined }}}
@@ -14,10 +19,12 @@ block page-content
   p 
     | {{ as_you_can_see_veganism_is }}&nbsp;
     a(href="{{ links.0 }}") {{ while_vegans_follow }}
-  aside
+
+  aside.featurette
     +vid-img(0)
     h1 {{ dogs_cats_cows }}
     p {{ watch_this_video_of_a }}
+    
   p {{ when_they_pass_away }}
 
   h2 {{ moral_dissonance }}

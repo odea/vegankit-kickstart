@@ -17,7 +17,7 @@ gulp.task('sass', ['images'], function() {
         process.cwd() + '/lib-core/sass'
       ]
     }))
-    .pipe(prefix('last 2 versions'))
     .pipe(purge())
+    .pipe(prefix(['> 1%', 'last 2 versions', 'Firefox ESR', 'Opera 12.1']))
     .pipe(gulp.dest(dest));
 });

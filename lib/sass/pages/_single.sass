@@ -42,5 +42,39 @@
 
   h1
     +heading_lg
-    font-weight: 400
-    text-align: center
+
+  .page-header
+    margin: $space*3 0
+
+    svg 
+      margin: 0px auto
+      margin-bottom: -$space/2
+      width: $space*4
+      height: $space*4
+      display: block
+
+      g
+        fill: white
+
+    h1
+      color: white
+      margin-top: 0
+      text-align: center
+      font-weight: 300
+    
+  .featurette
+    background: rgba(255, 255, 255, 0.8)
+    overflow: hidden
+    padding: $space
+      bottom: 0
+    margin:
+      left: -$space
+      right: -$space
+      bottom: $space
+
+    iframe
+      padding: 0
+      margin-bottom: 0
+
+  p
+    +p(true)
