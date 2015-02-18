@@ -30,6 +30,10 @@ for (var $i = 0; $i < $pieces.length; $i++) {
   $piece = $pieces[$i];
   $slug = slugify($piece.innerHTML).substr(0, 20)
   $json[$slug] = $piece.innerHTML
+    .replace("<strong>", "")
+    .replace("</strong>", "")
+    .replace("<em>", "")
+    .replace("</em>", "")
 }
 
 document.location.href = makeTextFile(JSON.stringify($json));
