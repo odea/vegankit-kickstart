@@ -3,6 +3,15 @@ extends ../page-layout
 block variables
   - var title = "{{ learn.title }}"
   - var dataPage = "learn"
+  - var tree = fs.readFileSync('lib/img/tree.svg')
 
 block page-content
-  h1 {{ learn.title }}
+  | {{#learn}}
+  header.page-header
+    != tree
+    h1 {{ learn.title }}
+  | {{/learn}}
+
+block sidebar-content
+  | {{#learn}}
+  | {{/learn}}

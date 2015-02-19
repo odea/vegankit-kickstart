@@ -3,6 +3,15 @@ extends ../page-layout
 block variables
   - var title = "{{ wear.title }}"
   - var dataPage = "wear"
+  - var shoe = fs.readFileSync('lib/img/shoe.svg')
 
 block page-content
-  h1 {{ wear.title }}
+  | {{#wear}}
+  header.page-header
+    != shoe
+    h1 {{ wear.title }}
+  | {{/wear}}
+
+block sidebar-content
+  | {{#wear}}
+  | {{/wear}}
