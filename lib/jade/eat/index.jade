@@ -3,6 +3,253 @@ extends ../page-layout
 block variables
   - var title = "{{ eat.title }}"
   - var dataPage = "eat"
+  - var apple = fs.readFileSync('lib/img/apple.svg')
 
 block page-content
-  h1 {{ eat.title }}
+  | {{#eat}}
+  header.page-header
+    != apple
+    h1 {{ title }}
+
+  h2 {{ 72-about-the-vegan-d }}
+  p {{ 64-a-vegan-diet-is-o }}
+  p {{ 38-eating-vegan-does }}
+
+  h2 {{ 94-isnt-vegan-food-b }}
+  p {{ 40-a-popular-myth-is }} 
+  p {{ special_foods }}
+  p {{ 44-common-vegan-dish }}
+
+  h2 {{ 80-nutrition-amp-hea }}
+  p {{ 20-nutritional-defic }}
+  p {{ 92-strongproteinstro }}
+  p {{ 72-we-highly-recomme }}
+  p {{ 16-also-be-sure-to-c }}
+  p {{ 59-strongcalciumstro }}
+  p {{ 70-emwhen-purchasing }}
+  p {{ 21-strongironstrong- }}
+
+  h3 {{ 1-emtipsem }}
+  p {{ 95-vitamin-c-rich-fo }}
+  p {{ 95-40-vegan-foods-th }}
+  p {{ 2-strongb12strong-20 }}
+  p {{ 55-buy-nutritional-y }}
+  p {{ 42-buy-vitamin-b12-t }}
+  p {{ 91-strongomega-3stro }}
+  p {{ 79-according-to-mich }}
+  p {{ 41-dha-a-hrefhttpwww }}
+  p {{ 6-available-at-v-pur }}
+  p {{ or }}
+  p {{ 19-natural-healthy-c }}
+  p {{ 22-strongvitamin-dst }}
+  p {{ 5-buy-vegan-vitamin }}
+  p {{ note_vitamin_D3 }}
+  p {{ 19-important-if-you }}
+  p {{ 16-disclaimer-the-in }}
+
+  h2 {{ 10-special-foods }}
+  p {{ 66-spend-some-time-w }}
+  p {{ 27-tempeh }}
+  p {{ 6-tempeh-tem-pea-or }}
+  p {{ 35-check-out-our-tem }}
+  p {{ 55-tofu }}
+  p {{ 77-tofu-is-a-solid-f }}
+  p {{ 29-scrambled-tofu }}
+  p {{ a_dinner_dish_like }}
+  p {{ 84-pan-fried-tofu }}
+  p {{ 58-or-even-a-chocola }}
+  p {{ tofu_gets_a_bad }}
+  p {{ 24-seitan }}
+  p {{ 41-seitan-is-a-chewy }}
+  p {{ 86-like-tempeh-seita }}
+  p {{ 75-try-seitan-brocco }}
+  p {{ 50-nutritional-yeast }}
+  p {{ 31-nutritional-yeast }}
+  p {{ 96-red-star-nutritio }}
+  
+  h2 {{ 80-ingredients }}
+  p {{ 31-the-number-of-non }} 
+  h3 {{ 92-common-nonvegan-i }}
+  p {{ 8-casein }}
+  p {{ casein_is_a_protein }}
+  p {{ 67-carminecarminic-a }}
+  p {{ also_known_as }}
+  p {{ 72-beeswax }}
+  p {{ beeswax_as_the }}
+  p {{ 31-why-isnt-honeybee }}
+  p {{ 62-gelatin }}
+  p {{ 6-stronga-target_bla }}
+  p {{ 76-some-alcoholic-be }}
+  p {{ some_alcohols_use }}
+  p {{ 35-to-find-out-if-yo }}
+  p {{ 90-you-can-also-opt }}
+  p {{ 29-lactose }}
+  p {{ lactose_is_a_protein }}
+  p {{ 74-lanolin }}
+  p {{ 47-stronga-target_bl }}
+  p {{ 7-vitamin-d3 }}
+  p {{ 34-stronga-target_bl }}
+  p {{ 29-whey }}
+  p {{ 49-stronga-target_bl }}
+
+  h2 {{ 13-replacements }}
+  p {{ 0-here-are-some-quic }}
+  p {{ 71-eggs }}
+  p {{ apple-sauce }}
+  p {{ 36-strongapple-sauce }}
+  p {{ ground_flax_seed }}
+  p {{ 28-strongground-flax }}
+  p {{ banana }}
+  p {{ 17-strongbananastron }}
+  p {{ baking-soda-powder }}
+  p {{ 28-strongbaking-soda }}
+  p {{ 34-milk }}
+  p {{ soy-oat-hemp }}
+  p {{ 20-strongsoyoathempa }}
+  p {{ vegetable-oil }}
+  p {{ 15-strongvegetable-o }}
+
+  h2 {{ 66-recipes }}
+  p {{ 93-thinking-about-wh }}
+  p {{ 75-pancakes-from-veg }}
+  p {{ 92-breakfast }}
+  p {{ 84-fresh-fruit }}
+  p {{ 29-apple-peanut-butt }}
+  p {{ 66-green-smoothie }}
+  p {{ 96-oatmeal }}
+  p {{ 79-vegan-cereal-with }}
+  p {{ 96-cream-of-wheat-ho }}
+  p {{ 28-scrambled-tofu }}
+  p {{ 23-tempeh-bacon }}
+  p {{ 88-pancakes }}
+  p {{ 7-french-toast-1 }}
+  p {{ 31-2 }}
+  p {{ 46-waffles }}
+  p {{ 44-vegan-homemade-sa }}
+  p {{ 87-mango-breakfast-p }}
+  p {{ 76-fat-free-blueberr }}
+
+  h3 {{ 19-lunch }}
+  p {{ 51-smokey-miso-tofu }}
+  p {{ 85-falafel }}
+  p {{ 35-grilled-peanut-bu }}
+  p {{ 0-asparagus-pesto-pa }}
+  p {{ 75-smokey-miso-tofu }}
+  p {{ 62-reuben-sandwich }}
+  p {{ 18-vegan-grilled-che }}
+  p {{ 59-avocado-wasabi-sa }}
+  p {{ 88-easy-mexican-red }}
+  p {{ 39-spicy-chili-bean }}
+  p {{ 66-delicata-squash-b }}
+  p {{ 95-carrot-ginger-sou }}
+  p {{ 67-ridiculously-easy }}
+  p {{ 32-pesto-cashew-rico }}
+  p {{ 80-baked-corndogs }}
+
+  h3 {{ 17-dinner }}
+  p {{ 50-alfredo-pasta-fro }}
+  p {{ 35-burritos }}
+  p {{ 92-chickpea-and-avoc }}
+  p {{ 23-pasta-bolognese }}
+  p {{ 13-pan-fried-tofu-ka }}
+  p {{ 44-mushroom-kale-ric }}
+  p {{ 88-jeweled-basmati-r }}
+  p {{ 18-mac-and-cheese }}
+  p {{ 2-tacos }}
+  p {{ 7-smoked-southwester }}
+  p {{ 75-seitan-and-brocco }}
+  p {{ 77-orange-couscous-c }}
+  p {{ 2-wild-mushroom-tost }}
+  p {{ 18-easy-pasta-with-o }}
+  p {{ 81-chana-masala }}
+
+  h3 {{ 95-snacks-and-sweets }}
+  p {{ 60-mini-coconut-bloo }}
+  p {{ 52-sugar-cookies }}
+  p {{ 99-pumpkin-cheesecak }}
+  p {{ 94-raspberry-chocola }}
+  p {{ 85-brownies-gluten-f }}
+  p {{ 32-double-chocolate }}
+  p {{ 65-apple-pie-coffee }}
+  p {{ 3-vegan-twix-bars }}
+  p {{ 0-carrot-cake-cupcak }}
+  p {{ 25-peanut-butter-fud }}
+  p {{ 32-rice-crispy-treat }}
+  p {{ 46-chocolate-berry-p }}
+  p {{ 62-blueberry-hand-pi }}
+  p {{ 60-oatmeal-raisin-co }}
+  p {{ 91-for-purposes-of-r }}
+
+  p {{ 55-from-vegan-yum-yu }}
+  p {{ 42-food-blogs }}
+  p {{ 85-happy-healthy-lif }}
+  p {{ 56-vegan-yum-yum }}
+  p {{ 62-the-vegan-stoner }}
+  p {{ 62-vegan-dad }}
+  p {{ 68-manifest-vegan }}
+  p {{ 1-vegan-richa }}
+  p {{ 48-vegan-feast-kitch }}
+  p {{ 20-olives-for-dinner }}
+  p {{ 33-big-raw }}
+  p {{ 80-veganacious }}
+  p {{ 27-vegan-eats-and-tr }}
+  p {{ 0-happy-herbivore }}
+  p {{ 47-so-what-do-vegans }}
+  p {{ 10-fat-free-vegan-ki }}
+  p {{ 36-meet-the-shannons }}
+  p {{ 47-awesome-vegan-blo }}
+  p {{ 94-oh-she-glows }}
+  p {{ 16-vegan-crunk }}
+  p {{ 79-the-snarky-chickp }}
+  p {{ 24-seitan-is-my-moto }}
+  p {{ 12-ginger-is-the-new }}
+  p {{ 60-i-eat-trees }}
+
+  h2 {{ 37-cookbooks }}
+  h3 {{ 79-the-new-american }}
+  p {{ by_vincent_j }}
+  p {{ 48-weaving-together }}
+  p {{ 26-clear-text-provid }}
+  p {{ 61-vegan-yum-yum }}
+
+  p {{ 61-vegan-yum-yum }}
+  p {{ 14-the-30-minute-veg }}
+  p {{ 3-color-me-vegan }}
+  p {{ 11-the-quick-fix }}
+  p {{ 30-1000-vegan-recipe }}
+  p {{ 3-the-vegan-diner }}
+
+  h3 {{ 1-vegan-yum-yum-smal }}
+  p {{ by_lauren_ulm }}
+  p {{ 78-when-lauren-ulm-w }}
+  p {{ 31-here-in-her-debut }}
+
+  p {{ 31-happy-herbivore }}
+  p {{ 35-candle-79-cookboo }}
+  p {{ 32-how-it-all-vegan }}
+  p {{ 62-the-vegan-deli }}
+  p {{ 4-alternative-vegan }}
+  p {{ 38-vegan-fire-and-sp }}
+
+  h3 {{ 6-the-vegan-table-sm }}
+  p {{ by_colleen_patrick }}
+  p {{ 35-a-celebration-of }}
+  p {{ 0-packed-with-invalu }}
+  p {{ 86-organized-by-them }}
+
+  p {{ 6-veganomicon }}
+  p {{ 21-eat-drink-and-be }}
+  p {{ 33-vegan-italiano }}
+  p {{ 2-viva-vegan }}
+  p {{ 87-vegan-with-a-veng }}
+  p {{ 82-tofu-1-2-3 }}
+  p {{ 67-the-cookbook-for }}
+  p {{ 10-the-meditterranea }}
+
+  h3 {{ 47-let-them-eat-vega }}
+  p {{ by_dreena_burton }}
+  p {{ 41-vegan-food-has-co }}
+  p {{ 48-it-has-evolved-in }}
+  p {{ 61-theres-no-relying }}
+
+  | {{/eat}}
