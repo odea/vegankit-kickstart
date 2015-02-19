@@ -3,6 +3,9 @@
     "title": "Vegan Starter Kit"
   },
   "why": {
+    "linkTitles": [
+      "While vegans follow an animal-free diet, they also do not wear animals or use them for entertainment or any other purpose."
+    ],
     "links": [
       "/products",
       "/#health",
