@@ -5,7 +5,7 @@ mixin vid-img(id)
     img
 
 mixin link(id)
-  a(href="{{ links.#{id} }}") {{ linkTitles.#{id} }}
+  a(href="{{ links.#{id}.href }}") {{ links.#{id}.title }}
 
 block content
   include ./_includes/_page-nav.jade

@@ -3,10 +3,14 @@
     "title": "Vegan Starter Kit"
   },
   "why": {
-    "linkTitles": [
-      "While vegans follow an animal-free diet, they also do not wear animals or use them for entertainment or any other purpose."
+    "images": [
+      
     ],
     "links": [
+      {
+        "title": "While vegans follow an animal-free diet, they also do not wear animals or use them for entertainment or any other purpose.",
+        "href": "/use"
+      },
       "/products",
       "/#health",
       "http://govegannow.com/free-range.html",
