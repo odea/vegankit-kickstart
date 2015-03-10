@@ -8,7 +8,7 @@ mixin link(id)
   a(href="{{ links.#{id}.href }}") {{ links.#{id}.title }}
 
 mixin img(id)
-  img(src="/img/{{ images.#{id} }}")
+  img(src="/img/{{ shortTitle }}/{{ images.#{id} }}.jpg")
 
 block content
   include ./_includes/_page-nav.jade
