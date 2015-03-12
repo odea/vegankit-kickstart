@@ -4,20 +4,38 @@
   },
   "why": {
     "images": [
-      "pigndog"
+      "pigndog",
+      "pigstoslaughter"
     ],
     "links": [
       {
         "title": "While vegans follow an animal-free diet, they also do not wear animals or use them for entertainment or any other purpose.",
         "href": "/use"
       },
-      "/products",
-      "/#health",
-      "http://govegannow.com/free-range.html",
-      "http://www.care2.com/causes/making-a-killing-with-animal-welfare-reform.html",
-      "https://uvearchives.wordpress.com/2008/09/09/what-is-wrong-with-vegetarianism/",
-      "/be",
-      "/eat#nutrition",
+      {
+        "title": "We certainly do not need to eat animal products to be healthy; we do so only because it is a habit and we enjoy the taste of these products.",
+        "href": "/products"
+      },
+      {
+        "title": "Asking how \"well\" we should treat animals is the wrong question in the first place. Supposed \"happy\" animals are really treated no differently than those in factory farms.",
+        "href": "http://govegannow.com/free-range.html"
+      },
+      {
+        "title": "As long as these animals are objects of property, they cannot have rights.",
+        "href": "http://www.care2.com/causes/making-a-killing-with-animal-welfare-reform.html"
+      },
+      {
+        "title": "Vegetarianism = enslavement, torture, exploitation and slaughter of animals.",
+        "href": "https://uvearchives.wordpress.com/2008/09/09/what-is-wrong-with-vegetarianism/"
+      },
+      {
+        "title": "To learn more about becoming vegan, visit our Becoming Vegan page.",
+        "href": "/be"
+      },
+      {
+        "title": "Check out our nutrition section for more information on plant based diets.",
+        "href": "/eat#nutrition"
+      },
       "http://www.thechinastudy.com/",
       "/learn#sentience",
       "http://www.abolitionistapproach.com/faqs/",
@@ -50,37 +68,33 @@
     "veganism_is_a_way_of_living": "Veganism is a way of living that seeks to exclude, as far as possible and practicable, all forms of exploitation of, and cruelty to, animals for food, clothing and any other purpose.",
     "as_you_can_see_veganism_is": "As you can see, veganism is not defined as a diet, but a way of living.",
     "our_relationship_with_animals": "Our Relationship with Animals",
+    "animals_are_a_constant": "Animals are a constant part of our lives. They share our homes, our beds, and we even consider them members of our family. While they may not be able to balance a checkbook or speak our language, we value them highly. We interact with them and we often turn to them for emotional support.",
     "while_vegans_follow": "While vegans follow an animal-free diet, they also do not wear animals or use them for entertainment or any other purpose.",
     "dogs_cats_cows": "Dogs, Cats, and Cows, What's the difference?",
     "watch_this_video_of_a": "Watch this video of a rescued cow from the For the Animals Sanctuary playing with his new ball.",
     "when_they_pass_away": "When they pass away, we mourn them. We no doubt also believe that they enjoy being alive as much as they enjoy the company of others. Yet, for other animals, we stick forks and knives into their bodies and wear their skin as clothing.",
     "moral_dissonance": "Moral Dissonance",
     "if_it_is_wrong_to_act": "If it is wrong to act violently to a dog or cat just for enjoyment or convenience, how can we justify the horrible things we do to other animals?",
-    "we_certainly_do_not_need": "We certainly do not need to eat animal products to be healthy; we do so only because it is a habit and we enjoy the taste of these products.",
     "some_of_us_try": "Some of us try to address this inconsistency by purchasing products that are marketed as “humane” or as produced \"ethically.\" However, as you’ll see, these words are meaningless and actually do very little to give animals a better life.",
     "in_any_case_these_terms": "In any case, these terms encourage the public to believe it is okay to exploit animals simply because we enjoy it. This strange contradiction is our moral dissonance. We can overcome this social affliction and respect life by going vegan.",
     "cant_we_just_consume_humane": "Can't We Just Consume \"Humane\" Animal Products?",
-    "asking_how_well_we_should": "Asking how \"well\" we should treat animals is the wrong question in the first place. Supposed \"happy\" animals are really treated no differently than those in factory farms.",
     "for_example_there_are_no": "For example, there are no special transport vehicles for \"humanely-raised\" animals. The process of transport is the same as conventional animals and is a miserable, often fatal experience. Animals are forced onto trucks with weapons, prods, and even forklifts. Inside, it doesn’t matter if the animals are terrified or in pain, as long as they get to the slaughterhouse alive.",
     "as_with_any_other_form": "As with any other form of industrialized animal use, consumers have the choice either to participate in it or to refuse the products of exploitation and opt out of the demand-supply cycle altogether...",
     "humans_have_no_need": "...Humans have no need for animal products, and the increasing number of vegans on the planet is a testament to how easy it is to live a healthy, fulfilling life without participating in the systematic abuse and unnecessary killing that goes on in the animal industry every day.",
     "angel_flinn": "Angel Flinn\n",
     "animals_suffer_from_cold": "Animals suffer from cold, hunger, thirst, untreated infections, and illnesses during transport. This is not, however, a matter of irresponsible slaughterhouse workers.",
-    "as_long_as_these_animals": "As long as these animals are objects of property, they cannot have rights.",
     "to_some_humane_legislation": "To some, \"humane\" legislation appears to get us closer to having better lives for animals. Animal welfare legislation calls for larger confinements and methods of slaughter which supposedly cause less pain. However, these reforms are industry practices which do away with economically wasteful and outdated practices.",
     "animal_welfare_fosters_more": "Animal welfare fosters more economically beneficial standards for producers and makes the public feel better about exploiting animals through marketing. It’s not about \"them,\" the producers, it’s about us. We are the consumers, we are the ones paying for this practice to happen. The first, most important thing we can do to address this violence is to go vegan.\n",
     "the_use_of_humane_slaughter": "[The use of humane slaughter methods]...results in safer and better working conditions…brings about the improvement of products and economies in slaughtering operations; and produces other benefits for producers, processors, and consumers which tend to expedite an orderly flow of livestock and livestock products...",
     "united_states_humane_slaughter": "United States Humane Methods of Slaughter Act.",
     "notice_the_lack_of_any": "(Notice the lack of any mention of an animal's wellbeing. Welfarism is about using animals efficiently and cost-effectively.)",
     "should_i_go_vegetarian": "Should I Go Vegetarian?",
-    "vegetarianism_equals": "Vegetarianism = enslavement, torture, exploitation and slaughter of animals",
     "veganism_may_seem_way": "Veganism may seem way out from what you’re used to, and that’s understandable. However, you’ll find it to be easier than you think no matter what your circumstances. People from small towns, with food intolerances, and just plain pickiness have gone vegan overnight!",
     "but_if_for_some_reason": "But if for some reason you’re thinking you may want to go vegetarian first, remember: vegetarianism means you’ll still be eating animal products and not necessarily less. You'll still be supporting the use of animals. All animal use involves unspeakable violence.",
-    "dont_i_need_animal_products": "Don't I Need Animal Products To Be Healthy?",
+    "dont_i_need_animal": "Don't I Need Animal Products To Be Healthy?",
     "properly_planned_vegan_diets": "[Properly planned vegan diets] are healthful, nutritionally adequate, and may provide health benefits in the prevention and treatment of certain diseases….are appropriate for individuals during all stages of the life cycle, including pregnancy, lactation, infancy, childhood, and adolescence, and for athletes.",
     "america_dietetic_association": "American Dietetic Association Volume 109, Issue 7, Pages 1266-1282 (July 2009)",
     "not_only_are_animal_products": "Not only are animal products unnecessary for optimal health, an increasing number of nutritionists and health professionals are acknowledging animal products are harmful to our health. Meanwhile, a healthy vegan diet helps reduce the risk of heart disease, cancer, obesity, and diabetes.",
-    "check_out_our_nutrition": "Check out our nutrition section for more information on plant based diets.",
     "the_china_study": "The China Study",
     "by_t_colin_campbell": "by T. Colin Campbell is arguably the most comprehensive study on nutrition ever done. Campbell provides compelling evidence linking animal products to disease, including cancer, heart disease, osteoporosis, diabetes, etc.",
     "sentience_is_all": "Sentience is all that matters:",

@@ -23,6 +23,7 @@ block page-content
   +img(0)
 
   h2 {{ our_relationship_with_animals }}
+  p {{ animals_are_a_constant }}
 
   aside.featurette
     +vid-img(0)
@@ -33,19 +34,23 @@ block page-content
 
   h2 {{ moral_dissonance }}
   p 
-    | {{ if_it_is_wrong_to_act }}
-    a(href="{{ links.1 }}") {{ we_certainly_do_not_need }}
+    | {{ if_it_is_wrong_to_act }}&nbsp;
+    +link(1)
   p {{ some_of_us_try }}
   p {{ in_any_case_these_terms }}
   h2 {{ cant_we_just_consume_humane }}
-  p {{ asking_how_well_we_should }}
+  p
+    +link(2)
   p {{ for_example_there_are_no }}
-  p {{ as_with_any_other_form }}
+  blockquote
+    | {{ as_with_any_other_form }}
+  +img(1)
   blockquote
     | {{ humans_have_no_need }}
     cite {{ angel_flinn }}
-  p {{ animals_suffer_from_cold }}
-  p {{ as_long_as_these_animals }}
+  p 
+    {{ animals_suffer_from_cold }}&nbsp;
+    +link(3)
   p {{ to_some_humane_legislation }}
   p {{ animal_welfare_fosters_more }}
   blockquote 
@@ -54,15 +59,19 @@ block page-content
   p {{ notice_the_lack_of_any }}
 
   h2 {{ should_i_go_vegetarian }}
-  p {{ vegetarianism_equals }}
+  p
+    +link(4)
   p {{ veganism_may_seem_way }}
   p {{ but_if_for_some_reason }}
-  p {{ dont_i_need_animal_products }}
+  p
+    +link(5)
+  h2 {{ dont_i_need_animal }}
   blockquote
     | {{ properly_planned_vegan_diets }}
     cite {{ america_dietetic_association }}
   p {{ not_only_are_animal_products }}
-  p {{ check_out_our_nutrition }}
+  p
+    +link(6)
   p 
     a(href="") {{ the_china_study }}
     | {{ by_t_colin_campbell }}
