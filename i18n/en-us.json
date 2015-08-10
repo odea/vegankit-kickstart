@@ -36,20 +36,62 @@
         "title": "Check out our nutrition section for more information on plant based diets.",
         "href": "/eat#nutrition"
       },
-      "http://www.thechinastudy.com/",
-      "/learn#sentience",
-      "http://www.abolitionistapproach.com/faqs/",
-      "/eat#planyourmeal",
-      "/learn#book",
-      "/use#vendors",
-      "http://www.abolitionistapproach.com/media/pdf/philadelphia-daily-news-20090814.pdf",
-      "http://www.peacefulprairie.org/",
-      "/why#humane",
-      "https://www.youtube.com/user/PeacefulAbolitionist",
-      "http://peacefulprairie.blogspot.com/2010/06/place-to-live.html",
-      "http://peacefulprairie.blogspot.com/2009/06/libby-and-louie-love-story_21.html",
-      "http://www.eatlikeyoucarebook.com/\n",
-      "http://www.abolitionistapproach.com/"
+      {
+        "title": "The China Study",
+        "href": "http://www.thechinastudy.com/"
+      },
+      {
+        "title": "Regardless of how \"intelligent\" an animal may be, if they are sentient, they ought to have the basic right not to be a commodity.",
+        "href": "/learn#sentience"
+      },
+      {
+        "title": "Vegan FAQ",
+        "href": "http://www.abolitionistapproach.com/faqs/"
+      },
+      {
+        "title": "Plan a Vegan Meal",
+        "href": "/eat#planyourmeal"
+      },
+      {
+        "title": "Books on Animal Rights",
+        "href": "/learn#book"
+      },
+      {
+        "title": "Vegan Vendors",
+        "href": "/use#vendors"
+      },
+      {
+        "title": "Read the We are All Michael Vick article from this video",
+        "href": "http://www.abolitionistapproach.com/media/pdf/philadelphia-daily-news-20090814.pdf"
+      },
+      {
+        "title": "Footage of actual \"free range\" birds brought into the Peaceful Prairie Sanctuary.",
+        "href": "http://www.peacefulprairie.org/"
+      },
+      {
+        "title": "The issue is not treatment but use.",
+        "href": "/why#humane"
+      },
+      {
+        "title": "By Peaceful Abolitionist",
+        "href": "https://www.youtube.com/user/PeacefulAbolitionist"
+      },
+      {
+        "title": "A Calf without a Name",
+        "href": "http://peacefulprairie.blogspot.com/2010/06/place-to-live.html"
+      },
+      {
+        "title": "Libby and Louie, A Love Story",
+        "href": "http://peacefulprairie.blogspot.com/2009/06/libby-and-louie-love-story_21.html"
+      },
+      {
+        "title": "Eat Like You Care Cookbook",
+        "href": "http://www.eatlikeyoucarebook.com/\n"
+      },
+      {
+        "title": "AbolitionistApproach",
+        "href": "http://www.abolitionistapproach.com/"
+      }
     ],
     "videos": [
       "GQvukhDinII",
