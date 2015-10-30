@@ -212,7 +212,14 @@
   },
   "be": {
     "links": [
-      "/eat#planyourmeal",
+      {
+        "title": "Q&A with an actual vegan",
+        "href": "https://thehealthypursuitblog.wordpress.com/2014/06/06/life-as-a-vegan/"
+      },
+      {
+        "title": "Plan your Meal (location?)",
+        "href": "/eat#planyourmeal"
+      },
       "http://blog.fatfreevegan.com/2008/02/ridiculously-easy-lunchbox-enchilada.html",
       "/eat#planyourmeal",
       "/wear#recycled",
