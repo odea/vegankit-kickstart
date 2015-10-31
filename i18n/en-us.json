@@ -217,22 +217,61 @@
         "href": "https://thehealthypursuitblog.wordpress.com/2014/06/06/life-as-a-vegan/"
       },
       {
-        "title": "Plan your Meal (location?)",
+        "title": "Try out some of our excellent vegan recipes",
         "href": "/eat#planyourmeal"
       },
-      "http://blog.fatfreevegan.com/2008/02/ridiculously-easy-lunchbox-enchilada.html",
-      "/eat#planyourmeal",
-      "/wear#recycled",
-      "http://ourpreciousrose.blogspot.com/s",
-      "http://ourveganpregnancy.blogspot.com/",
-      "http://www.eatlikeyoucarebook.com/",
-      "http://www.amazon.com/Becoming-Vegan-Complete-Adopting-Plant-Based/dp/1570671036/ref=sr_1_2?s=books&ie=UTF8&qid=1337692830&sr=1-2",
-      "http://www.amazon.com/Vegan-Freak-Being-Non-Vegan-World/dp/1604860154/ref=sr_1_1?s=books&ie=UTF8&qid=1337693350&sr=1-1",
-      "http://www.amazon.com/Generation-Complete-Guide-Staying-Teenager/dp/1604863382/ref=sr_1_1?s=books&ie=UTF8&qid=1337693465&sr=1-1",
-      "http://www.amazon.com/Introduction-Animal-Rights-Your-Child/dp/1566396921/ref=sr_1_1?s=books&ie=UTF8&qid=1337693289&sr=1-1",
-      "http://www.amazon.com/American-Vegan-Tofu-Hound-Press/dp/1604860790",
-      "https://www.youtube.com/user/porolita22",
-      "https://fftradio.wordpress.com/"
+      {
+        "title": "Ridiculously Easy Lunchbox Enchilada anyone?",
+        "href": "http://blog.fatfreevegan.com/2008/02/ridiculously-easy-lunchbox-enchilada.html"
+      },
+      {
+        "title": "See our recipes",
+        "href": "/eat#planyourmeal"
+      },
+      {
+        "title": "What about buying secondhand?",
+        "href": "/wear#recycled"
+      },
+      {
+        "href": "http://ourpreciousrose.blogspot.com/s",
+        "title": "Our Precious Rose"
+      },
+      {
+        "href": "http://ourveganpregnancy.blogspot.com/",
+        "title": "Our Vegan Pregnancy"
+      },
+      {
+        "title": "Eat Like you Care",
+        "href": "http://www.eatlikeyoucarebook.com/"
+      },
+      {
+        "href": "http://www.amazon.com/Becoming-Vegan-Complete-Adopting-Plant-Based/dp/1570671036/ref=sr_1_2?s=books&ie=UTF8&qid=1337692830&sr=1-2",
+        "title": "Becoming Vegan"
+      },
+      {
+        "href": "http://www.amazon.com/Vegan-Freak-Being-Non-Vegan-World/dp/1604860154/ref=sr_1_1?s=books&ie=UTF8&qid=1337693350&sr=1-1",
+        "title": "Vegan Freak"
+      },
+      {
+        "href": "http://www.amazon.com/Generation-Complete-Guide-Staying-Teenager/dp/1604863382/ref=sr_1_1?s=books&ie=UTF8&qid=1337693465&sr=1-1",
+        "title": "Generation V: The Complete Guide to Going, Being, and Staying Vegan as a Teenager"
+      },
+      {
+        "href": "http://www.amazon.com/Introduction-Animal-Rights-Your-Child/dp/1566396921/ref=sr_1_1?s=books&ie=UTF8&qid=1337693289&sr=1-1",
+        "title": "Introduction to Animal Rights: Your Child or the Dog?"
+      },
+      {
+        "href": "http://www.amazon.com/American-Vegan-Tofu-Hound-Press/dp/1604860790",
+        "title": "Created by Vincent Guihain"
+      },
+      {
+        "href": "https://www.youtube.com/user/porolita22",
+        "title": "See more of Paola's videos"
+      },
+      {
+        "href": "https://fftradio.wordpress.com/",
+        "title": "Host of Food For Thought Radio"
+      }
     ],
     "videos": [
       "KPkK-OBZ4Xs",
