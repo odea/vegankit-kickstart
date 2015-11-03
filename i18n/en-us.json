@@ -347,6 +347,20 @@
     "read-about-lucass-un": "Read about Lucas's unrequited love."
   },
   "eat": {
+    "links": [
+      {
+        "title": "Also, be sure to check out The Boston Vegan Association’s Nutritional Pamphlet",
+        "href": "http://www.internationalvegan.org/boston/"
+      },
+      {
+        "href": "http://thevegantruth.blogspot.co.nz/2012/06/40-vegan-foods-their-scientifically.html",
+        "title": "40 Vegan Foods: Their Scientifically-Proven Health Benefits"
+      },
+      {
+        "title": "Nutritional Yeast",
+        "link": "http://www.veganstore.com/category/s?keyword=nutritional+yeast"
+      }
+    ],
     "title": "Eating",
     "shortTitle": "Eat",
     "72-about-the-vegan-d": "About the Vegan Diet",
@@ -360,7 +374,6 @@
     "20-nutritional-defic": "Nutritional deficiencies are a concern for everyone. While vegans statistically enjoy longer life spans than the average human being, we are not exempt from this reality. First and foremost, you should ensure you are receiving enough Vitamin B-12, Omega-3, and Vitamin D. See below for more detailed information on vegan nutrition.",
     "92-strongproteinstro": "Protein: Because animal-based foods are high in protein, it’s a common misconception that vegans don’t get enough of it. In fact, the real problem is nonvegans getting too much protein. Vegans can get all the protein they need from lentils, tempeh, tofu, beans, nuts, seeds, and even vegetables.",
     "72-we-highly-recomme": "We highly recommend the book, Becoming Vegan by Brenda Davis and Vesanto Melina. M.S., R.D for more detailed information pertaining to ones age and individual needs. They provide sample menu plans and nutrition recommendations for children, teenagers, pregnancy, and athletes as well as a wealth of information on proper nutrition.",
-    "16-also-be-sure-to-c": "Also, be sure to check out The Boston Vegan Association’s Nutritional Pamphlet",
     "59-strongcalciumstro": "Calcium:  (Approximately 1000 milligrams per day, 1200 milligrams for women over 51 and men over 70.)\nLeafy green vegetables-kale, collards, broccoli, okra, figs, oranges, almonds, pistachio nuts, hazelnuts, flaxseed, sunflower seeds, sesame seeds, soybeans, chickpeas, navy beans, pinto beans, kidney beans, lentils, tempeh, tofu*, fortified non-dairy yogurt, fortified non-dairy milks, fortified soy products, fortified breakfast cereals, and fortified orange juice. Note: Spinach, beet greens, and chard are healthy foods but not good sources of calcium.",
     "70-emwhen-purchasing": "When purchasing tofu, look for the calcium-set tofu with \"calcium sulphate\" in the ingredients.",
     "21-strongironstrong-": "Iron: Chickpeas (hummus), lentils, navy beans, pinto beans, kidney beans, soybeans, quinoa, tofu, raisins, goji berries, fortified veggie burgers and other soy products, pumpkin seeds, cashews, figs, sunflower seeds, sesame tahini, prunes, whole wheat, parsley, and pine nuts.",
