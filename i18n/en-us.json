@@ -364,8 +364,14 @@
         "title": "Buy B12 Spray",
         "href": "http://www.amazon.com/gp/product/B00K5NEPJY/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687682&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=B0014JOBXS&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0QMX7ET20R0E3DA6HD2K"
       },
-      "Available at v-pure",
-      "Natural Healthy Concepts",
+      {
+        "title": "Available here",
+        "href": "http://www.amazon.com/gp/product/B002XDQSSK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002XDQSSK&linkCode=as2&tag=vega032-20&linkId=4NXDOGEMN7X5W24Q"
+      },
+      {
+        "href": "http://www.amazon.com/gp/product/B004LL7AXE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LL7AXE&linkCode=as2&tag=vega032-20&linkId=HY7BT6IPJLRGGLY5",
+        "title": "here"
+      },
       "Buy vegan Vitamin D3",
       "Check out our tempeh bacon recipe",
       "pan fried tofu",
