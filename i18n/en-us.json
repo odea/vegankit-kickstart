@@ -488,11 +488,26 @@
         "title": "Blueberry Oatmeal Muffins",
         "href": "http://happyherbivore.com/2009/10/blueberry-oatmeal-muffins/"
       },
-      "Apple Peanut Butter Banana Shake",
-      "Cream of Wheat Hot Cereal with a Swirl of Gingerbread",
-      "Pancakes",
-      "French Toast (1)",
-      "(2)",
+      {
+        "href": "http://www.babble.com/best-recipes/apple-peanut-butter-banana-shake/",
+        "title": "Apple Peanut Butter Banana Shake"
+      },
+      {
+        "href": "http://www.babble.com/best-recipes/gingerbread-swirl-creamy-wheat-cereal/",
+        "title": "Cream of Wheat Hot Cereal with a Swirl of Gingerbread"
+      },
+      {
+        "href": "http://thescrumptiouspumpkin.com/2015/03/19/vegan-pancakes/",
+        "title": "Pancakes"
+      },
+      {
+        "title": "French Toast (1)",
+        "href": "http://minimalistbaker.com/basic-vegan-french-toast/"
+      },
+      {
+        "title": "(2)",
+        "href": "http://www.food.com/recipe/vegan-french-toast-68367"
+      },
       "Fat-Free Blueberry Oatmeal Muffins",
       "Smokey Miso Tofu from Vegan Yum Yum",
       "Falafel",
