@@ -508,25 +508,82 @@
         "title": "(2)",
         "href": "http://www.food.com/recipe/vegan-french-toast-68367"
       },
-      "Fat-Free Blueberry Oatmeal Muffins",
-      "Smokey Miso Tofu from Vegan Yum Yum",
-      "Falafel",
-      "Grilled Peanut Butter and Banana Sandwich",
-      "Asparagus Pesto Pasta Salad",
-      "Smokey Miso Tofu Sandwich",
-      "Reuben Sandwich",
-      "Vegan Grilled Cheese",
-      "Avocado Wasabi Salad",
-      "Easy Mexican Red Rice",
-      "Spicy Chili Bean Soup",
-      "Delicata Squash Bisque",
-      "Carrot-Ginger Soup",
-      "Ridiculously Easy Lunchbox Enchilada Casserole",
-      "Pesto Cashew Ricotta Pizza",
-      "Baked Corndogs",
-      "Alfredo Pasta from Vegan Yum Yum",
-      "Burritos",
-      "Chickpea and Avocado Ceviche",
+      {
+        "title": "Fat-Free Blueberry Oatmeal Muffins",
+        "href": "http://happyherbivore.com/2009/10/blueberry-oatmeal-muffins/"
+      },
+      {
+        "title": "Smokey Miso Tofu from Vegan Yum Yum",
+        "href": "http://www.tastebook.com/recipes/730715-Smokey-Miso-Tofu"
+      },
+      {
+        "title": "Falafel",
+        "href": "http://www.allysonkramer.com/2010/11/roasted-red-pepper-garlic-falafel/"
+      },
+      {
+        "title": "Grilled Peanut Butter and Banana Sandwich",
+        "href": "http://thelaughingvegan.blogspot.com/2011/09/channelling-comfort-grilled-peanut.html"
+      },
+      {
+        "title": "Asparagus Pesto Pasta Salad",
+        "href": "http://blog.fatfreevegan.com/2009/07/asparagus-pesto-pasta-salad.html"
+      },
+      {
+        "title": "Smokey Miso Tofu Sandwich",
+        "href": "http://www.tastebook.com/recipes/730715-Smokey-Miso-Tofu"
+      },
+      {
+        "title": "Reuben Sandwich",
+        "href": "http://www.meettheshannons.net/2010/05/betty-crocker-project-reuben-sandwich.html"
+      },
+      {
+        "title": "Vegan Grilled Cheese",
+        "href": "http://kblog.lunchboxbunch.com/2010/05/vegan-grilled-cheese-daiya-fyh-bread.html"
+      },
+      {
+        "title": "Avocado Wasabi Salad",
+        "href": "http://www.epicurious.com/recipes/member/views/avocado-wasabi-salad-52757951"
+      },
+      {
+        "title": "Easy Mexican Red Rice",
+        "href": "http://vegandad.blogspot.com/2012/01/easy-mexican-red-rice.html"
+      },
+      {
+        "title": "Carrot-Ginger Soup",
+        "href": "http://kblog.lunchboxbunch.com/2009/02/recipe-vegan-carrot-ginger-soup-two.html"
+      },
+      {
+        "title": "Ridiculously Easy Lunchbox Enchilada Casserole",
+        "href": "http://blog.fatfreevegan.com/2008/02/ridiculously-easy-lunchbox-enchilada.html"
+      },
+      {
+        "title": "Pesto Cashew Ricotta Pizza",
+        "href": "http://kblog.lunchboxbunch.com/2012/04/pesto-cashew-ricotta-pizza.html"
+      },
+      {
+        "title": "Baked Corndogs",
+        "href": "http://happyherbivore.com/recipe/vegan-baked-corndogs/"
+      },
+      {
+        "title": "Spicy Chili Bean Soup",
+        "href": "http://www.babble.com/best-recipes/spicy-cozy-chili-bean-soup/"
+      },
+      {
+        "title": "Delicata Squash Bisque",
+        "href": "http://www.babble.com/best-recipes/spicy-cozy-chili-bean-soup/"
+      },
+      {
+        "title": "Alfredo Pasta from Vegan Yum Yum",
+        "href": "http://www.babble.com/best-recipes/spicy-cozy-chili-bean-soup/"
+      },
+      {
+        "title": "Burritos",
+        "href": "http://ohsheglows.com/2015/11/02/diy-burrito-bowl/"
+      },
+      {
+        "title": "Chickpea and Avocado Ceviche",
+        "href": "http://my-face-is-on-fire.blogspot.com/2012/04/new-american-vegan-winner.html"
+      },
       "Pasta Bolognese",
       "Pan Fried Tofu, Kale and Stir Fried Noodles",
       "Mushroom Kale Rice Bowl",
