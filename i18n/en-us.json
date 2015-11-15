@@ -584,98 +584,402 @@
         "title": "Chickpea and Avocado Ceviche",
         "href": "http://my-face-is-on-fire.blogspot.com/2012/04/new-american-vegan-winner.html"
       },
-      "Pasta Bolognese",
-      "Pan Fried Tofu, Kale and Stir Fried Noodles",
-      "Mushroom Kale Rice Bowl",
-      "Jeweled Basmati Rice",
-      "Mac and Cheese",
-      "Tacos",
-      "Smoked Southwestern Burgers",
-      "Seitan and Broccolini with Clementine Teriyaki",
-      "Orange Couscous Curry",
-      "Wild Mushroom Tostadas with Crème fraîche",
-      "Easy Pasta with Olive Oil, Walnuts, and Veggies",
-      "Chana Masala",
-      "Mini Coconut Blood Orange Bundt Cake from Vegan Yum Yum",
-      "Sugar Cookies",
-      "Pumpkin Cheesecake",
-      "Raspberry Chocolate Chip Cake with Homemade Fondant (Gluten-Free)",
-      "Brownies (+ Gluten Free Alternative)",
-      "Double Chocolate Chip Cookies (Gluten Free)",
-      "Apple Pie Coffee Cake",
-      "Vegan Twix Bars",
-      "Carrot Cake Cupcakes",
-      "Peanut Butter Fudge (Gluten Free)",
-      "Rice Crispy Treats",
-      "Chocolate Berry Parfait (Gluten Free)",
-      "Blueberry Hand Pie",
-      "Oatmeal Raisin Cookies",
-      "Happy Healthy Life",
-      "Vegan Yum Yum",
-      "The Vegan Stoner",
-      "Vegan Dad",
-      "Manifest Vegan",
-      "Vegan Richa",
-      "Vegan Feast Kitchen",
-      "Olives for Dinner",
-      "Big Raw",
-      "Veganacious",
-      "Vegan Eats And Treats",
-      "Happy Herbivore",
-      "So What Do Vegans Eat?",
-      "Fat-Free Vegan Kitchen",
-      "Meet The Shannons",
-      "Awesome Vegan Blog",
-      "Oh She Glows",
-      "Vegan Crunk",
-      "The Snarky Chickpea",
-      "Seitan Is My Motor",
-      "Ginger Is The New Pink",
-      "I Eat Trees",
-      "The New American Vegan",
-      "Vegan Yum Yum",
-      "The 30 Minute Vegan",
-      "Color Me Vegan",
-      "The Quick Fix",
-      "1000 Vegan Recipes",
-      "The Vegan Diner",
-      "Vegan Yum Yum",
-      "Happy Herbivore",
-      "Candle 79 Cookbook",
-      "How it All Vegan",
-      "The Vegan Deli",
-      "Alternative Vegan",
-      "Vegan Fire And Spice",
-      "The Vegan Table",
-      "Veganomicon",
-      "Eat Drink and Be Vegan",
-      "Vegan Italiano",
-      "Viva Vegan",
-      "Vegan with a Vengeance",
-      "Tofu 1-2-3",
-      "The Cookbook For People Who Love Animals",
-      "The Meditterranean Vegan Kitchen",
-      "Let them Eat Vegan",
-      "The 30 Minute Vegan",
-      "Japanese Cooking",
-      "Pregnancy, Children and the Vegan Diet",
-      "Dr. Neal Barnard’s Program For Reversing Diabetes",
-      "Vegan Cupcakes Take Over the World",
-      "Vegan Cookies Invade Your Cookie Jar",
-      "Sweet Vegan",
-      "Lick It",
-      "Sticky Fingers' Sweets",
-      "The Joy of Vegan Baking",
-      "The Joy of Vegan Baking",
-      "Vegan Pie in the Sky",
-      "The Vegan Scoop",
-      "Have Your Cake and Vegan Too",
-      "Vegan Desserts: Sumptuous Sweets For Every Season",
-      "Babycakes",
-      "Vegan Cupcakes Take Over the World",
-      "Vegan Food is Everywhere",
-      "HappyCow",
-      "VegGuide",
+      {
+        "title": "Jeweled Basmati Rice",
+        "href": "http://www.allysonkramer.com/2009/10/jeweled-basmati-rice/#more-1357"
+      },
+      {
+        "title": "Tacos",
+        "href": "http://kblog.lunchboxbunch.com/2011/10/fun-vegan-tacos-and-mexican-fiesta.html"
+      },
+      {
+        "title": "Smoked Southwestern Burgers",
+        "href": "http://www.allysonkramer.com/2010/06/smoked-southwestern-burgers/#more-4119"
+      },
+      {
+        "title": "Seitan and Broccolini with Clementine Teriyaki",
+        "href": "http://veganyumyum.com/index.php?s=seitan&searchbutton=Go%21"
+      },
+      {
+        "title": "Orange Couscous Curry",
+        "href": "http://blog.fatfreevegan.com/2006/08/orange-couscous-curry.html"
+      },
+      {
+        "title": "Easy Pasta with Olive Oil, Walnuts, and Veggies",
+        "href": "http://ohsheglows.com/2011/03/07/olive-oil-pasta-with-walnuts-lentils-and-red-peppers/"
+      },
+      {
+        "title": "Chana Masala",
+        "href": "http://ohsheglows.com/2010/11/10/daily-picture-feature-chana-masala/"
+      },
+      {
+        "title": "Pasta with hearty lentil and spinach sauce",
+        "href": "http://www.allysonkramer.com/2014/08/pasta-with-hearty-lentil-and-spinach-sauce/"
+      },
+      {
+        "title": "Pan Fried Tofu, Kale and Stir Fried Noodles",
+        "href": "http://www.tablespoon.com/recipes/kale-and-crispy-tofu-stir-fry/3e8192a1-1105-41f6-b3ef-d34c009377e9"
+      },
+      {
+        "title": "Mushroom Kale Rice Bowl",
+        "href": "mushroom kale rice bowl"
+      },
+      {
+        "title": "Mac and Cheese",
+        "href": "http://veganyumminess.com/creamy-vegan-mac-and-cheese/"
+      },
+      {
+        "title": "Wild Mushroom Tostadas with Crème fraîche",
+        "href": "http://heyfranhey.com/post/66981824489/wild-mushroom-tostadas-with-lime-creme-fraiche"
+      },
+      {
+        "title": "Mini Coconut Blood Orange Bundt Cake",
+        "href": "http://www.cookthink.com/recipe/11604/Mini_Coconut_And_Blood_Orange_Bundt_Cakes"
+      },
+      {
+        "title": "Raspberry Chocolate Chip Cake with Homemade Fondant (Gluten-Free)",
+        "href": "http://www.allysonkramer.com/2012/02/raspberry-chocolate-chip-cake-with-homemade-fondant/#more-10188"
+      },
+      {
+        "title": "Brownies (+ Gluten Free Alternative)",
+        "href": "http://ohsheglows.com/2011/10/19/vegan-brownies-two-ways/"
+      },
+      {
+        "title": "Vegan Twix Bars",
+        "href": "http://www.allysonkramer.com/2011/01/vegan-gluten-free-twixx/#more-6969"
+      },
+      {
+        "title": "Carrot Cake Cupcakes",
+        "href": "http://www.meettheshannons.net/2010/08/betty-crocker-project-carrot-cake.html"
+      },
+      {
+        "title": "Peanut Butter Fudge (Gluten Free)",
+        "href": "http://www.allysonkramer.com/2010/12/addictively-easy-peanut-butter-fudge/#more-6739"
+      },
+      {
+        "title": "Rice Crispy Treats",
+        "href": "http://kblog.lunchboxbunch.com/2009/09/vegan-rice-crispy-treats-recipe-just.html"
+      },
+      {
+        "title": "Oatmeal Raisin Cookies",
+        "href": "http://ohsheglows.com/2010/09/11/the-ultimate-vegan-oatmeal-raisin-cookie/"
+      },
+      {
+        "title": "Sugar Cookies",
+        "href": "http://www.allysonkramer.com/2011/04/simple-rolled-sugar-cookies/#more-7882"
+      },
+      {
+        "title": "Pumpkin Cheesecake",
+        "href": "http://www.allysonkramer.com/2011/04/simple-rolled-sugar-cookies/#more-7882"
+      },
+      {
+        "title": "Double Chocolate Chip Cookies (Gluten Free)",
+        "href": "http://www.ambitiouskitchen.com/2014/11/chewy-double-chocolate-chip-cookies-sea-salt/"
+      },
+      {
+        "title": "Apple Pie Coffee Cake",
+        "href": "http://www.tastebook.com/recipes/2189007-Apple-Pie-Coffee-Cake"
+      },
+      {
+        "title": "Chocolate Berry Parfait (Gluten Free)",
+        "href": "http://www.midwestliving.com/recipe/vegan-chocolate-blueberry-parfait/"
+      },
+      {
+        "title": "Blueberry Hand Pie",
+        "href": "https://zandersveganmama.wordpress.com/2013/02/16/blueberry-hand-pies/"
+      },
+      {
+        "title": "Happy Healthy Life",
+        "href": "http://kblog.lunchboxbunch.com"
+      },
+      {
+        "title": "Vegan Yum Yum",
+        "href": "http://veganyumyum.com"
+      },
+      {
+        "title": "The Vegan Stoner",
+        "href": "http://theveganstoner.blogspot.ca"
+      },
+      {
+        "title": "Vegan Dad",
+        "href": "http://vegandad.blogspot.com"
+      },
+      {
+        "title": "Allyson Kramer",
+        "href": "http://www.allysonkramer.com"
+      },
+      {
+        "title": "Vegan Richa",
+        "href": "http://www.veganricha.com"
+      },
+      {
+        "title": "Olives for Dinner",
+        "href": "http://www.olivesfordinner.com"
+      },
+      {
+        "title": "Big Raw",
+        "href": "http://bigrawblog.blogspot.com"
+      },
+      {
+        "title": "Veganacious",
+        "href": "http://www.veganacious.com"
+      },
+      {
+        "title": "Vegan Eats And Treats",
+        "href": "http://veganeatsandtreats.blogspot.com"
+      },
+      {
+        "title": "Happy Herbivore",
+        "href": "http://happyherbivore.com/2009/10/blueberry-oatmeal-muffins/"
+      },
+      {
+        "title": "So What Do Vegans Eat?",
+        "href": "http://whatdoveganseatanyway.blogspot.com"
+      },
+      {
+        "title": "Fat-Free Vegan Kitchen",
+        "href": "http://blog.fatfreevegan.com"
+      },
+      {
+        "title": "Meet The Shannons",
+        "href": "http://www.meettheshannons.net"
+      },
+      {
+        "title": "Awesome Vegan Blog",
+        "href": "http://www.awesomeveganblog.com"
+      },
+      {
+        "title": "Oh She Glows",
+        "href": "http://ohsheglows.com"
+      },
+      {
+        "title": "Vegan Crunk",
+        "href": "http://vegancrunk.blogspot.com"
+      },
+      {
+        "title": "The Snarky Chickpea",
+        "href": "http://www.thesnarkychickpea.com"
+      },
+      {
+        "title": "Seitan Is My Motor",
+        "href": "http://www.seitanismymotor.com"
+      },
+      {
+        "title": "Ginger Is The New Pink",
+        "href": "http://gingeristhenewpink.blogspot.com"
+      },
+      {
+        "title": "I Eat Trees",
+        "href": "http://ieattrees.com/"
+      },
+      {
+        "title": "The New American Vegan",
+        "href": "http://www.amazon.com/gp/product/1604860790/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1604860790&linkCode=as2&tag=vega032-20&linkId=Z4FS4DKRDILFC3MM"
+      },
+      {
+        "title": "Vegan Yum Yum",
+        "href": "http://www.amazon.com/gp/product/0757313809/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0757313809&linkCode=as2&tag=vega032-20&linkId=3EET26NQTYURKEQ4"
+      },
+      {
+        "title": "The 30 Minute Vegan",
+        "href": "http://www.amazon.com/gp/product/0738213276/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738213276&linkCode=as2&tag=vega032-20&linkId=44TAN54IU7EXE6R4"
+      },
+      {
+        "title": "Color Me Vegan",
+        "href": "http://www.amazon.com/gp/product/1592334393/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592334393&linkCode=as2&tag=vega032-20&linkId=Y7J2SERVPYN5Q224"
+      },
+      {
+        "title": "The Quick Fix",
+        "href": "http://www.amazon.com/gp/product/1449407854/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449407854&linkCode=as2&tag=vega032-20&linkId=HB25YEPAE6AICT4H"
+      },
+      {
+        "title": "1000 Vegan Recipes",
+        "href": "http://www.amazon.com/gp/product/0470085029/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470085029&linkCode=as2&tag=vega032-20&linkId=MLGRHHR4UGYCUHA7"
+      },
+      {
+        "title": "The Vegan Diner",
+        "href": "http://www.amazon.com/gp/product/0762437847/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0762437847&linkCode=as2&tag=vega032-20&linkId=4QWSWIDAB2XR4BDV"
+      },
+      {
+        "title": "Vegan Yum Yum",
+        "href": "http://www.amazon.com/gp/product/0757313809/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0757313809&linkCode=as2&tag=vega032-20&linkId=367OIY32GWXORUU6"
+      },
+      {
+        "title": "Happy Herbivore",
+        "href": "http://www.amazon.com/gp/product/1935618121/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1935618121&linkCode=as2&tag=vega032-20&linkId=ZZEKE7WBM6GIS3NA"
+      },
+      {
+        "title": "Candle 79 Cookbook",
+        "href": "http://www.amazon.com/gp/product/1607740125/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607740125&linkCode=as2&tag=vega032-20&linkId=DAWFDKYXNARAUUDZ"
+      },
+      {
+        "title": "How it All Vegan",
+        "href": "http://www.amazon.com/gp/product/1551522535/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1551522535&linkCode=as2&tag=vega032-20&linkId=CY7PYLPQON6XGAQL"
+      },
+      {
+        "title": "The Vegan Deli",
+        "href": "http://www.amazon.com/gp/product/1570671095/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1570671095&linkCode=as2&tag=vega032-20&linkId=46UL56DWZNIOMYEN"
+      },
+      {
+        "title": "Alternative Vegan",
+        "href": "http://www.amazon.com/gp/product/1604865083/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1604865083&linkCode=as2&tag=vega032-20&linkId=SPSAB56F5L2RS57I"
+      },
+      {
+        "title": "Vegan Fire And Spice",
+        "href": "http://www.amazon.com/gp/product/0980013100/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0980013100&linkCode=as2&tag=vega032-20&linkId=3HOF4B4WG45BPGLT"
+      },
+      {
+        "title": "The Vegan Table",
+        "href": "http://www.amazon.com/gp/product/1592333745/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592333745&linkCode=as2&tag=vega032-20&linkId=KNQEHSIIAA4JO5KM"
+      },
+      {
+        "title": "Veganomicon",
+        "href": "http://www.amazon.com/gp/product/156924264X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=156924264X&linkCode=as2&tag=vega032-20&linkId=ZHCPIZF6TA6DXCGU"
+      },
+      {
+        "title": "Eat Drink and Be Vegan",
+        "href": "http://www.amazon.com/gp/product/1551522241/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1551522241&linkCode=as2&tag=vega032-20&linkId=LM7UX2T6NJILLT2T"
+      },
+      {
+        "title": "Vegan Italiano",
+        "href": "http://www.amazon.com/gp/product/1557884943/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1557884943&linkCode=as2&tag=vega032-20&linkId=7BD6H7GKJH7T6AG7"
+      },
+      {
+        "title": "Viva Vegan",
+        "href": "http://www.amazon.com/gp/product/0738212733/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738212733&linkCode=as2&tag=vega032-20&linkId=TERRCVTNJDMIARGA"
+      },
+      {
+        "title": "Vegan with a Vengeance",
+        "href": "http://www.amazon.com/gp/product/1569243581/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1569243581&linkCode=as2&tag=vega032-20&linkId=MNIW63YJ2PIB4MMT"
+      },
+      {
+        "title": "Tofu 1-2-3",
+        "href": "http://www.amazon.com/gp/product/0471748099/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0471748099&linkCode=as2&tag=vega032-20&linkId=M3ZLXARWR4DNFBX5"
+      },
+      {
+        "title": "The Cookbook For People Who Love Animals",
+        "href": "http://www.amazon.com/gp/product/0929274180/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0929274180&linkCode=as2&tag=vega032-20&linkId=EJVBQQ4U76OWANYH"
+      },
+      {
+        "title": "The Meditterranean Vegan Kitchen",
+        "href": "http://www.amazon.com/gp/product/1557883599/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1557883599&linkCode=as2&tag=vega032-20&linkId=EIZP4FRYCPUTAD7M"
+      },
+      {
+        "title": "Let them Eat Vegan",
+        "href": "http://www.amazon.com/gp/product/0738215619/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738215619&linkCode=as2&tag=vega032-20&linkId=ONVFJS5YNUTV5GYC"
+      },
+      {
+        "title": "The Vegan Soul Kitchen",
+        "href": "http://www.amazon.com/gp/product/0738212288/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738212288&linkCode=as2&tag=vega032-20&linkId=6UV7VQ5JKOW67Z23"
+      },
+      {
+        "title": "The 30 Minute Vegan",
+        "href": "http://www.amazon.com/gp/product/0738213276/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738213276&linkCode=as2&tag=vega032-20&linkId=N3EX2ZI5BM2W5U2L"
+      },
+      {
+        "title": "Vegan Planet",
+        "href": "http://www.amazon.com/gp/product/1558328319/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1558328319&linkCode=as2&tag=vega032-20&linkId=3HCOM4BVYRWVBCAC"
+      },
+      {
+        "title": "The New McDougall Cookbook",
+        "href": "http://www.amazon.com/gp/product/0452274656/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452274656&linkCode=as2&tag=vega032-20&linkId=SWKDDTRJ5BYAQRMA"
+      },
+      {
+        "title": "Great gluten-free vegan eats",
+        "href": "http://www.amazon.com/gp/product/1592335136/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592335136&linkCode=as2&tag=vega032-20&linkId=JTI3XRJFFWSYDHUJ"
+      },
+      {
+        "title": "Appetite for Reduction",
+        "href": "http://www.amazon.com/gp/product/1600940498/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1600940498&linkCode=as2&tag=vega032-20&linkId=HMBBPC2DW4EOIQPQ"
+      },
+      {
+        "title": "The 100 Best Gluten-Free Recipes for your Vegan Kitchen",
+        "href": "http://www.amazon.com/gp/product/1569758727/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1569758727&linkCode=as2&tag=vega032-20&linkId=HQGLMLGCZCHZMA2Z"
+      },
+      {
+        "title": "The Forks over Knives Cookbook",
+        "href": "http://www.amazon.com/gp/product/1615190619/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1615190619&linkCode=as2&tag=vega032-20&linkId=CHRZ3F7MPOF5EUBU"
+      },
+      {
+        "title": "The 30 Minute Vegan",
+        "href": "http://www.amazon.com/gp/product/0738213276/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738213276&linkCode=as2&tag=vega032-20&linkId=N3EX2ZI5BM2W5U2L"
+      },
+      {
+        "title": "Japanese Cooking",
+        "href": "http://www.amazon.com/gp/product/1570670722/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1570670722&linkCode=as2&tag=vega032-20&linkId=7TBPOCST7YU267F7"
+      },
+      {
+        "title": "Pregnancy, Children and the Vegan Diet",
+        "href": "http://www.amazon.com/gp/product/0961424826/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0961424826&linkCode=as2&tag=vega032-20&linkId=MHK7QL5F5HFKTIMI"
+      },
+      {
+        "title": "Dr. Neal Barnard’s Program For Reversing Diabetes",
+        "href": "http://www.amazon.com/gp/product/1594868107/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594868107&linkCode=as2&tag=vega032-20&linkId=M47K2VVVMQC6IWHG"
+      },
+      {
+        "title": "Vegan Cupcakes Take Over the World",
+        "href": "http://www.amazon.com/gp/product/1569242739/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1569242739&linkCode=as2&tag=vega032-20&linkId=A5HGAAVLNYYLTNFP"
+      },
+      {
+        "title": "Vegan Cookies Invade Your Cookie Jar",
+        "href": "http://www.amazon.com/gp/product/160094048X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160094048X&linkCode=as2&tag=vega032-20&linkId=ROKVDSHLXENXO46G"
+      },
+      {
+        "title": "Sweet Vegan",
+        "href": "http://www.amazon.com/gp/product/1906868352/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1906868352&linkCode=as2&tag=vega032-20&linkId=SXODWMYUKWGMRMQC"
+      },
+      {
+        "title": "Lick It",
+        "href": "http://www.amazon.com/gp/product/1570672377/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1570672377&linkCode=as2&tag=vega032-20&linkId=6GFIHMLLXNJARVWL"
+      },
+      {
+        "title": "Sticky Fingers' Sweets",
+        "href": "http://www.amazon.com/gp/product/1583335110/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1583335110&linkCode=as2&tag=vega032-20&linkId=AW2NL2HKBF2X3SNF"
+      },
+      {
+        "title": "The Joy of Vegan Baking",
+        "href": "http://www.amazon.com/gp/product/1592332803/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592332803&linkCode=as2&tag=vega032-20&linkId=7Y5Y7SSGXIR3AS4B"
+      },
+      {
+        "title": "The Joy of Vegan Baking",
+        "href": "http://www.amazon.com/gp/product/1592332803/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592332803&linkCode=as2&tag=vega032-20&linkId=7Y5Y7SSGXIR3AS4B"
+      },
+      {
+        "title": "Vegan Pie in the Sky",
+        "href": "http://www.amazon.com/gp/product/0738212741/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738212741&linkCode=as2&tag=vega032-20&linkId=ZH37QVZEZPJHDMHL"
+      },
+      {
+        "title": "The Vegan Scoop",
+        "href": "http://www.amazon.com/gp/product/1592333923/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592333923&linkCode=as2&tag=vega032-20&linkId=IU4CQKKCHE34RAIQ"
+      },
+      {
+        "title": "Have Your Cake and Vegan Too",
+        "href": "http://www.amazon.com/gp/product/1569759200/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1569759200&linkCode=as2&tag=vega032-20&linkId=366R7XDBQACU33LS"
+      },
+      {
+        "title": "Vegan Desserts: Sumptuous Sweets For Every Season",
+        "href": "http://www.amazon.com/gp/product/1626361347/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1626361347&linkCode=as2&tag=vega032-20&linkId=P6VHIUTXLP7ZGDZG"
+      },
+      {
+        "title": "Babycakes",
+        "href": "http://www.amazon.com/gp/product/0307408833/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307408833&linkCode=as2&tag=vega032-20&linkId=LXMUXJO3CUVHCAA2"
+      },
+      {
+        "title": "Vegan Cupcakes Take Over the World",
+        "href": "http://www.amazon.com/gp/product/1569242739/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1569242739&linkCode=as2&tag=vega032-20&linkId=VMO2RGHPYAIHENUS"
+      },
+      {
+        "title": "Vegan Food is Everywhere",
+        "href": "http://veganfoodiseverywhere.com"
+      },
+      {
+        "title": "HappyCow",
+        "href": "http://www.happycow.net"
+      },
+      {
+        "title": "VegGuide",
+        "href": "http://www.vegguide.org"
+      },
       "Vegan Essentials",
       "Amazon.com",
       "Pangea",
