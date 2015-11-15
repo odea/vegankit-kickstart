@@ -980,16 +980,50 @@
         "title": "VegGuide",
         "href": "http://www.vegguide.org"
       },
-      "Vegan Essentials",
-      "Amazon.com",
-      "Pangea",
-      "Visit Everyday Dish for the recipe.",
-      "Leigh Chantelle from Viva La Vegan",
-      "Heather from HealthyVeganRecipes.net",
-      "The Vegan Zombie",
-      "View the recipe",
-      "Download",
-      "Ian the Turkey"
+      {
+        "title": "Vegan Essentials",
+        "href": "http://veganessentials.com"
+      },
+      {
+        "title": "Amazon.com",
+        "href": "http://www.amazon.com/s/ref=sr_in_-2_p_n_feature_browse-b_6?fst=as%3Aoff&rh=n%3A16310101%2Cp_n_feature_browse-bin%3A10434582011&bbn=16310101&ie=UTF8&qid=1447614486&rnid=10434578011"
+      },
+      {
+        "title": "Pangea",
+        "href": "http://www.veganstore.com"
+      },
+      {
+        "title": "Download the Pamphlet",
+        "href": "http://www.internationalvegan.org/wp-content/uploads/2014/08/Demystifying-Vegan-Nutrition-v2-HQ-Print.pdf"
+      },
+      {
+        "title": "Visit Everyday Dish for the recipe.",
+        "href": "http://www.everydaydish.tv"
+      },
+      {
+        "title": "Leigh Chantelle from Viva La Vegan",
+        "href": "http://www.vivalavegan.net/community/"
+      },
+      {
+        "title": "Heather from HealthyVeganRecipes.net",
+        "href": "http://www.healthyveganrecipes.net"
+      },
+      {
+        "title": "The Vegan Zombie",
+        "href": "http://theveganzombie.com"
+      },
+      {
+        "title": "View the recipe",
+        "href": "http://www.everydaydish.tv/videos/vegan-homestyle-chocolate-chip-cookies/"
+      },
+      {
+        "title": "Download",
+        "href": "http://cdn.everything.io/vegankit/downloads/recipes.pdf"
+      },
+      {
+        "title": "Ian the Turkey",
+        "href": "http://peacefulprairie.blogspot.com/2010/11/ians-crossing.html"
+      }
     ],
     "title": "Eating",
     "shortTitle": "Eat",
