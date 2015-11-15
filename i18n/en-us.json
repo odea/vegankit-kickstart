@@ -1188,10 +1188,22 @@
   },
   "wear": {
     "links": [
-      "More on wool production",
-      "the video of Herbie on the Why page, acting much like a puppy",
-      "Cynthia King Vegan Ballet Slippers",
-      "Vegan Store",
+      {
+        "title": "More on wool production",
+        "href": "http://gentleworld.org/whats-wrong-with-wool/"
+      },
+      {
+        "title": "the video of Herbie on the Why page, acting much like a puppy",
+        "href": "http://vegankit.com/why#about-animals"
+      },
+      {
+        "title": "Cynthia King Vegan Ballet Slippers",
+        "href": "http://cynthiakingdance.com/veganballetslippers/"
+      },
+      {
+        "title": "Vegan Store",
+        "href": "http://www.veganstore.com"
+      },
       "Nice Shoes",
       "Okabashi",
       "MooShoes",
