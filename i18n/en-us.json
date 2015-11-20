@@ -1204,59 +1204,198 @@
         "title": "Vegan Store",
         "href": "http://www.veganstore.com"
       },
-      "Nice Shoes",
-      "Okabashi",
-      "MooShoes",
-      "Vegan Store UK",
-      "Alternative Outfitters",
-      "Vegan Chic",
-      "Muso Koroni",
-      "Noah",
-      "Vegetarian Shoes",
-      "Cow Jones Industrials",
-      "Cri de Coeur",
-      "Olsen Haus",
-      "Mama Shaman",
-      "Veganwares",
-      "Freerangers",
-      "BBoheme",
-      "Ethicalwares",
-      "Melissa",
-      "Cynthia King Ballet Slippers",
-      "Neuaura Shoes",
-      "Roni Kantor",
-      "Beyond Skin",
-      "Cri de Coeur",
-      "Love is Mighty",
-      "Compassionate Couture",
-      "Charmone",
-      "No harm",
-      "Brave Gentleman",
-      "CBHStudio",
-      "Alternative Outfitters",
-      "Vegan Store",
-      "MooShoes",
-      "Muso Koroni",
-      "Vaute Couture",
-      "Matt and Nat",
-      "Red Handed Bags",
-      "Susan Nichole",
-      "Cherry Berry",
-      "Gunas",
-      "Never Leather Land",
-      "Couch Guitar Straps",
-      "Vintage Style Women's Shoes",
-      "Laptop Case",
-      "Weightlifting Gloves",
-      "Dance Shoes",
-      "Cynthia King Ballet Slippers",
-      "Birkenstocks",
-      "An exciting look at all vegan shoe company Olsen Haus",
-      "Cri de Coeur",
-      "Roni Kantor",
-      "Love is Mighty Vegan Shoes",
-      "Willow's Whisper",
-      "A Portrait of Marcie"
+      {
+        "title": "Nice Shoes",
+        "href": "https://niceshoes.ca"
+      },
+      {
+        "title": "Okabashi",
+        "href": "http://www.okabashi.com"
+      },
+      {
+        "title": "MooShoes",
+        "href": "http://www.mooshoes.com"
+      },
+      {
+        "title": "Vegan Store UK",
+        "href": "http://www.veganstore.co.uk"
+      },
+      {
+        "title": "Alternative Outfitters",
+        "href": "http://www.alternativeoutfitters.com"
+      },
+      {
+        "title": "Vegan Chic",
+        "href": "http://www.veganchic.com"
+      },
+      {
+        "title": "Muso Koroni",
+        "href": "http://www.muso-koroni.com"
+      },
+      {
+        "title": "Noah",
+        "href": "http://www.noah-shop.com"
+      },
+      {
+        "title": "Vegetarian Shoes",
+        "href": "http://www.vegetarian-shoes.co.uk"
+      },
+      {
+        "title": "Cow Jones Industrials",
+        "href": "http://www.cowjonesindustrials.com"
+      },
+      {
+        "title": "Cri de Coeur",
+        "href": "http://cridecoeur.myshopify.com"
+      },
+      {
+        "title": "Olsen Haus",
+        "href": "http://www.olsenhaus.com"
+      },
+      {
+        "title": "Veganwares",
+        "href": "http://www.veganwares.com"
+      },
+      {
+        "title": "Freerangers",
+        "href": "http://www.freerangers.co.uk"
+      },
+      {
+        "title": "BBoheme",
+        "href": "http://www.bboheme.com"
+      },
+      {
+        "title": "Ethicalwares",
+        "href": "http://www.ethicalwares.com"
+      },
+      {
+        "title": "Melissa",
+        "href": "http://www.melissaaustralia.com.au"
+      },
+      {
+        "title": "Cynthia King Ballet Slippers",
+        "href": "http://cynthiakingdance.com/veganballetslippers/"
+      },
+      {
+        "title": "Neuaura Shoes",
+        "href": "http://www.neuaurashoes.com"
+      },
+      {
+        "title": "Roni Kantor",
+        "href": "https://www.etsy.com/shop/RoniKantorShoes"
+      },
+      {
+        "title": "Beyond Skin",
+        "href": "http://www.beyondskin.co.uk"
+      },
+      {
+        "title": "Cri de Coeur",
+        "href": "http://cridecoeur.myshopify.com/collections/frontpage"
+      },
+      {
+        "title": "Love is Mighty",
+        "href": "http://loveismighty.com/product.html"
+      },
+      {
+        "title": "Charmone",
+        "href": "http://charmone.com/shop"
+      },
+      {
+        "title": "No harm",
+        "href": "http://www.noharm.com"
+      },
+      {
+        "title": "Brave Gentleman",
+        "href": "http://www.bravegentleman.com"
+      },
+      {
+        "title": "Alternative Outfitters",
+        "href": "http://www.alternativeoutfitters.com"
+      },
+      {
+        "title": "Vegan Store",
+        "href": "http://www.veganstore.com"
+      },
+      {
+        "title": "MooShoes",
+        "href": "http://www.mooshoes.com"
+      },
+      {
+        "title": "Muso Koroni",
+        "href": "http://www.muso-koroni.com/en/home/"
+      },
+      {
+        "title": "Vaute Couture",
+        "href": "http://vautecouture.com"
+      },
+      {
+        "title": "Matt and Nat",
+        "href": "http://mattandnat.com"
+      },
+      {
+        "title": "Susan Nichole",
+        "href": "http://susannichole.com"
+      },
+      {
+        "title": "Gunas",
+        "href": "http://www.gunasthebrand.com"
+      },
+      {
+        "title": "Never Leather Land",
+        "href": "http://neverleatherland.spreadshirt.com"
+      },
+      {
+        "title": "Couch Guitar Straps",
+        "href": "https://www.couchguitarstraps.com"
+      },
+      {
+        "title": "Vintage Style Women's Shoes",
+        "href": "https://www.etsy.com/shop/RoniKantorShoes"
+      },
+      {
+        "title": "Laptop Case",
+        "href": "http://mattandnat.com"
+      },
+      {
+        "title": "Weightlifting Gloves",
+        "href": "http://www.newgrip.com/vegan.html"
+      },
+      {
+        "title": "Dance Shoes",
+        "href": "http://www.ethicalwares.com/catalogsearch/result/?q=dance"
+      },
+      {
+        "title": "Cynthia King Ballet Slippers",
+        "href": "http://cynthiakingdance.com/veganballetslippers/"
+      },
+      {
+        "title": "Birkenstocks",
+        "href": "http://www.ethicalwares.com/catalogsearch/result/?q=birkenstock"
+      },
+      {
+        "title": "An exciting look at all vegan shoe company Olsen Haus",
+        "href": "http://www.olsenhaus.com"
+      },
+      {
+        "title": "Cri de Coeur",
+        "href": "http://cridecoeur.myshopify.com"
+      },
+      {
+        "title": "Roni Kantor",
+        "href": "https://www.etsy.com/shop/RoniKantorShoes"
+      },
+      {
+        "title": "Love is Mighty Vegan Shoes",
+        "href": "http://loveismighty.com/product.html"
+      },
+      {
+        "title": "Willow's Whisper",
+        "href": "http://peacefulprairie.blogspot.com/2012/01/willows-whisper-to-world.html"
+      },
+      {
+        "title": "A Portrait of Marcie",
+        "href": "http://peacefulprairie.blogspot.com/2007/05/portrait-of-sheep.html"
+      }
     ],
     "title": "Wearing",
     "shortTitle": "Wear",
