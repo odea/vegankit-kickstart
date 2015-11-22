@@ -1613,36 +1613,138 @@
   },
   "learn": {
     "links": [
-      "Rain Without Thunder: The Ideology of the Animal Rights Movement",
-      "Vegan Freak: Being Vegan in a Non-Vegan World",
-      "Animals as Persons",
-      "Making a Killing",
-      "Anthropocentrism and its Moral Discontents",
-      "The Animal Rights Debate",
-      "By Gary Francione",
-      "What is the Abolitionist Approach?",
-      "Abolitionism describes a particular animal rights approach",
-      "The \"happy\" slaves of the South.",
-      "Slaveholders of the south are \"proverbially hospitable.\"",
-      "The bond that unites master and servant.",
-      "Abolitionism as \"fanatical.\"",
-      "An abolitionist among you.",
-      "Read more at QuotesOnSlavery.com",
-      "More abolitionist myths debunked",
-      "Five Fatal Flaws of Animal Welfarism",
-      "Welfarism is no weapon against the animal industry",
-      "Welfarism is paradoxically very bad for animals",
-      "it makes the public feel better about exploiting animals",
-      "simply dishonest",
-      "There is actually a lot to say about the economics of animal use and how welfarism fails.",
-      "Speaking from experience, it's actually much easier than you think",
-      "Wouldn't it be better to promote vegetarianism?",
-      "Wouldn't it be easier to promote vegetarianism?",
-      "it's not simply that welfarism doesn't work, it cannot work.",
-      "Read more about single-issue campaigns.",
-      "AbolitionistApproach.com",
-      "View Samples",
-      "Eat Like You Care Website: www.EatLikeYouCareBook.com."
+      {
+        "title": "Rain Without Thunder: The Ideology of the Animal Rights Movement",
+        "href": "http://www.amazon.com/gp/product/1566394619/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1566394619&linkCode=as2&tag=vega032-20&linkId=OXBAZAFRCJ6R6VW5"
+      },
+      {
+        "title": "Vegan Freak: Being Vegan in a Non-Vegan World",
+        "href": "http://www.amazon.com/gp/product/1604860154/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1604860154&linkCode=as2&tag=vega032-20&linkId=PSE5P4RV65HO4D4E"
+      },
+      {
+        "title": "Animals as Persons",
+        "href": "http://www.amazon.com/gp/product/0231139519/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0231139519&linkCode=as2&tag=vega032-20&linkId=PY3FOXJUYF5NAGSH"
+      },
+      {
+        "title": "Making a Killing",
+        "href": "http://www.amazon.com/gp/product/B003Z0CR3K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003Z0CR3K&linkCode=as2&tag=vega032-20&linkId=5DBZPYWGVMQVGT2O"
+      },
+      {
+        "title": "Anthropocentrism and its Moral Discontents",
+        "href": "http://www.amazon.com/gp/product/0822961199/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0822961199&linkCode=as2&tag=vega032-20&linkId=VAZC5MXMELH5KPPQ"
+      },
+      {
+        "title": "The Animal Rights Debate",
+        "href": "http://www.amazon.com/gp/product/0231149557/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0231149557&linkCode=as2&tag=vega032-20&linkId=QK27UHVHER2OUOTX"
+      },
+      {
+        "title": "Abolitionism describes a particular animal rights approach",
+        "href": "http://www.abolitionistapproach.com/about/"
+      },
+      {
+        "title": "The \"happy\" slaves of the South.",
+        "href": "http://quotesonslavery.org/what-you-might-not-see/"
+      },
+      {
+        "title": "Slaveholders of the south are \"proverbially hospitable.\"",
+        "href": "http://quotesonslavery.org/they-tell-us-also-that-the-slaveholders-of-the-south-are-proverbially-hospitable-kind-and-generous/"
+      },
+      {
+        "title": "The bond that unites master and servant.",
+        "href": "http://quotesonslavery.org/2010/11/07/they-know-nothing-of-the-bond-that-unites-the-master-and-servant/"
+      },
+      {
+        "title": "Abolitionism as \"fanatical.\"",
+        "href": "http://quotesonslavery.org/abolition-spurns-all/"
+      },
+      {
+        "title": "An abolitionist among you.",
+        "href": "http://quotesonslavery.org/fellow-citizens-an-abolitionist-of-the-most-revolting-character-is-among-you/"
+      },
+      {
+        "title": "Read more at QuotesOnSlavery.com",
+        "href": "http://quotesonslavery.org/"
+      },
+      {
+        "title": "More abolitionist myths debunked",
+        "href": "http://uvearchives.wordpress.com/category/ten-myths-of-new-welfarism/"
+      },
+      {
+        "title": "Five Fatal Flaws of Animal Welfarism",
+        "href": "http://www.guardian.co.uk/commentisfree/2010/jan/18/five-fatal-flaws-animal-activism"
+      },
+      {
+        "title": "Welfarism is no weapon against the animal industry",
+        "href": "http://www.abolitionistapproach.com/what-to-do-on-proposition-2/"
+      },
+      {
+        "title": "Welfarism is paradoxically very bad for animals",
+        "href": "http://www.abolitionistapproach.com/the-absurdity-of-competing-humane-labels-hsus-v-perdue/"
+      },
+      {
+        "title": "it makes the public feel better about exploiting animals",
+        "href": "http://m.theage.com.au/victoria/pork-back-in-flavour-as-chefs-put-a-twist-in-little-piggy-tale-20120526-1zc3m.html#ixzz1w15t61DM"
+      },
+      {
+        "title": "simply dishonest",
+        "href": "http://www.peacefulprairie.org/freerange1.html"
+      },
+      {
+        "title": "There is actually a lot to say about the economics of animal use and how welfarism fails.",
+        "href": "http://abolitionistanimalrights.blogspot.com/2009/07/happy-meat-movement-and-animal-welfare.html"
+      },
+      {
+        "title": "Speaking from experience, it's actually much easier than you think",
+        "href": "http://uvearchives.wordpress.com/2012/02/25/creative-non-violent-vegan-advocacy-a-beginners-guide/"
+      },
+      {
+        "title": "Wouldn't it be better to promote vegetarianism?",
+        "href": "http://vegan-times.com/2012/05/12/why-vegetarianism-isnt-enough/"
+      },
+      {
+        "title": "Wouldn't it be easier to promote vegetarianism?",
+        "href": "http://www.abolitionistapproach.com/gateway-arguments/"
+      },
+      {
+        "title": "it's not simply that welfarism doesn't work, it cannot work.",
+        "href": "http://uvearchives.wordpress.com/2007/12/12/property-status-and-animal-welfare-two-deep-roots-of-cruelty-3/"
+      },
+      {
+        "title": "Read more about single-issue campaigns.",
+        "href": "http://uvearchives.wordpress.com/2008/10/27/picking-the-low-hanging-fruit-what-is-wrong-with-single-issue-campaigns/"
+      },
+      {
+        "title": "AbolitionistApproach.com",
+        "href": "http://abolitionistapproach.com/"
+      },
+      {
+        "title": "View Samples",
+        "href": "#samples"
+      },
+      {
+        "title": "Eat Like You Care Website: www.EatLikeYouCareBook.com.",
+        "href": "http://eatlikeyoucarebook.com"
+      },
+      {
+        "title": "Get the book",
+        "href": "http://www.amazon.com/gp/product/1604860154/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1604860154&linkCode=as2&tag=vega032-20&linkId=PSE5P4RV65HO4D4E"
+      },
+      {
+        "title": "Get the book",
+        "href": "http://www.amazon.com/gp/product/0231139519/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0231139519&linkCode=as2&tag=vega032-20&linkId=2GRTZ4NANZQEZHVI"
+      },
+      {
+        "title": "Get the book",
+        "href": "http://www.amazon.com/gp/product/B003Z0CR3K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003Z0CR3K&linkCode=as2&tag=vega032-20&linkId=A36ZDKEOJSNLY7O2"
+      },
+      {
+        "title": "Get the book",
+        "href": "http://www.amazon.com/gp/product/0822961199/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0822961199&linkCode=as2&tag=vega032-20&linkId=LVODOVCIEQWCWFS5"
+      },
+      {
+        "title": "The Animal Rights Debate",
+        "href": "http://www.amazon.com/gp/product/0231149557/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0231149557&linkCode=as2&tag=vega032-20&linkId=VPS56IDOWX5YC62L"
+      }
     ],
     "title": "Thinking Vegan",
     "shortTitle": "Learn",
@@ -1656,6 +1758,7 @@
     "91-that-is-a-system": "That is, a system to consciously understand impulses like touch, pain, and sight in a nervous system.  Whether it be a human, an ape, a cat, or a gerbil, no sentient being has “better” or more advanced nerves.  The animals we use for enjoyment and convenience have families, desires, and personalities. They taste food, enjoy the company of others, and value many of the qualities of life we as humans hold sacred in the experience of living. So while we may have some very different cognitive abilities, what we take from animals by reducing them to our “things” is as devastating to them as it is would be to us.",
     "91-animal-rights-boo": "Animal Rights Books",
     "58-by-gary-l-francio": "By Gary L. Francione",
+    "11-what-is-the-aboli": "What is the Abolitionist Approach?",
     "54-are-animal-welfar": "Are 'animal welfare' supporters indistinguishable from the animal exploiters they oppose? Do reformist measures reaffirm the underlying principles that make animal exploitation possible in the first place? In this provocative book, Gary L. Francione argues that the modern animal rights movement has become indistinguishable from a century-old concern with the welfare of animals that in no way prevents them from being exploited. Francione maintains that advocating humane treatment of animals retains a sense of them as instrumental to human ends. When they are considered dispensable property, he says, they are left fundamentally without 'rights'. Until the seventies, Francione claims, this was the paradigm within which the Animal Rights Movement operated, as demonstrated by laws such as the Federal Humane Slaughter Act of 1958.",
     "98-in-this-wide-rang": "In this wide-ranging book, Francione takes the reader through the philosophical and intellectual debates surrounding animal welfare to make clear the difference between animal rights and animal welfare. Through case studies such as campaigns against animal shelters, animal laboratories, and the wearing of fur, Francione demonstrates the selectiveness and confusion inherent in reformist programs that target fur, for example, but leave wool and leather alone. The solution to this dilemma, Francione argues, is not in a liberal position that espouses the humane treatment of animals, but in a more radical acceptance of the fundamental inalienability of animal rights. Author note: Gary L. Francione is Professor of Law and Nicholas de B. Katzenbach Scholar of Law at Rutgers University Law School, Newark. He is the co-director of the \"Rutgers Animal Rights Law Center\" and the author of \"Animals, Property, and the Law\" (Temple).\"",
     "43-by-bob-and-jenna": "By Bob and Jenna Torres",
