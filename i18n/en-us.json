@@ -362,6 +362,31 @@
     "read-about-lucass-un": "Read about Lucas's unrequited love."
   },
   "eat": {
+    "images": [
+      "smoothie",
+      "veggies",
+      "tempeh_sized",
+      "tofu",
+      "seitan",
+      "nutritionalyeast_sized",
+      "vyy-pancakes-huge",
+      "vyy-sandwich-huge",
+      "vyy-pasta-huge",
+      "vyy-bundt-huge",
+      "nav",
+      "vyy",
+      "tvt",
+      "ltev",
+      "tmv",
+      "jovb",
+      "vctotw",
+      "mousse",
+      "pangea",
+      "pigandlamb",
+      "bvapamphlet_sized",
+      "recipebox",
+      "ic-2"
+    ],
     "links": [
       {
         "title": "Also, be sure to check out The Boston Vegan Association’s Nutritional Pamphlet",
