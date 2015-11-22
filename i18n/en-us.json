@@ -393,6 +393,10 @@
     ],
     "links": [
       {
+        "title": "special foods.",
+        "href": "http://vegankit.com/eat#special-foods"
+      },
+      {
         "title": "Also, be sure to check out The Boston Vegan Association’s Nutritional Pamphlet",
         "href": "http://www.internationalvegan.org/boston/"
       },
@@ -409,16 +413,16 @@
         "href": "http://www.amazon.com/gp/product/B00K5NEPJY/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=1944687682&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=B0014JOBXS&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=0QMX7ET20R0E3DA6HD2K"
       },
       {
-        "title": "Available here",
+        "title": "Omega Tablets",
         "href": "http://www.amazon.com/gp/product/B002XDQSSK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002XDQSSK&linkCode=as2&tag=vega032-20&linkId=4NXDOGEMN7X5W24Q"
       },
       {
         "href": "http://www.amazon.com/gp/product/B004LL7AXE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004LL7AXE&linkCode=as2&tag=vega032-20&linkId=HY7BT6IPJLRGGLY5",
-        "title": "here"
+        "title": "Omega Softgels"
       },
       {
         "href": "http://www.amazon.com/gp/product/B009MHS9RI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009MHS9RI&linkCode=as2&tag=vega032-20&linkId=E7BUOCXRYPWZD6HH",
-        "title": "Buy vegan Vitamin D3"
+        "title": "Vegan Vitamin D3"
       },
       {
         "href": "http://kblog.lunchboxbunch.com/2009/06/tempeh-bacon-recipe-vegan-facon-makes.html",
@@ -457,16 +461,16 @@
         "href": "http://gentleworld.org/3-reasons-not-to-eat-honey/"
       },
       {
+        "title": "Why isn't honey vegan?",
+        "href": "http://www.vegetus.org/honey/honey.htm"
+      },
+      {
         "title": "Gelatin",
         "href": "http://gentleworld.org/gelatin/"
       },
       {
         "title": "Some Alcoholic Beverages",
         "href": "http://gentleworld.org/is-your-alcohol-vegan/"
-      },
-      {
-        "title": "Why isn't honey/beeswax vegan?",
-        "href": "http://www.vegetus.org/honey/honey.htm"
       },
       {
         "title": "To find out if your alcohol is vegan, look up the company on Barnivore.com",
