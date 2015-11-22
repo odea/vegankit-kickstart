@@ -1545,8 +1545,11 @@
     "34-meet-the-sheep-wh": "Meet the sheep who literally knocked on the door of her caretakers."
   },
   "use": {
-    "NewKey": [
-      
+    "images": [
+      "rats",
+      "bigeyebunny",
+      "catandgoat",
+      "sidebar_image_company_list"
     ],
     "links": [
       {
