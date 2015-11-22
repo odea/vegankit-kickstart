@@ -1227,6 +1227,12 @@
     "39-have-you-ever-kno": "Have you ever known a turkey? Meet Ian."
   },
   "wear": {
+    "images": [
+      "goat",
+      "lamb2",
+      "willow",
+      "marcie"
+    ],
     "links": [
       {
         "title": "More on wool production",
@@ -1539,6 +1545,9 @@
     "34-meet-the-sheep-wh": "Meet the sheep who literally knocked on the door of her caretakers."
   },
   "use": {
+    "NewKey": [
+      
+    ],
     "links": [
       {
         "title": "Ambergris",
