@@ -16,10 +16,11 @@ block page-content
     cite Gary L. Francione
 
   h2 {{ where_to_start }}
-  p {{ some_of_our_newly }}
+  p {{ some_of_our_newly }}&nbsp;
+    +link(0)
   p {{ not_that_theres_anything }}
   p
-    a(href="{{ links.0 }}") {{ try_out_some_of_our }}
+    +link(1)
   p {{ weve_designed_these_recipes }}
   p {{ we_also_recommend_converting }}
   p {{ if_you_think_you_can }}
@@ -27,24 +28,18 @@ block page-content
   h2 {{ is_veganism_expensive }}
   p {{ no_veganism_is_not_expensive }}
   p {{ this_myth_is_also_perpetuated }}
-  p {{ veganism_is_actually_easy }}
-  p 
-    a(href="{{ links.1 }}") {{ ridiculously_easy_lunchbox }}
+  p {{ veganism_is_actually_easy }}&nbsp;
+    +link(2)
   p {{ if_youre_not_a_fan_of_recipes }}
   p 
-    a(href="{{ links.2 }}") {{ see_our_recipes }}
+    +link(3)
   h2 {{ what_about_my_nonvegan }}
   p {{ what_should_we_do_about }}
   p {{ this_is_a_good_time }}
   p {{ if_you_see_animals_as }}
-
-  h3 {{ what_about_buying }}
-  p {{ what_should_we_do_about }}
-  p {{ this_is_a_good_time }}
-  p {{ if_you_see_animals }}
   p
-    a(href="{{ links.3 }}") {{ what_about_buying }}
-  
+    +link(4)
+
   h2 {{ family_issues }}
   p {{ even_though_youre_motivated }}
   h3 {{ being_vegan_in_a }}
@@ -58,40 +53,47 @@ block page-content
   h4 {{ check_out_these_blogs }}
   ul
     li
-      a(href="{{ links.4 }}") {{ our_precious }}
-      | {{ from_vegan_parent }}
+      +link(5)
+      br
+      {{ from_vegan_parent }}
     li
-      a(href="{{ links.5 }}") {{ our_vegan_pregnancy }}
-      | {{ vegan_couple_lucas }}
+      +link(6)
+      br
+      {{ vegan_couple_lucas }}
   
   h2 {{ recommended_reading }}
   ul
     li
-      h3 {{ eat_like_you_care }}
+      h3 
+        +link(7)
       h4 {{ by_gary_francione_and_anna }}
       blockquote
         | {{ brilliantly_written_clear }}
 
     li
-      h3 {{ becoming_vegan }}
+      h3 
+        +link(8)
       h4 {{ by_brenda_davis_and }}
       blockquote
         | {{ everything_you_need }}
 
     li
-      h3 {{ vegan_freak }}
+      h3 
+        +link(9)
       h4 {{ by_bob_torres_and }}
       blockquote
         | {{ vegan_freak_offers }}
 
     li
-      h3 {{ generation_v }}
+      h3
+        +link(10)
       h4 {{ by_claire_askew }}
       blockquote
         | {{ essential_for_the_teen }}
 
     li
-      h3 {{ introduction_to_animal_rights }}
+      h3
+        +link(11)
       h4 {{ by_gary_l_francione }}
       blockquote
         | {{ the_best_and_most_consistent }}
@@ -109,14 +111,20 @@ block sidebar-content
   | {{#be}}
   article
     h1 {{ watch-our-cartoon-ve }}
+    p
+      +link(12)
 
   article
     h1 {{ paola-on-staying-veg }}
-    p {{ on-her-regular-video }}
+    p {{ on-her-regular-video }}&nbsp;
+      +link(13)
 
   article
     h1 {{ sam-tucker-on-being }}
-    p {{ host_of_food_for_thought }}
+    p
+      +link(14)
+      &nbsp;
+      {{ host_of_food_for_thought }}
 
   article
     h1 {{ im-vegan-regina }}
