@@ -142,7 +142,10 @@ block sidebar-content
     h1 {{ im_vegan_phillip }}
     +vid-img(2)
     p {{ long_time_vegan }}
-    p {{ read_the_we_are_all }}
+    p 
+      | {{ read_the_we_are_all }}&nbsp;
+      +link(21)
+      | .
 
   article
     h1 {{ the_faces_of_free_range }}
@@ -160,13 +163,15 @@ block sidebar-content
     p {{ warning_graphic_footage }}
     p {{ this_is_what_it_means }}
     p {{ its_easy_to_watch }}
-    p {{ the_issue_is_not_treatment }}
+    p
+      +link(15)
 
   article
     h1 {{ the_truth_behind }}
     +vid-img(5)
     p {{ an_illustrated_account }}
-    p {{ by_peaceful }}
+    p 
+      +link(16)
 
   article
     h1 {{ the_truth_behind_eggs }}
@@ -175,18 +180,21 @@ block sidebar-content
     p {{ when_we_consume }}
 
   article
-    h1 {{ a_calf_without_a_name }}
+    h1
+      +link(17)
     p {{ read_a_story_about }}
 
   article
-    h1 {{ libby_and_louie }}
+    h1 
+      +link(18)
     p {{ read_about_a_chicken }}
 
   article
     h1 {{ breaking_the_set }}
     +vid-img(7)
     p {{ rutgers_law_professor }}
-    p {{ eat_like_you_care }}
-    p {{ and_website }}
+      {{ eat_like_you_care }}
+      {{ and_website }}&nbsp;
+      +link(20)
 
   | {{/why}}
