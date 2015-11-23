@@ -135,7 +135,8 @@ block page-content
   p {{ 11-although-its-inde }}
   p {{ 11-making-matters-wo }}
 
-  p {{ 99-i-classicon-exter }}
+  p
+    +link(24)
   p {{ 71-whatever-the-case }}
 
   h2 {{ 55-social-justice-is }}
@@ -155,13 +156,9 @@ block sidebar-content
   aside
     h1 {{ 8-im-vegan-gary-fran }}
     p {{ 17-rutgers-law-profe }}
-    p {{ 83-emprof-franciones }}
+    p
+      +link(25)
     p {{ 4-abolitionistapproa }}
-
-  aside
-    h1 {{ 69-read-samples-of-a }}
-    p {{ 84-start-reading-fro }}
-    p {{ 87-button-classbtn-b }}
 
   aside
     blockquote
@@ -190,8 +187,8 @@ block sidebar-content
     p {{ 13-this-two-sided-tr }}
     p {{ 57-gary-francione }}
     p {{ explains_the_abolitionist }}
-    button {{ 22-button-classbtn-b }}
-    button {{ 92-button-classbtni }}
+    p
+      +link(33, "button")
 
   aside
     h1 {{ 99-leadership-lesson }}
@@ -206,6 +203,6 @@ block sidebar-content
     h1 {{ 55-animals-as-food-t }}
     p {{ 82-gary-l-francione }}
     p {{ 20-gary-l-francione }}
-    p {{ 19-professor-francio }}
-    p {{ 53-eat-like-you-care }}
+    p
+      +link(27)
   | {{/learn}}
