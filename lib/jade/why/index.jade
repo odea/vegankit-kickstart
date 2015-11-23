@@ -69,15 +69,18 @@ block page-content
   blockquote
     | {{ properly_planned_vegan_diets }}
     cite {{ america_dietetic_association }}
+  +img(2)
   p {{ not_only_are_animal_products }}
   p
     +link(6)
   p 
-    a(href="") {{ the_china_study }}
-    | {{ by_t_colin_campbell }}
+    +link(22)
+    | &nbsp;{{ by_t_colin_campbell }}
+
+  +img(3)
   p 
-    | {{ sentience_is_all }}
-    a(href="") {{ regardless_of_how }}
+    | {{ sentience_is_all }}&nbsp;
+    +link(8)
 
   h2 {{ is_veganism_good_for_the }}
   blockquote
@@ -90,15 +93,17 @@ block page-content
   p {{ considering_the_amount }}
   p {{ essentially_we_have }}
   p {{ imagine_instead }}
+  +img(4)
   blockquote
     | {{ go_vegan_its_better }}
     cite {{ gary_l_francione }}
   p {{ check_out_some }}
+  - var n = 9
   ul
-    li: a(href="") {{ vegan_faq }}
-    li: a(href="") {{ meal_planning }}
-    li: a(href="") {{ books_on_animal }}
-    li: a(href="") {{ vegan_vendors }}
+    while n < 13
+      li
+        +link(n++)
+
   blockquote
     | {{ whenever_you_find }}
     cite {{ mark_twain }}
@@ -180,11 +185,13 @@ block sidebar-content
     p {{ when_we_consume }}
 
   article
+    +img(5)
     h1
       +link(17)
     p {{ read_a_story_about }}
 
   article
+    +img(6)
     h1 
       +link(18)
     p {{ read_about_a_chicken }}
