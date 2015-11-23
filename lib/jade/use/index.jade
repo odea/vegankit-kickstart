@@ -14,22 +14,28 @@ block page-content
   h2 {{ 34-ingredients }}
   p {{ 20-here-are-some-ani }}
 
-  h3 {{ 30-ambergris }}
+  h3 
+    +link(0)
   p {{ 30-stronga-data-orig }}
 
-  h3 {{ 12-down }}
+  h3 
+    +link(1)
   p {{ 19-stronga-data-orig }}
 
-  h3 {{ 68-gelatin }}
+  h3 
+    +link(2)
   p {{ 61-stronga-data-orig }}
 
-  h3 {{ 67-lanolin }}
+  h3 
+    +link(3)
   p {{ 97-stronga-data-orig }}
 
-  h3 {{ 36-suede }}
+  h3
+    +link(4)
   p {{ 96-stronga-data-orig }}
 
-  h3 {{ 46-tallow }}
+  h3 
+    +link(5)
   p {{ 37-stronga-data-orig }}
 
   h2 {{ 35-what-are-the-test }}
@@ -49,39 +55,42 @@ block page-content
   p {{ 1-while-there-are-pl }}
   p {{ 61-emplease-note-som }}
 
-  p {{ 37-vegetable-scrub }}
-  p {{ 20-hand-sanitizer }}
-  p {{ 68-wet-cleaning-wipe }}
-  p {{ 71-stove-cleaner }}
-  p {{ 30-dishwasher-deterg }}
-  p {{ 97-soap-nuts }}
-  p {{ 29-how-to-clean-ever }}
+  ul
+    - var n = 6
+    while n < 13
+      li
+        +link(n++)
 
   h2 {{ 0-vegan-vendors }}
-  h3 {{ 8-vegan-essentials }}
+  h3 
+    +link(13)
   p {{ 68-stronga-data-orig }}
 
-  h3 {{ 20-amazoncom }}
+  h3 
+    +link(14)
   p {{ 46-stronga-data-orig }}
 
-  h3 {{ 18-pangea }}
+  h3 
+    +link(15)
   p {{ 63-stronga-data-orig }}
 
   blockquote
     | {{ 99-the-time-will-com }}
     cite {{ 13-leonardo-davinci }}
 
-  h2 {{ 47-is-animal-experim }}
-  p {{ 72-veterinary-doctor }}
-
   | {{/use}}
 
 block sidebar-content
   | {{#use}}
+
+  article
+    h1 {{ 47-is-animal-experim }}
+    p {{ 72-veterinary-doctor }}
+
   article
     h1 {{ 38-companies-that-te }}
     p {{ 96-download-this-fre }}
-    button {{ 93-button-classbtn-b }}
+    +link(16, "button")
 
   article
     blockquote
