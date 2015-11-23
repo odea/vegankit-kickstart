@@ -25,47 +25,56 @@ block page-content
 
   h2 {{ 91-animal-rights-boo }}
 
-  h3 {{ 29-rain-without-thun }}
+  h3 
+    +link(0)
   h4 {{ 58-by-gary-l-francio }}
   p {{ 54-are-animal-welfar }}
   p {{ 98-in-this-wide-rang }}
 
-  h3 {{ 89-vegan-freak-being }}
+  h3 
+    +link(1)
   h4 {{ 43-by-bob-and-jenna }}
   p {{ 0-curious-about-vega }}
 
-  h3 {{ 19-animals-as-person }}
+  h3 
+    +link(2)
   h4 {{ 66-by-gary-l-francio }}
   p {{ 35-virtually-all-the }}
 
-  h3 {{ 70-making-a-killing }}
+  h3 
+    +link(3)
   h4 {{ 64-by-bob-torres }}
   p {{ 71-suggest-to-the-av }}
   p {{ 83-combining-nuts-an }}
 
-  h3 {{ 1-anthropocentrism-a }}
+  h3 
+    +link(4)
   h4 {{ 87-by-gary-steiner }}
   p {{ 93-anthropocentrism }}
   p {{ 87-in-recent-decades }}
   p {{ 36-gary-steiner-sket }}
 
-  h3 {{ 54-the-animal-rights }}
+  h3 
+    +link(5)
   h4 {{ 61-by-gary-francione }}
   p {{ 76-the-animal-rights }}
   p {{ 61-gary-steiner-buck }}
 
   h2 {{ 11-what-is-the-aboli }}
-  p {{ 37-abolitionism-desc }}
-  p {{ 21-youre-already-fam }}
+  p 
+    +link(6)
+    &nbsp;{{ 21-youre-already-fam }}
   p {{ 34-at-a-time-there-w }}
 
   h2 {{ 40-welfarism-in-the }}
-  p {{ 77-the-happy-slaves }}
-  p {{ 4-slaveholders-of-th }}
-  p {{ 26-the-bond-that-uni }}
-  p {{ 24-abolitionism-as-f }}
-  p {{ 38-an-abolitionist-a }}
-  p {{ 14-read-more-at-quot }}
+  ul
+    - var n = 7
+    while n < 12
+      li
+        +link(n++)
+
+  p
+    +link(12)
 
   blockquote
     | {{ 89-my-scheme-was-vis }}
@@ -74,32 +83,47 @@ block page-content
   p {{ 71-of-course-we-all }}
   p {{ 89-its-important-to }}
   p {{ 95-while-abolitionis }}
-  p {{ 31-more-abolitionist }}
-  p {{ 55-five-fatal-flaws }}
+  ul
+    li
+      +link(13)
+    li
+      +link(14)
   p {{ 51-now-you-may-be-th }}
-  p {{ 82-lets-clarify-one }}
-  p {{ 21-welfarism-is-no-w }}
-  p {{ its_a_needed_and }}
+  p {{ 82-lets-clarify-one }}&nbsp;
+    +link(15)
+    &nbsp;
+    {{ its_a_needed_and }}
   
   blockquote 
     | {{ 53-producers-can-hav }}
     cite {{ 90-animal-welfare-co }}
 
   p {{ 43-many-animal-organ }}
-  p {{ 21-welfarism-is-para }}
-  p {{ 39-it-makes-the-publ }}
+  p 
+    +link(16)
+    | &nbsp;
+    {{ 10-as-well-because }}&nbsp;
+    +link(17)
+    {{ 39-it-makes-the-publ }}&nbsp;
+    {{ 09-also-the-supposed }}&nbsp;
+    +link(18)
+    | &nbsp;
+    {{ 08-or-marketing }}
   p {{ 83-but-if-welfarism }}
-  p {{ there-is-actually }}
-  p {{ 30-yet-you-may-be-th }}
-  p {{ 77-speaking-from-exp }}
+    +link(19)
+  p {{ 30-yet-you-may-be-th }}&nbsp;
+    +link(20)
   p {{ in_fact_there }}
-  p {{ 28-wouldnt-it-be-str }}
-  p {{ 83-wouldnt-it-be-str }}
+  ul
+    li
+      +link(21)
+    li
+      +link(22)
 
   h2 {{ 6-welfare-cant-be-al }}
   p {{ 63-its-understandabl }}
-  p {{ 73-the-more-you-sear }}
-  p {{ 62-its-not-simply-th }}
+  p {{ 73-the-more-you-sear }}&nbsp;
+    +link(23)
   p {{ welfarism-involves }}
 
   blockquote
