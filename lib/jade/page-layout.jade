@@ -19,3 +19,20 @@ block content
 
     aside.sidebar-content
       block sidebar-content
+
+mixin dollar(lower, upper)
+  span.dollars
+    - var n = 0
+
+    while n < lower
+      | $
+      - n++
+
+    - var n = 0
+
+    | -
+
+    while n < upper
+      | $
+      - n++
+
