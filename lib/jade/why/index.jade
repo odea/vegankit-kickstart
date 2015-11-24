@@ -115,31 +115,71 @@ block page-content
 
 block sidebar-content
   | {{#why}}
-  h1 {{ more_than_56 }}
-  .counter
-    p {{ marine_animals }}
-    p {{ chickens }}
-    p {{ ducks }}
-    p {{ pigs }}
-    p {{ rabbits }}
-    p {{ turkeys }}
-    p {{ geese }}
-    p {{ sheep }}
-    p {{ goats }}
-    p {{ cows_and_calves }}
-    p {{ rodents }}
-    p {{ pigeons_and_other_birds }}
-    p {{ buffaloes }}
-    p {{ dogs }}
-    p {{ cats }}
-    p {{ horses }}
-    p {{ donkeys_and_mules }}
-    p {{ camels and other camelids }}
-  h2 {{ since_this_page }}
-
   article
-    h1 {{ frightened_cow_awaits }}
+    h1 {{ more_than_56 }}
+
+    table.counter
+      tbody
+        tr
+          td 0
+          td {{ marine_animals }}
+        tr
+          td 0
+          td {{ chickens }}
+        tr
+          td 0
+          td {{ ducks }}
+        tr
+          td 0
+          td {{ pigs }}
+        tr
+          td 0
+          td {{ rabbits }}
+        tr
+          td 0
+          td {{ turkeys }}
+        tr
+          td 0
+          td {{ geese }}
+        tr
+          td 0
+          td {{ sheep }}
+        tr
+          td 0
+          td {{ goats }}
+        tr
+          td 0
+          td {{ cows_and_calves }}
+        tr
+          td 0
+          td {{ rodents }}
+        tr
+          td 0
+          td {{ pigeons_and_other_birds }}
+        tr
+          td 0
+          td {{ buffaloes }}
+        tr
+          td 0
+          td {{ dogs }}
+        tr
+          td 0
+          td {{ cats }}
+        tr
+          td 0
+          td {{ horses }}
+        tr
+          td 0
+          td {{ donkeys_and_mules }}
+        tr
+          td 0
+          td {{ camels and other camelids }}
+        tr
+          td(colspan="2" style="text-align: center") {{ since_this_page }}
+
+  article(data-component="video_box")
     +vid-img(1)
+    h1 {{ frightened_cow_awaits }}
     p {{ this_footage_is_not }}
 
   article
@@ -147,18 +187,18 @@ block sidebar-content
       p {{ veganism_is_not }}
       cite {{ ken_hopes }}
 
-  article
-    h1 {{ im_vegan_phillip }}
+  article(data-component="video_box")
     +vid-img(2)
+    h1 {{ im_vegan_phillip }}
     p {{ long_time_vegan }}
     p 
       | {{ read_the_we_are_all }}&nbsp;
       +link(21)
       | .
 
-  article
-    h1 {{ the_faces_of_free_range }}
+  article(data-component="video_box")
     +vid-img(3)
+    h1 {{ the_faces_of_free_range }}
     p {{ footage_of_actual }}
 
   article
@@ -166,43 +206,43 @@ block sidebar-content
       p {{ should_the_rights }}
       cite {{ michaela_osterlund }}
 
-  article
-    h1 {{ watch_the_earthlings }}
+  article(data-component="video_box")
     +vid-img(4)
+    h1 {{ watch_the_earthlings }}
     p {{ warning_graphic_footage }}
     p {{ this_is_what_it_means }}
     p {{ its_easy_to_watch }}
     p
       +link(15)
 
-  article
-    h1 {{ the_truth_behind }}
+  article(data-component="video_box")
     +vid-img(5)
+    h1 {{ the_truth_behind }}
     p {{ an_illustrated_account }}
     p 
       +link(16)
 
-  article
-    h1 {{ the_truth_behind_eggs }}
+  article(data-component="video_box")
     +vid-img(6)
+    h1 {{ the_truth_behind_eggs }}
     p {{ an_illustrated_account_eggs }}
     p {{ when_we_consume }}
 
-  article
+  article(data-component="video_box")
     +img(5)
     h1
       +link(17)
     p {{ read_a_story_about }}
 
-  article
+  article(data-component="video_box")
     +img(6)
     h1 
       +link(18)
     p {{ read_about_a_chicken }}
 
-  article
-    h1 {{ breaking_the_set }}
+  article(data-component="video_box")
     +vid-img(7)
+    h1 {{ breaking_the_set }}
     p {{ rutgers_law_professor }}
       {{ eat_like_you_care }}
       {{ and_website }}&nbsp;
