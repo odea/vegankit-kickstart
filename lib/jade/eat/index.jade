@@ -172,49 +172,57 @@ block page-content
 
   h2 {{ 66-recipes }}
   p {{ 93-thinking-about-wh }}
-  +img(6, "image_bleed")
+  div(data-anchor-image="breakfast")
+    +img(6, "image_bleed")
   p
     +link(26)
   
-  h3 {{ 92-breakfast }}
-  ul.unstyled
-    - var n = 27
-    while n < 42
-      li
-        +link(n++)
+  div(data-anchor-menu="breakfast")
+    h3 {{ 92-breakfast }}
+    ul.unstyled
+      - var n = 27
+      while n < 42
+        li
+          +link(n++)
 
-  +img(7, "image_bleed")
+  div(data-anchor-image="lunch")
+    +img(7, "image_bleed")
   p
     +link(42)
 
-  h3 {{ 19-lunch }}
-  ul.unstyled
-    - var n = 43
-    while n < 55
-      li
-        +link(n++)
+  div(data-anchor-menu="lunch")
+    h3 {{ 19-lunch }}
+    ul.unstyled
+      - var n = 43
+      while n < 55
+        li
+          +link(n++)
 
-  +img(8, "image_bleed")
+  div(data-anchor-image="dinner")
+    +img(8, "image_bleed")
   p
     +link(55)
 
-  h3 {{ 17-dinner }}
-  ul.unstyled
-    - var n = 56
-    while n < 72
-      li
-        +link(n++)
+  div(data-anchor-menu="dinner")
+    h3 {{ 17-dinner }}
+    ul.unstyled
+      - var n = 56
+      while n < 69
+        li
+          +link(n++)
 
-  +img(9, "image_bleed")
+  div(data-anchor-image="sweets")
+    +img(9, "image_bleed")
   p
     +link(72)
 
-  h3 {{ 95-snacks-and-sweets }}
-  ul.unstyled
-    - var n = 73
-    while n < 86
-      li
-        +link(n++)
+  div(data-anchor-menu="sweets")
+    h3 {{ 95-snacks-and-sweets }}
+    ul.unstyled
+      - var n = 73
+      while n < 86
+        li
+          +link(n++)
 
   h2 {{ 42-food-blogs }}
   ul.unstyled

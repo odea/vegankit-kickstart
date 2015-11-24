@@ -16,6 +16,7 @@
       padding:
         left: calc((100vw - #{$tablet-landscape})/2)
         right: $space
+      margin-left: $space
 
     @media screen and (min-width: $desktop)
       width: calc(#{$desktop}*(0.65) + ((100vw - #{$desktop})/2))
@@ -42,7 +43,7 @@
     @media screen and (min-width: $tablet-landscape)
       width: calc(#{$tablet-landscape}*(1/4) + ((100vw - #{$tablet-landscape})/2))
       padding:
-        right: calc((100vw - #{$tablet-landscape})/2)
+        right: calc((100vw - #{$tablet-landscape - $space})/2)
         left: $space
       margin:
         bottom: 0
@@ -50,7 +51,7 @@
     @media screen and (min-width: $desktop)
       width: calc(#{$desktop}*(0.35) + ((100vw - #{$desktop})/2))
       padding:
-        right: calc((100vw - #{$desktop})/2)
+        right: calc((100vw - #{$desktop - $space})/2)
         top: 290px
 
   h1
@@ -133,3 +134,27 @@
       &:before
         content: "–"
         display: inline-block
+
+  [data-anchor-image]
+    [data-anchor-menu]
+      display: none
+
+  +gt($desktop)
+    [data-anchor-menu]
+      display: none
+
+    [data-anchor-image]
+      position: relative
+
+      [data-anchor-menu]
+        display: block
+        position: absolute
+        top: 0
+        right: calc(-50vw + 150px)
+        width: calc(#{$desktop}*(0.35) + ((100vw - #{$desktop + 100px})/2))
+
+        ul.unstyled
+          li
+            width: 100%
+            display: block
+            margin-bottom: 4px
