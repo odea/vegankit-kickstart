@@ -19,53 +19,65 @@ block page-content
     | {{ 16-speciesism-is-mor }}
     cite {{ 53-gary-l-francione }}
 
-  +img(0)
+  +img(0, "image_bleed")
   h2 {{ 81-what-is-sentience }}
   p {{ 34-like-us-the-anima }}
   p {{ 91-that-is-a-system }}
 
   h2 {{ 91-animal-rights-boo }}
 
-  +img(1)
-  h3 
-    +link(0)
-  h4 {{ 58-by-gary-l-francio }}
-  p {{ 54-are-animal-welfar }}
-  p {{ 98-in-this-wide-rang }}
+  div(data-component="image_module")
+    +img(1)
+    article
+      h3 
+        +link(0)
+      h4 {{ 58-by-gary-l-francio }}
+      p {{ 54-are-animal-welfar }}
+      p {{ 98-in-this-wide-rang }}
 
-  +img(2)
-  h3 
-    +link(1)
-  h4 {{ 43-by-bob-and-jenna }}
-  p {{ 0-curious-about-vega }}
+  div(data-component="image_module")
+    +img(2)
+    article
+      h3 
+        +link(1)
+      h4 {{ 43-by-bob-and-jenna }}
+      p {{ 0-curious-about-vega }}
 
-  +img(3)
-  h3 
-    +link(2)
-  h4 {{ 66-by-gary-l-francio }}
-  p {{ 35-virtually-all-the }}
+  div(data-component="image_module")
+    +img(3)
+    article
+      h3 
+        +link(2)
+      h4 {{ 66-by-gary-l-francio }}
+      p {{ 35-virtually-all-the }}
 
-  +img(4)
-  h3 
-    +link(3)
-  h4 {{ 64-by-bob-torres }}
-  p {{ 71-suggest-to-the-av }}
-  p {{ 83-combining-nuts-an }}
+  div(data-component="image_module")
+    +img(4)
+    article
+      h3 
+        +link(3)
+      h4 {{ 64-by-bob-torres }}
+      p {{ 71-suggest-to-the-av }}
+      p {{ 83-combining-nuts-an }}
 
-  +img(5)
-  h3 
-    +link(4)
-  h4 {{ 87-by-gary-steiner }}
-  p {{ 93-anthropocentrism }}
-  p {{ 87-in-recent-decades }}
-  p {{ 36-gary-steiner-sket }}
+  div(data-component="image_module")
+    +img(5)
+    article
+      h3 
+        +link(4)
+      h4 {{ 87-by-gary-steiner }}
+      p {{ 93-anthropocentrism }}
+      p {{ 87-in-recent-decades }}
+      p {{ 36-gary-steiner-sket }}
 
-  +img(6)
-  h3 
-    +link(5)
-  h4 {{ 61-by-gary-francione }}
-  p {{ 76-the-animal-rights }}
-  p {{ 61-gary-steiner-buck }}
+  div(data-component="image_module")
+    +img(6)
+    article
+      h3 
+        +link(5)
+      h4 {{ 61-by-gary-francione }}
+      p {{ 76-the-animal-rights }}
+      p {{ 61-gary-steiner-buck }}
 
   h2 {{ 11-what-is-the-aboli }}
   p 
@@ -74,14 +86,15 @@ block page-content
   p {{ 34-at-a-time-there-w }}
 
   h2 {{ 40-welfarism-in-the }}
-  ul
+  ul.unstyled
     - var n = 7
     while n < 12
       li
         +link(n++)
 
-  p
-    +link(12)
+    li
+      em
+        +link(12)
 
   blockquote
     | {{ 89-my-scheme-was-vis }}
@@ -90,7 +103,7 @@ block page-content
   p {{ 71-of-course-we-all }}
   p {{ 89-its-important-to }}
   p {{ 95-while-abolitionis }}
-  ul
+  ul.unstyled
     li
       +link(13)
     li
@@ -121,7 +134,7 @@ block page-content
   p {{ 30-yet-you-may-be-th }}&nbsp;
     +link(20)
   p {{ in_fact_there }}
-  ul
+  ul.unstyled
     li
       +link(21)
     li
