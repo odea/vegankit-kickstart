@@ -33,18 +33,22 @@ block page-content
 
   h3 {{ 1-emtipsem }}
   p {{ 95-vitamin-c-rich-fo }}
-  +img(1)
-  p 
-    +link(2)
+  figure(data-component="image_thumbnail")
+    +img(1)
+    figcaption
+      +link(2)
+
   p {{ 2-strongb12strong-20 }}
-  ul
+  
+  ul.unstyled
     li
       +link(3)
     li
       +link(4)
   p {{ 91-strongomega-3stro }}
   p {{ 79-according-to-mich }}
-  ul
+
+  ul.unstyled
     li
       +link(5)
     li
@@ -53,7 +57,8 @@ block page-content
   p {{ 22-strongvitamin-dst }}
   p {{ note_vitamin_D3 }}
   p {{ 19-important-if-you }}
-  ul
+  
+  ul.unstyled
     li
       +link(7)
   p 
@@ -62,34 +67,42 @@ block page-content
   h2 {{ 10-special-foods }}
   p {{ 66-spend-some-time-w }}
 
-  +img(2)
-  h3 {{ 27-tempeh }}
-  p {{ 6-tempeh-tem-pea-or }}
-  p
-    +link(8)
+  div(data-component="image_module")
+    +img(2)
+    article
+      h3 {{ 27-tempeh }}
+      p {{ 6-tempeh-tem-pea-or }}
+      p
+        +link(8)
 
-  +img(3)
-  h3 {{ 55-tofu }}
-  p {{ 77-tofu-is-a-solid-f }}&nbsp;
-    +link(9)&nbsp;
-    {{ a_dinner_dish_like }}
-    +link(10)
-    ,&nbsp;
-    +link(11)
-  p {{ tofu_gets_a_bad }}
+  div(data-component="image_module")
+    +img(3)
+    article
+      h3 {{ 55-tofu }}
+      p {{ 77-tofu-is-a-solid-f }}&nbsp;
+        +link(9)&nbsp;
+        {{ a_dinner_dish_like }}
+        +link(10)
+        ,&nbsp;
+        +link(11)
+      p {{ tofu_gets_a_bad }}
 
-  +img(4)
-  h3 {{ 24-seitan }}
-  p {{ 41-seitan-is-a-chewy }}
-  p {{ 86-like-tempeh-seita }}
-  p
-    +link(12)
+  div(data-component="image_module")
+    +img(4)
+    article
+      h3 {{ 24-seitan }}
+      p {{ 41-seitan-is-a-chewy }}
+      p {{ 86-like-tempeh-seita }}
+      p
+        +link(12)
 
-  +img(5)
-  h3 {{ 50-nutritional-yeast }}
-  p {{ 31-nutritional-yeast }}
-  p
-    +link(13)
+  div(data-component="image_module")
+    +img(5)
+    article
+      h3 {{ 50-nutritional-yeast }}
+      p {{ 31-nutritional-yeast }}
+      p
+        +link(13)
   
   h2 {{ 80-ingredients }}
   p {{ 31-the-number-of-non }} 
@@ -137,172 +150,187 @@ block page-content
 
   h2 {{ 13-replacements }}
   p {{ 0-here-are-some-quic }}
-  p {{ 71-eggs }}
-  p {{ apple-sauce }}
+  h3 {{ 71-eggs }}
+  h4 {{ apple-sauce }}
   p {{ 36-strongapple-sauce }}
-  p {{ ground_flax_seed }}
+  h4 {{ ground_flax_seed }}
   p {{ 28-strongground-flax }}
-  p {{ banana }}
+  h4 {{ banana }}
   p {{ 17-strongbananastron }}
-  p {{ baking-soda-powder }}
+  h4 {{ baking-soda-powder }}
   p {{ 28-strongbaking-soda }}
-  p {{ 34-milk }}
-  p {{ soy-oat-hemp }}
+  h3 {{ 34-milk }}
+  h4 {{ soy-oat-hemp }}
   p {{ 20-strongsoyoathempa }}
-  p {{ vegetable-oil }}
+  h4 {{ vegetable-oil }}
   p {{ 15-strongvegetable-o }}
 
   h2 {{ 66-recipes }}
   p {{ 93-thinking-about-wh }}
-  +img(6)
+  +img(6, "image_bleed")
   p
     +link(26)
   
   h3 {{ 92-breakfast }}
-  ul
+  ul.unstyled
     - var n = 27
     while n < 42
       li
         +link(n++)
 
-  +img(7)
+  +img(7, "image_bleed")
   p
     +link(42)
 
   h3 {{ 19-lunch }}
-  ul
+  ul.unstyled
     - var n = 43
     while n < 55
       li
         +link(n++)
 
-  +img(8)
+  +img(8, "image_bleed")
   p
     +link(55)
 
   h3 {{ 17-dinner }}
-  ul
+  ul.unstyled
     - var n = 56
     while n < 72
       li
         +link(n++)
 
-  +img(9)
+  +img(9, "image_bleed")
   p
     +link(72)
 
   h3 {{ 95-snacks-and-sweets }}
-  ul
+  ul.unstyled
     - var n = 73
     while n < 86
       li
         +link(n++)
 
   h2 {{ 42-food-blogs }}
-  ul
+  ul.unstyled
     - var n = 87
     while n < 107
       li
         +link(n++)
 
   h2 {{ 37-cookbooks }}
-  +img(10)
-  h3 
-    +link(107)
-  p {{ by_vincent_j }}
-  p {{ 48-weaving-together }}
-  p {{ 26-clear-text-provid }}
 
-  ul
+  div(data-component="image_module")
+    +img(10)
+    article
+      h1 
+        +link(107)
+      p {{ by_vincent_j }}
+      p {{ 48-weaving-together }}
+      p {{ 26-clear-text-provid }}
+
+  ul.unstyled
     - var n = 108
     while n < 114
       li
         +link(n++)
 
-  +img(11)
-  h3
-    +link(114)
-  p {{ by_lauren_ulm }}
-  p {{ 78-when-lauren-ulm-w }}
-  p {{ 31-here-in-her-debut }}
+  div(data-component="image_module")
+    +img(11)
+    article
+      h3
+        +link(114)
+      p {{ by_lauren_ulm }}
+      p {{ 78-when-lauren-ulm-w }}
+      p {{ 31-here-in-her-debut }}
 
-  ul
+  ul.unstyled
     - var n = 115
     while n < 121
       li
         +link(n++)
 
-  +img(12)
-  h3 
-    +link(121)
-  p {{ by_colleen_patrick }}
-  p {{ 35-a-celebration-of }}
-  p {{ 0-packed-with-invalu }}
-  p {{ 86-organized-by-them }}
+  div(data-component="image_module")
+    +img(12)
+    article
+      h3 
+        +link(121)
+      p {{ by_colleen_patrick }}
+      p {{ 35-a-celebration-of }}
+      p {{ 0-packed-with-invalu }}
+      p {{ 86-organized-by-them }}
 
-  ul
+  ul.unstyled
     - var n = 122
     while n < 130
       li
         +link(n++)
 
-  +img(13)
-  h3
-    +link(130)
-  p {{ by_dreena_burton }}
-  p {{ 41-vegan-food-has-co }}
-  p {{ 48-it-has-evolved-in }}
-  p {{ 61-theres-no-relying }}
+  div(data-component="image_module")
+    +img(13)
+    article
+      h3
+        +link(130)
+      p {{ by_dreena_burton }}
+      p {{ 41-vegan-food-has-co }}
+      p {{ 48-it-has-evolved-in }}
+      p {{ 61-theres-no-relying }}
 
-  ul
+  ul.unstyled
     - var n = 131
     while n < 139
       li
         +link(n++)
   
-  +img(14)
-  h3
-    +link(139)
-  p {{ by_mark_reinfeld_and_jennifer }}
-  p {{ 88-busy-vegans-rejoi }}
-  p {{ 10-sections-include }}
-  p {{ 75-the-30-minute-veg }}
+  div(data-component="image_module")
+    +img(14)
+    article
+      h3
+        +link(139)
+      p {{ by_mark_reinfeld_and_jennifer }}
+      p {{ 88-busy-vegans-rejoi }}
+      p {{ 10-sections-include }}
+      p {{ 75-the-30-minute-veg }}
 
-  ul
+  ul.unstyled
     - var n = 140
     while n < 143
       li
         +link(n++)
 
   h2 {{ 25-desserts }}
-  ul
+  ul.unstyled
     - var n = 143
     while n < 149
       li
         +link(n++)
 
-  +img(15)
-  h3 
-    +link(149)
-  p {{ 96-a-seasoned-cookin }}
-  p {{ 6-more-than-just-a-c }}
+  div(data-component="image_module")
+    +img(15)
+    article
+      h3 
+        +link(149)
+      p {{ 96-a-seasoned-cookin }}
+      p {{ 6-more-than-just-a-c }}
 
-  ul
+  ul.unstyled
     - var n = 150
     while n < 155
       li
         +link(n++)
 
-  +img(16)
-  h3 
-    +link(155)
-  p {{ by_isa_chandra }}
-  p {{ 6-the-hosts-of-the-v }}
-  p {{ 51-a-companion-volum }}
-  p {{ 93-when-vegan-cupcak }}
+  div(data-component="image_module")
+    +img(16)
+    article
+      h3 
+        +link(155)
+      p {{ by_isa_chandra }}
+      p {{ 6-the-hosts-of-the-v }}
+      p {{ 51-a-companion-volum }}
+      p {{ 93-when-vegan-cupcak }}
 
+  +img(17, "image_bleed")
   h2 {{ 53-restaurants-near }}
-  +img(17)
   p {{ 47-even-if-you-dont }}
 
   h3
@@ -318,9 +346,9 @@ block page-content
   p {{ 95-vegguide-is-simil }}
 
   h2 {{ 9-vegan-stores }}
-  +img(18)
   p {{ 89-here-are-a-few-pl }}
 
+  +img(18, "image_solitary")
   h3 
     +link(159)
   p {{ 28-vegan-essentials }}
@@ -343,42 +371,41 @@ block page-content
 
 block sidebar-content
   | {{#eat}}
-  article
-    +img(20)
+  article(data-component="video_box")
+    +img(20, "image_solitary")
     h1 {{ 46-free-vegan-nutrit }}
     p {{ 40-download-this-fre }}
     +link(162, "button")
     &nbsp;
     +link(163, "button")
 
-  article
     blockquote
       | {{ 43-strong-classespec }}
       cite {{ 33-prof-gary-l-franc }}
 
-  article
+  article(data-component="video_box")
     +vid-img(0)
     h1 {{ 98-forks-over-knives }}
     p {{ 23-this-documentary }}
 
-  article
+  article(data-component="video_box")
     +vid-img(1)
     h1 {{ 46-what-makes-you-si }}
     p {{ 31-vegan-doctor-and }}
 
-  article
+  article(data-component="video_box")
     +vid-img(2)
     h1 {{ 18-vegan-bodybuildin }}
     p {{ 69-contrary-to-popul }}
 
-  article
+  article(data-component="video_box")
     +vid-img(3)
     h1 {{ 27-quinoa-kitchari }}
     p {{ 89-chef-julie-hasson }}
     p 
       +link(164)
 
-  article
+  article(data-component="video_box")
     +vid-img(4)
     h1 {{ 20-viva-la-vegan-scr }}
     p 
@@ -386,7 +413,7 @@ block sidebar-content
       &nbsp;
       {{ makes-a-quick-and }}
   
-  article
+  article(data-component="video_box")
     +vid-img(5)
     h1 {{ 94-creamy-cauliflowe }}
     p 
@@ -394,7 +421,7 @@ block sidebar-content
       &nbsp;
       {{ demonstrates-her-creamy }}
 
-  article
+  article(data-component="video_box")
     +vid-img(6)
     h1 {{ 53-stuffed-broccoli }}
     p
@@ -402,25 +429,25 @@ block sidebar-content
       &nbsp;
       {{ creates-a-pizza-just }}
 
-  article
+  article(data-component="video_box")
     +vid-img(7)
     h1 {{ 7-vegan-baking-demys }}
     p {{ 9-colleen-patrick-go }}
   
-  article
+  article(data-component="video_box")
     +vid-img(8)
     h1 {{ 59-peteys-pumpkin-cu }}
     p {{ 64-ptisseur-petey-ro }}
 
-  article
+  article(data-component="video_box")
     +vid-img(9)
     h1 {{ 78-chocolate-chip-co }}
     p {{ 30-everyday-dish-gue }}
     p 
       +link(168)
 
-  article
-    +img(21)
+  article(data-component="video_box")
+    +img(21, "image_solitary")
     h1 {{ 27-free-recipe-sheet }}
     p {{ 93-this-free-recipe }}
     +link(169, "button")
@@ -434,7 +461,7 @@ block sidebar-content
   //   h1 {{ 93-theres-even-vegan }}
   //   p {{ 43-click-on-our-set }}
 
-  article
+  article(data-component="video_box")
     +img(22)
     h1 
       +link(170)

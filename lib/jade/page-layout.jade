@@ -7,8 +7,8 @@ mixin vid-img(id, vendor)
 mixin link(id, classname)
   a(href="{{ links.#{id}.href }}" class=classname) {{ links.#{id}.title }}
 
-mixin img(id)
-  img(src="//cdn.everything.io/vegankit/images/{{ images.#{id} }}.jpg")
+mixin img(id, component)
+  img(src="//cdn.everything.io/vegankit/images/{{ images.#{id} }}.jpg" data-component=component)
 
 block content
   include ./_includes/_page-nav.jade
