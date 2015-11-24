@@ -33,6 +33,11 @@
     > article
       margin-bottom: $space*2
 
+      +gt($phablet)
+        max-width: $phone
+        margin-left: auto
+        margin-right: auto
+
     @media screen and (min-width: $tablet-landscape)
       width: calc(#{$tablet-landscape}*(1/4) + ((100vw - #{$tablet-landscape})/2))
       padding:
@@ -87,17 +92,6 @@
       left: -$space
       right: -$space
       bottom: $space
-
-    h1
-      +heading_sm
-
-    p
-      font-size: 0.95rem
-      line-height: 1.4rem
-
-    iframe
-      padding: 0
-      margin-bottom: 0
 
   p
     +p(true)

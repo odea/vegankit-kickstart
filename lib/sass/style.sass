@@ -36,3 +36,9 @@ img
 ul.unstyled
   +list($style: 'unstyled')
   margin-bottom: $space*2
+
+  +gt($phablet)
+    li:not([data-component="image_module"])
+      width: 50%
+      vertical-align: top
+      display: inline-block

@@ -26,9 +26,10 @@ block page-content
   p {{ animals_are_a_constant }}
 
   aside.featurette
-    +vid-img(0)
-    h1 {{ dogs_cats_cows }}
-    p {{ watch_this_video_of_a }}
+    div(data-component="video_box")
+      +vid-img(0)
+      h1 {{ dogs_cats_cows }}
+      p {{ watch_this_video_of_a }}
     
   p {{ when_they_pass_away }}
 
