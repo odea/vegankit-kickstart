@@ -43,10 +43,10 @@ block page-content
     +link(2)
   p {{ for_example_there_are_no }}
   blockquote
-    | {{ as_with_any_other_form }}
+    p {{ as_with_any_other_form }}
   +img(1)
   blockquote
-    | {{ humans_have_no_need }}
+    p {{ humans_have_no_need }}
     cite {{ angel_flinn }}
   p 
     {{ animals_suffer_from_cold }}&nbsp;
@@ -54,7 +54,7 @@ block page-content
   p {{ to_some_humane_legislation }}
   p {{ animal_welfare_fosters_more }}
   blockquote 
-    | {{ the_use_of_humane_slaughter }}
+    p {{ the_use_of_humane_slaughter }}
     cite {{ united_states_humane_slaughter }}
   p {{ notice_the_lack_of_any }}
 
@@ -67,24 +67,28 @@ block page-content
     +link(5)
   h2 {{ dont_i_need_animal }}
   blockquote
-    | {{ properly_planned_vegan_diets }}
+    p {{ properly_planned_vegan_diets }}
     cite {{ america_dietetic_association }}
-  +img(2)
-  p {{ not_only_are_animal_products }}
-  p
-    +link(6)
-  p 
-    +link(22)
-    | &nbsp;{{ by_t_colin_campbell }}
 
-  +img(3)
-  p 
-    | {{ sentience_is_all }}&nbsp;
-    +link(8)
+  div(data-component="image_module")
+    +img(2)
+    article
+      p {{ not_only_are_animal_products }}
+      p
+        +link(6)
+      p 
+        +link(22)
+        | &nbsp;{{ by_t_colin_campbell }}
+
+  figure(data-component="image_thumbnail")
+    +img(3)
+    figcaption
+      | {{ sentience_is_all }}&nbsp;
+      +link(8)
 
   h2 {{ is_veganism_good_for_the }}
   blockquote
-    | {{ about_2000_pounds }}
+    p {{ about_2000_pounds }}
     cite {{ me_ensminger }}
   p {{ consuming_a_plant_based }}
   p {{ compare_that_to_25 }}
@@ -95,17 +99,17 @@ block page-content
   p {{ imagine_instead }}
   +img(4)
   blockquote
-    | {{ go_vegan_its_better }}
+    p {{ go_vegan_its_better }}
     cite {{ gary_l_francione }}
   p {{ check_out_some }}
   - var n = 9
-  ul
+  ul.unstyled
     while n < 13
       li
         +link(n++)
 
   blockquote
-    | {{ whenever_you_find }}
+    p {{ whenever_you_find }}
     cite {{ mark_twain }}
   | {{/why}}
 
@@ -140,7 +144,7 @@ block sidebar-content
 
   article
     blockquote
-      | {{ veganism_is_not }}
+      p {{ veganism_is_not }}
       cite {{ ken_hopes }}
 
   article
@@ -159,7 +163,7 @@ block sidebar-content
 
   article
     blockquote
-      | {{ should_the_rights }}
+      p {{ should_the_rights }}
       cite {{ michaela_osterlund }}
 
   article

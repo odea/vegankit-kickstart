@@ -78,3 +78,30 @@
 
   p
     +p(true)
+
+  blockquote
+    font-family: $blockquote-font-family
+    margin: 1.5rem 10px
+    padding: 0.5rem 25px
+    quotes: "\201C""\201D"
+
+    &:before
+      content: open-quote
+      font-size: 3.5rem
+      line-height: 4rem
+      margin-top: -20px
+      vertical-align: -0.4rem
+      position: absolute
+      left: 30px
+
+    p
+      display: inline
+      font-size: 1.5rem
+      line-height: 2.5rem
+
+    cite
+      display: block
+
+      &:before
+        content: "–"
+        display: inline-block
