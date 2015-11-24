@@ -580,7 +580,7 @@
         "href": "http://happyherbivore.com/2009/10/blueberry-oatmeal-muffins/"
       },
       {
-        "title": "Smokey Miso Tofu from Vegan Yum Yum",
+        "title": "Smokey Miso Tofu",
         "href": "http://www.tastebook.com/recipes/730715-Smokey-Miso-Tofu"
       },
       {
@@ -1097,6 +1097,11 @@
       }
     ],
     "title": "Eating",
+    "2-from-cookthink": "from CookThink",
+    "2-from-vyy": "from VeganYumYum",
+    "2-from-babble": "from Babble",
+    "2-from-tastebook": "from Tastebook",
+    "2-from-food-dot-com": "from Food.com",
     "99-vitamin-c": "Vitamin C",
     "99-b-12": "B12",
     "99-omega-3": "Omega-3",

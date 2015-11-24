@@ -13,3 +13,47 @@
 
   .button
     +button-color(map-get($colors, orange))
+
+  [data-anchor-label]
+    span
+      margin-left: $space/5
+
+    +gt($desktop)
+      background: map-get($black, light)
+      top: 0
+      right: 0
+      padding: $space/2
+      color: white
+      font-family: $heading-font-family
+      font-size: 1.5rem
+      line-height: normal
+
+      a
+        color: white
+
+      span
+        margin-right: 0
+        font-family: $default-font-family
+        display: block
+        font-size: 1rem
+
+  [data-anchor-image="breakfast"]
+    [data-anchor-label]
+      top: 50%
+
+  [data-anchor-image="lunch"],
+  [data-anchor-image="dinner"]
+    [data-anchor-label]
+      top: 10%
+      left: $space
+      right: auto
+
+  [data-anchor-image="sweets"]
+    [data-anchor-label]
+      top: 75%
+      left: $space
+      right: auto
+
+  .button
+    margin-bottom: $space/5
+

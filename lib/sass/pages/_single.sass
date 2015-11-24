@@ -136,19 +136,24 @@
         display: inline-block
 
   [data-anchor-image]
-    [data-anchor-menu]
+    [data-anchor-menu],
+    [data-anchor-label]
       display: none
 
   +gt($desktop)
-    [data-anchor-menu]
+    [data-anchor-menu],
+    [data-anchor-label]
       display: none
 
     [data-anchor-image]
       position: relative
 
+      [data-anchor-label],
       [data-anchor-menu]
         display: block
         position: absolute
+
+      [data-anchor-menu]
         top: 0
         right: calc(-50vw + 150px)
         width: calc(#{$desktop}*(0.35) + ((100vw - #{$desktop + 100px})/2))
