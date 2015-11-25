@@ -1,32 +1,38 @@
+.icon-list li,
+.page-icon
+  &:nth-child(1)
+    svg
+      g
+        fill: darken(map-get($colors, blue), 10%)
+
+  &:nth-child(2)
+    svg
+      g
+        fill: darken(map-get($colors, green), 10%)
+
+  &:nth-child(3)
+    svg
+      g
+        fill: darken(map-get($colors, orange), 10%)
+
+  &:nth-child(4)
+    svg
+      g
+        fill: darken(map-get($colors, teal), 10%)
+
+  &:nth-child(5)
+    svg
+      g
+        fill: darken(map-get($colors, yellow), 5%)
+
+  &:nth-child(6)
+    svg
+      g
+        fill: darken(map-get($colors, grassstain), 10%)
+
+.page-icon
+  display: none
+
 .icon-list
-  li
-    &:nth-child(1)
-      svg
-        g
-          fill: darken(map-get($colors, blue), 10%)
-
-    &:nth-child(2)
-      svg
-        g
-          fill: darken(map-get($colors, green), 10%)
-
-    &:nth-child(3)
-      svg
-        g
-          fill: darken(map-get($colors, orange), 10%)
-
-    &:nth-child(4)
-      svg
-        g
-          fill: darken(map-get($colors, teal), 10%)
-
-    &:nth-child(5)
-      svg
-        g
-          fill: darken(map-get($colors, yellow), 5%)
-
-    &:nth-child(6)
-      svg
-        g
-          fill: darken(map-get($colors, grassstain), 10%)
-
+  svg
+    opacity: 0.4

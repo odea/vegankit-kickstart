@@ -7,6 +7,29 @@
 
 header.page-nav
   nav
+    ul
+      li.page-icon
+        != cow
+        span {{ why.title }}
+      li.page-icon
+        != butterfly
+        span {{ be.title }}
+      li.page-icon
+        != apple
+        span {{ eat.title }}
+      li.page-icon
+        != shoe
+        span {{ wear.title }}
+      li.page-icon
+        != bottle
+        span {{ use.title }}
+      li.page-icon
+        != tree
+        span {{ learn.title }}
+      li.navbar-title
+        h1 
+          a(href="/") VeganKit
+
     ul.icon-list
       li: a(href="/{{ rootDir }}why") 
           != cow

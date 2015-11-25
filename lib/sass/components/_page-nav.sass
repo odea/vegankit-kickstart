@@ -19,6 +19,55 @@
       > li > a:not([role="button"])
         padding: 5px
 
+  nav>ul>li
+    &.navbar-title
+      display: none
+
+      h1
+        margin-top: -14px
+
+        a
+          color: $default-font-color
+
+    &.page-icon
+      svg
+        display: inline-block
+        margin: -5px 0
+        vertical-align: middle
+
+      span
+        display: inline-block
+        margin: 0 -14px 0 7px
+
+    &>a:not([role="button"])
+      &:hover,
+      &.active
+        background: white
+        border-color: white
+
+        svg
+          +gt($tablet)
+            opacity: 1
+
   svg
     width: 40px
     height: 40px
+    margin-bottom: -2px
+
+  +gt($tablet)
+    bottom: auto
+    top: 0
+
+    nav>ul>li.navbar-title
+      display: block
+
+      h1
+        font-family: $heading-font-family
+        font-weight: bold
+
+    nav
+      max-width: $xl-monitor
+      padding:
+        left: $space/2
+        right: $space/2
+
