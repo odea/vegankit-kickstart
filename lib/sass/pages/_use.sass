@@ -10,6 +10,14 @@
   .button
     +button-color(map-get($colors, yellow))
 
+  ul.icon-list .use
+    svg
+      opacity: 1
+
   +gt($tablet)
     .page-icon:nth-child(5)
       display: block
+
+    ul.icon-list .use
+      svg
+        opacity: 0.4

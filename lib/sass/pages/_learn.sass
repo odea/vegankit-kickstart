@@ -10,6 +10,14 @@
   .button
     +button-color(map-get($colors, grassstain))
 
+  ul.icon-list .learn
+    svg
+      opacity: 1
+
   +gt($tablet)
     .page-icon:nth-child(6)
       display: block
+
+    ul.icon-list .learn
+      svg
+        opacity: 0.4

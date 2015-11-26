@@ -5,7 +5,7 @@
 - var bottle = fs.readFileSync('lib/img/bottle.svg')
 - var tree = fs.readFileSync('lib/img/tree.svg')
 
-header.page-nav
+header.page-nav#page-nav
   nav
     ul
       li.page-icon
@@ -31,17 +31,17 @@ header.page-nav
           a(href="/") VeganKit
 
     ul.icon-list
-      li: a(href="/{{ rootDir }}why") 
+      li: a.why(href="/{{ rootDir }}why") 
           != cow
-      li: a(href="/{{ rootDir }}be") 
+      li: a.be(href="/{{ rootDir }}be") 
           != butterfly
-      li: a(href="/{{ rootDir }}eat") 
+      li: a.eat(href="/{{ rootDir }}eat") 
           != apple
-      li: a(href="/{{ rootDir }}wear") 
+      li: a.wear(href="/{{ rootDir }}wear") 
           != shoe
-      li: a(href="/{{ rootDir }}use") 
+      li: a.use(href="/{{ rootDir }}use") 
           != bottle
-      li: a(href="/{{ rootDir }}learn") 
+      li: a.learn(href="/{{ rootDir }}learn") 
           != tree
 
     ul(style="display: none")

@@ -7,5 +7,14 @@
   [data-page-type="single"] .page-content
     background-color: map-get($colors, green)
 
-  .page-icon:nth-child(2)
-    display: block
+  ul.icon-list .be
+    svg
+      opacity: 1
+
+  +gt($tablet)
+    .page-icon:nth-child(2)
+      display: block
+
+    ul.icon-list .be
+      svg
+        opacity: 0.4
