@@ -19,6 +19,14 @@
         top: $space*3
       margin-left: $space
 
+      h1, h2, h3, h4, h5
+        &:not(.toc-exempt)
+          &:before
+            content: ""
+            display: block
+            height: 90px
+            margin: -90px 0 0
+
     @media screen and (min-width: $desktop)
       width: calc(#{$desktop}*(0.65) + ((100vw - #{$desktop})/2))
       padding:
