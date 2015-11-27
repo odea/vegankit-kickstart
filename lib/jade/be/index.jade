@@ -15,6 +15,8 @@ block page-content
     p {{ veganism_is_not }}
     cite Gary L. Francione
 
+  #toc
+
   h2 {{ where_to_start }}
   p {{ some_of_our_newly }}&nbsp;
     +link(0)
@@ -54,7 +56,7 @@ block page-content
   h3 {{ raising_vegan_children }}
   p {{ plenty_of_vegans_have }}
 
-  h4 {{ check_out_these_blogs }}
+  h4.toc-exempt {{ check_out_these_blogs }}
   ul.unstyled
     li
       +link(5)
@@ -70,45 +72,45 @@ block page-content
     li(data-component="image_module")
       +img(2)
       article
-        h1 
+        h1.toc-exempt 
           +link(7)
-        h2 {{ by_gary_francione_and_anna }}
+        h2.toc-exempt {{ by_gary_francione_and_anna }}
         blockquote
           | {{ brilliantly_written_clear }}
 
     li(data-component="image_module")
       +img(3)
       article
-        h1 
+        h1.toc-exempt 
           +link(8)
-        h2 {{ by_brenda_davis_and }}
+        h2.toc-exempt {{ by_brenda_davis_and }}
         blockquote
           | {{ everything_you_need }}
 
     li(data-component="image_module")
       +img(4)
       article
-        h1 
+        h1.toc-exempt
           +link(9)
-        h2 {{ by_bob_torres_and }}
+        h2.toc-exempt {{ by_bob_torres_and }}
         blockquote
           | {{ vegan_freak_offers }}
 
     li(data-component="image_module")
       +img(5)
       article
-        h1
+        h1.toc-exempt
           +link(10)
-        h2 {{ by_claire_askew }}
+        h2.toc-exempt {{ by_claire_askew }}
         blockquote
           | {{ essential_for_the_teen }}
 
     li(data-component="image_module")
       +img(6)
       article
-        h1
+        h1.toc-exempt
           +link(11)
-        h2 {{ by_gary_l_francione }}
+        h2.toc-exempt {{ by_gary_l_francione }}
         blockquote
           | {{ the_best_and_most_consistent }}
 
