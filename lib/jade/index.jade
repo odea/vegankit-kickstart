@@ -41,3 +41,6 @@ block content
           != tree
           span.short {{ learn.shortTitle }}
           span.long {{ learn.title }}
+
+block postjs
+  script(type="text/javascript") document.addEventListener('DOMContentLoaded', function() { k$.redirect_locale("") });

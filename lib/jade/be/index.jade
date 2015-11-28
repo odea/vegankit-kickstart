@@ -163,3 +163,6 @@ block sidebar-content
     h1 {{ lucas-the-pig }}
     p {{ read-about-lucass-un }}
   | {{/be}}
+
+block postjs
+  script(type="text/javascript") document.addEventListener('DOMContentLoaded', function() { k$.redirect_locale("be") });
