@@ -22,10 +22,27 @@
 @import components/_toc
 
 footer.main
+  text-align: center
+  background: map-get($black, lightest)
+
   .wrapper
     +wrapper
 
-  text-align: center
+  ul
+    +list($style: "unstyled", $layout: "horizontal")
+    margin: 0
+    padding: $space*2 0
+
+    li
+      margin:
+        bottom: 0
+        right: $space*2
+
+      a
+        color: white
+
+      .dont-donate
+        margin-bottom: -29px
 
 img
   max-width: 100%
