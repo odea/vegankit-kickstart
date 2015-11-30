@@ -17,13 +17,12 @@ block page-content
   p {{ products-we-love }}
 
   div(data-block="product_grid")
-    - var n = 0
-    while n < 1
-      div(data-component="product")
-        a(href="{{ recommended-products.#{n}.href }}") 
-          h1.toc-exempt {{ recommended_products.#{n}.title }}
-          img(src="//cdn.everything.io/vegankit/images/recommended_products/{{ recommended_products.#{n}.image }}.jpg")
-      - n++
+    | {{#recommended_products}}
+    div(data-component="product")
+      a(href="{{ href }}")
+        img(src="//cdn.everything.io/vegankit/images/recommended_products/{{ image }}.jpg")
+        h1.toc-exempt {{ title }}
+    {{/recommended_products}}
 
   h2 {{ 72-about-the-vegan-d }}
   p {{ 64-a-vegan-diet-is-o }}
