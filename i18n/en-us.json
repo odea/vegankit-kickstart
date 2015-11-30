@@ -373,6 +373,13 @@
     "read-about-lucass-un": "Read about Lucas's unrequited love."
   },
   "eat": {
+    "recommended_products": [
+      {
+        "title": "Dr. McDougall's Curry Almond Rice Salad",
+        "href": "http://www.amazon.com/gp/product/B00J5LXQLA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J5LXQLA&linkCode=as2&tag=vega032-20&linkId=4ETHOVVCUJJ477NQ",
+        "image": "mcdougall-curry-almond"
+      }
+    ],
     "videos": [
       "vPJbYAYzP04",
       "bW2D5a7XL4c",
@@ -1097,6 +1104,8 @@
       }
     ],
     "title": "Eating",
+    "recommended-products": "Recommended Products",
+    "products-we-love": "Here are some vegan products we personally love and come highly recommended by readers like you:",
     "2-from-cookthink": "from CookThink",
     "2-from-vyy": "from VeganYumYum",
     "2-from-babble": "from Babble",
