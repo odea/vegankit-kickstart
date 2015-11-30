@@ -375,14 +375,34 @@
   "eat": {
     "recommended_products": [
       {
-        "title": "Dr. McDougall's Curry Almond Rice Salad",
+        "title": "Curry Almond Rice Salad",
         "href": "http://www.amazon.com/gp/product/B00J5LXQLA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J5LXQLA&linkCode=as2&tag=vega032-20&linkId=4ETHOVVCUJJ477NQ",
         "image": "mcdougall-curry-almond"
       },
       {
-        "title": "Dr. McDougall's Curry Almond Rice Salad",
-        "href": "http://www.amazon.com/gp/product/B00J5LXQLA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J5LXQLA&linkCode=as2&tag=vega032-20&linkId=4ETHOVVCUJJ477NQ",
-        "image": "mcdougall-curry-almond"
+        "title": "Egg Replacer",
+        "href": "http://www.amazon.com/gp/product/B0014DZGUQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0014DZGUQ&linkCode=as2&tag=vega032-20&linkId=HWGIRJZGTI7X5BMS",
+        "image": "ener-g"
+      },
+      {
+        "title": "Chana Masala",
+        "href": "http://www.amazon.com/gp/product/B002JF61XO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002JF61XO&linkCode=as2&tag=vega032-20&linkId=P2W2CXOUOIOOH436",
+        "image": "chana-masala"
+      },
+      {
+        "title": "Seitan Jerky",
+        "href": "http://www.amazon.com/gp/product/B00L9IS504/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00L9IS504&linkCode=as2&tag=vega032-20&linkId=I7FJT7EA3OELIDZY",
+        "image": "primal-strips"
+      },
+      {
+        "title": "Goddess Dressing",
+        "href": "http://www.amazon.com/gp/product/B0046IEJ5O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0046IEJ5O&linkCode=as2&tag=vega032-20&linkId=6EXEIGWCLMYMNDSE",
+        "image": "goddess-dressing"
+      },
+      {
+        "title": "Peanut Butter Cups",
+        "href": "http://www.amazon.com/gp/product/B00CUKV3CW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CUKV3CW&linkCode=as2&tag=vega032-20&linkId=GD2GN74UGHSKAUAK",
+        "image": "peanot-cups"
       }
     ],
     "videos": [
