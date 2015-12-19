@@ -1,18 +1,2029 @@
 {
   "home": {
-    "title": "Kit de Démarrage Vegan"
+    "title": "Vegan Starter Kit"
   },
   "why": {
-    "title": "Pourquoi Vegan?"
+    "images": [
+      "pigndog",
+      "pigstoslaughter",
+      "tcs",
+      "tuna",
+      "twocows",
+      "calf1",
+      "libbylouie"
+    ],
+    "links": [
+      {
+        "title": "While vegans follow an animal-free diet, they also do not wear animals or use them for entertainment or any other purpose.",
+        "href": "/use"
+      },
+      {
+        "title": "We certainly do not need to eat animal products to be healthy; we do so only because it is a habit and we enjoy the taste of these products.",
+        "href": "/products"
+      },
+      {
+        "title": "Asking how \"well\" we should treat animals is the wrong question in the first place. Supposed \"happy\" animals are really treated no differently than those in factory farms.",
+        "href": "http://govegannow.com/free-range.html"
+      },
+      {
+        "title": "As long as these animals are objects of property, they cannot have rights.",
+        "href": "http://www.care2.com/causes/making-a-killing-with-animal-welfare-reform.html"
+      },
+      {
+        "title": "Vegetarianism = enslavement, torture, exploitation and slaughter of animals.",
+        "href": "https://uvearchives.wordpress.com/2008/09/09/what-is-wrong-with-vegetarianism/"
+      },
+      {
+        "title": "To learn more about becoming vegan, visit our Becoming Vegan page.",
+        "href": "/be"
+      },
+      {
+        "title": "Check out our nutrition section for more information on plant based diets.",
+        "href": "/eat#nutrition"
+      },
+      {
+        "title": "The China Study",
+        "href": "http://www.thechinastudy.com/"
+      },
+      {
+        "title": "Regardless of how \"intelligent\" an animal may be, if they are sentient, they ought to have the basic right not to be a commodity.",
+        "href": "/learn#sentience"
+      },
+      {
+        "title": "Vegan FAQ",
+        "href": "http://www.abolitionistapproach.com/faqs/"
+      },
+      {
+        "title": "Plan a Vegan Meal",
+        "href": "/eat#planyourmeal"
+      },
+      {
+        "title": "Books on Animal Rights",
+        "href": "/learn#book"
+      },
+      {
+        "title": "Vegan Vendors",
+        "href": "/use#vendors"
+      },
+      {
+        "title": "Read the We are All Michael Vick article from this video",
+        "href": "http://www.abolitionistapproach.com/media/pdf/philadelphia-daily-news-20090814.pdf"
+      },
+      {
+        "title": "Footage of actual \"free range\" birds brought into the Peaceful Prairie Sanctuary.",
+        "href": "http://www.peacefulprairie.org/"
+      },
+      {
+        "title": "The issue is not treatment but use.",
+        "href": "/why#humane"
+      },
+      {
+        "title": "By Peaceful Abolitionist",
+        "href": "https://www.youtube.com/user/PeacefulAbolitionist"
+      },
+      {
+        "title": "A Calf without a Name",
+        "href": "http://peacefulprairie.blogspot.com/2010/06/place-to-live.html"
+      },
+      {
+        "title": "Libby and Louie, A Love Story",
+        "href": "http://peacefulprairie.blogspot.com/2009/06/libby-and-louie-love-story_21.html"
+      },
+      {
+        "title": "Eat Like You Care Cookbook",
+        "href": "http://www.eatlikeyoucarebook.com/\n"
+      },
+      {
+        "title": "AbolitionistApproach",
+        "href": "http://www.abolitionistapproach.com/"
+      },
+      {
+        "title": "this video",
+        "href": "http://www.abolitionistapproach.com/media/pdf/philadelphia-daily-news-20090814.pdf"
+      },
+      {
+        "title": "The China Study",
+        "href": "http://thechinastudy.com"
+      }
+    ],
+    "videos": [
+      "GQvukhDinII",
+      "LUkHkyy4uqw",
+      "qwe2HnYHGdQ",
+      "Z7Gbq3lkKwY",
+      "HrhM_NUATl4",
+      "Rg3Yfdbs24I",
+      "wu5RrqMTUtM",
+      "QIcRDen6PEU"
+    ],
+    "title": "Why Vegan?",
+    "shortTitle": "Why",
+    "definition_of_veganism": "Definition of Veganism",
+    "the_word_vegan_was_coined": "The word \"vegan\" was coined in 1944 by Donald Watson of the Vegan Society of the UK. This definition states:",
+    "veganism_is_a_way_of_living": "Veganism is a way of living that seeks to exclude, as far as possible and practicable, all forms of exploitation of, and cruelty to, animals for food, clothing and any other purpose.",
+    "as_you_can_see_veganism_is": "As you can see, veganism is not defined as a diet, but a way of living.",
+    "our_relationship_with_animals": "Our Relationship with Animals",
+    "animals_are_a_constant": "Animals are a constant part of our lives. They share our homes, our beds, and we even consider them members of our family. While they may not be able to balance a checkbook or speak our language, we value them highly. We interact with them and we often turn to them for emotional support.",
+    "while_vegans_follow": "While vegans follow an animal-free diet, they also do not wear animals or use them for entertainment or any other purpose.",
+    "dogs_cats_cows": "Dogs, Cats, and Cows, What's the difference?",
+    "watch_this_video_of_a": "Watch this video of a rescued cow from the For the Animals Sanctuary playing with his new ball.",
+    "when_they_pass_away": "When they pass away, we mourn them. We no doubt also believe that they enjoy being alive as much as they enjoy the company of others. Yet, for other animals, we stick forks and knives into their bodies and wear their skin as clothing.",
+    "moral_dissonance": "Moral Dissonance",
+    "if_it_is_wrong_to_act": "If it is wrong to act violently to a dog or cat just for enjoyment or convenience, how can we justify the horrible things we do to other animals?",
+    "some_of_us_try": "Some of us try to address this inconsistency by purchasing products that are marketed as “humane” or as produced \"ethically.\" However, as you’ll see, these words are meaningless and actually do very little to give animals a better life.",
+    "in_any_case_these_terms": "In any case, these terms encourage the public to believe it is okay to exploit animals simply because we enjoy it. This strange contradiction is our moral dissonance. We can overcome this social affliction and respect life by going vegan.",
+    "cant_we_just_consume_humane": "Can't We Just Consume \"Humane\" Animal Products?",
+    "for_example_there_are_no": "For example, there are no special transport vehicles for \"humanely-raised\" animals. The process of transport is the same as conventional animals and is a miserable, often fatal experience. Animals are forced onto trucks with weapons, prods, and even forklifts. Inside, it doesn’t matter if the animals are terrified or in pain, as long as they get to the slaughterhouse alive.",
+    "as_with_any_other_form": "As with any other form of industrialized animal use, consumers have the choice either to participate in it or to refuse the products of exploitation and opt out of the demand-supply cycle altogether...",
+    "humans_have_no_need": "...Humans have no need for animal products, and the increasing number of vegans on the planet is a testament to how easy it is to live a healthy, fulfilling life without participating in the systematic abuse and unnecessary killing that goes on in the animal industry every day.",
+    "angel_flinn": "Angel Flinn\n",
+    "animals_suffer_from_cold": "Animals suffer from cold, hunger, thirst, untreated infections, and illnesses during transport. This is not, however, a matter of irresponsible slaughterhouse workers.",
+    "to_some_humane_legislation": "To some, \"humane\" legislation appears to get us closer to having better lives for animals. Animal welfare legislation calls for larger confinements and methods of slaughter which supposedly cause less pain. However, these reforms are industry practices which do away with economically wasteful and outdated practices.",
+    "animal_welfare_fosters_more": "Animal welfare fosters more economically beneficial standards for producers and makes the public feel better about exploiting animals through marketing. It’s not about \"them,\" the producers, it’s about us. We are the consumers, we are the ones paying for this practice to happen. The first, most important thing we can do to address this violence is to go vegan.\n",
+    "the_use_of_humane_slaughter": "[The use of humane slaughter methods]...results in safer and better working conditions…brings about the improvement of products and economies in slaughtering operations; and produces other benefits for producers, processors, and consumers which tend to expedite an orderly flow of livestock and livestock products...",
+    "united_states_humane_slaughter": "United States Humane Methods of Slaughter Act.",
+    "notice_the_lack_of_any": "(Notice the lack of any mention of an animal's wellbeing. Welfarism is about using animals efficiently and cost-effectively.)",
+    "should_i_go_vegetarian": "Should I Go Vegetarian?",
+    "veganism_may_seem_way": "Veganism may seem way out from what you’re used to, and that’s understandable. However, you’ll find it to be easier than you think no matter what your circumstances. People from small towns, with food intolerances, and just plain pickiness have gone vegan overnight!",
+    "but_if_for_some_reason": "But if for some reason you’re thinking you may want to go vegetarian first, remember: vegetarianism means you’ll still be eating animal products and not necessarily less. You'll still be supporting the use of animals. All animal use involves unspeakable violence.",
+    "dont_i_need_animal": "Don't I Need Animal Products To Be Healthy?",
+    "properly_planned_vegan_diets": "[Properly planned vegan diets] are healthful, nutritionally adequate, and may provide health benefits in the prevention and treatment of certain diseases….are appropriate for individuals during all stages of the life cycle, including pregnancy, lactation, infancy, childhood, and adolescence, and for athletes.",
+    "america_dietetic_association": "American Dietetic Association Volume 109, Issue 7, Pages 1266-1282 (July 2009)",
+    "not_only_are_animal_products": "Not only are animal products unnecessary for optimal health, an increasing number of nutritionists and health professionals are acknowledging animal products are harmful to our health. Meanwhile, a healthy vegan diet helps reduce the risk of heart disease, cancer, obesity, and diabetes.",
+    "the_china_study": "The China Study",
+    "by_t_colin_campbell": "by T. Colin Campbell is arguably the most comprehensive study on nutrition ever done. Campbell provides compelling evidence linking animal products to disease, including cancer, heart disease, osteoporosis, diabetes, etc.",
+    "sentience_is_all": "Sentience is all that matters:",
+    "regardless_of_how": "Regardless of how \"intelligent\" an animal may be, if they are sentient, they ought to have the basic right not to be a commodity.",
+    "is_veganism_good_for_the": "Is Veganism Good For The Planet?",
+    "about_2000_pounds": "About 2,000 pounds of grains must be supplied to livestock in order to produce enough meat and other livestock products to support a person for a year, whereas 400 pounds of grain eaten directly will support a person for a year. Thus, a given quantity of grain eaten directly will feed 5 times as many people as it will if it is eaten indirectly by humans in the form of livestock products.…",
+    "me_ensminger": "M.E. Ensminger, PhD",
+    "consuming_a_plant_based": "Consuming a plant-based diet also has significant benefits for our environment. For example, the amount of potatoes we can produce from an acre of land is about 40,000 lbs compared to only 250 lbs of cow flesh supported from the same acre. When we feed plants to animals in order to eat the animal, we waste an enormous amount of food. For only one pound of cow flesh, 16 lbs of plant food and 5,000 gallons of water are required.",
+    "compare_that_to_25": "Compare that to 25 gallons of water for a pound of wheat. Animal agriculture is also responsible for most of the food-borne illness epidemics from water runoff. Our use of animals contributes significantly to greenhouse gas emissions as well as the destruction of forests for grazing. More than 250 million acres of forests are cleared every year in the US alone for this purpose.",
+    "is_veganism_sustainable": "Is Veganism Sustainable?",
+    "considering_the_amount": "Considering the amount of waste produced by animal agriculture, it's staggering to think how much plant-based food could potentially be grown using the same resources used for animals.",
+    "essentially_we_have": "Essentially, we have to feed animals plant foods constantly as they mature. After three to four years of harvesting and cycling this plant food through an animal, the animal is killed and eaten just once.",
+    "imagine_instead": "Imagine instead, each of those four years was used to grow plant food to be directly consumed by humans",
+    "go_vegan_its_better": "Go vegan. It’s better for your health; it’s better for the environment; and, most importantly, it’s the morally right thing to do.",
+    "gary_l_francione": "Gary L Francione",
+    "check_out_some": "Check out some of our favorite sites and parts of this kit if you still have questions.",
+    "vegan_faq": "Vegan FAQ",
+    "meal_planning": "Meal Planning",
+    "books_on_animal": "Books on Animal Rights",
+    "vegan_vendors": "Vegan Vendors",
+    "whenever_you_find": "Whenever you find yourself on the side of the majority, it's time to pause and reflect",
+    "mark_twain": "Mark Twain",
+    "more_than_56": "More than 56 billion animals are killed every year for flesh, dairy, and eggs.",
+    "marine_animals": "Marine Animals",
+    "chickens": "chickens",
+    "ducks": "ducks",
+    "pigs": "pigs",
+    "rabbits": "rabbits",
+    "turkeys": "turkeys",
+    "geese": "geese",
+    "sheep": "sheep",
+    "goats": "goats",
+    "cows_and_calves": "cows and calves",
+    "rodents": "rodents",
+    "pigeons_and_other_birds": "pigeons and other birds",
+    "buffaloes": "buffaloes",
+    "dogs": "dogs",
+    "cats": "cats",
+    "horses": "horses",
+    "donkeys_and_mules": "donkeys and mules",
+    "camels and other camelids": "camels/camelids",
+    "since_this_page": "Since this page was opened",
+    "frightened_cow_awaits": "Frightened Cow Awaits Slaughter",
+    "this_footage_is_not": "This footage is not gory, but depicts the psychological torture all animals endure as they await slaughter.",
+    "veganism_is_not": "[Veganism is not] just a diet or lifestyle. It is a basic prerequisite for anyone who wishes to start caring seriously about animals, including humans. It is a moral and political commitment to non-violence.",
+    "ken_hopes": "Ken Hopes",
+    "im_vegan_phillip": "I'm Vegan: Phillip",
+    "long_time_vegan": "Long time vegan and musician Phillip talks about his vegan philosophy. (Note, Some graphic footage appears)",
+    "read_the_we_are_all": "Read the We Are All Michael Vick article from",
+    "the_faces_of_free_range": "The Faces of Free Range",
+    "footage_of_actual": "Footage of actual \"free range\" birds brought into Peaceful Prairie Sanctuary.",
+    "should_the_rights": "Should the rights of animals be improved? Well, first they need to have rights, before the rights can be improved.",
+    "michaela_osterlund": "Michaela Österlund",
+    "watch_the_earthlings": "Watch the Earthlings Documentary",
+    "warning_graphic_footage": "WARNING: Graphic Footage.",
+    "this_is_what_it_means": "This is what it means to be property",
+    "its_easy_to_watch": "It's easy to watch the above film and become horrified at the people who torture and slaughter these beings.\nBut who is really to blame? Slaughterhouse workers and farmers use animals because we demand their products.",
+    "the_issue_is_not_treatment": "The issue is not treatment but use.",
+    "the_truth_behind": "The Truth Behind Dairy",
+    "an_illustrated_account": "An illustrated account of the truth behind dairy from the point-of-view of a calf on a dairy farm.",
+    "by_peaceful": "By PeacefulAbolitionist",
+    "the_truth_behind_eggs": "The Truth Behind Eggs",
+    "an_illustrated_account_eggs": "An illustrated account of the truth behind eggs from the point-of-view of a chick, maturing to a hen on a free range farm.",
+    "when_we_consume": " ...When we consume animal products, we consume the bodies and products of individuals. We think we consume something but in reality, we consume someone.",
+    "a_calf_without_a_name": "A Calf without a Name",
+    "read_a_story_about": "Read a story about a calf from a \"free range\" farm neighboring a vegan animal sanctuary.",
+    "libby_and_louie": "Libby and Louie, A Love Story",
+    "read_about_a_chicken": "Read about a chicken and rooster who never left each other's side.",
+    "breaking_the_set": "Breaking the Set: Abby Martin interviews Gary Francione",
+    "rutgers_law_professor": "Rutgers Law Professor, Gary Francione, is interviewed on the show Breaking The Set, and asks the fundamental question: \"Why are we eating, wearing or using animals at all?-particularly when we don't have to?\". Professor Francione's newest book:",
+    "eat_like_you_care": "Eat Like You Care",
+    "and_website": "and website"
   },
   "be": {
-    "title": "Devenir Vegan"
+    "images": [
+      "girlandcow",
+      "turkeyandgoat",
+      "elyc",
+      "bv",
+      "vf",
+      "gv",
+      "itar",
+      "unbelievablycutelittlebunny",
+      "michael",
+      "lucas"
+    ],
+    "links": [
+      {
+        "title": "Q&A with an actual vegan",
+        "href": "https://thehealthypursuitblog.wordpress.com/2014/06/06/life-as-a-vegan/"
+      },
+      {
+        "title": "Try out some of our excellent vegan recipes",
+        "href": "/eat#planyourmeal"
+      },
+      {
+        "title": "Ridiculously Easy Lunchbox Enchilada anyone?",
+        "href": "http://blog.fatfreevegan.com/2008/02/ridiculously-easy-lunchbox-enchilada.html"
+      },
+      {
+        "title": "See our recipes",
+        "href": "/eat#planyourmeal"
+      },
+      {
+        "title": "What about buying secondhand?",
+        "href": "/wear#recycled"
+      },
+      {
+        "href": "http://ourpreciousrose.blogspot.com/s",
+        "title": "Our Precious Rose"
+      },
+      {
+        "href": "http://ourveganpregnancy.blogspot.com/",
+        "title": "Our Vegan Pregnancy"
+      },
+      {
+        "title": "Eat Like you Care",
+        "href": "http://www.eatlikeyoucarebook.com/"
+      },
+      {
+        "href": "http://www.amazon.com/gp/product/1570672954/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1570672954&linkCode=as2&tag=vega032-20&linkId=LUD2AP2OPX7VE73J",
+        "title": "Becoming Vegan"
+      },
+      {
+        "href": "http://www.amazon.com/gp/product/1604860154/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1604860154&linkCode=as2&tag=vega032-20&linkId=YM5C2L3ZGID57YA2\n",
+        "title": "Vegan Freak"
+      },
+      {
+        "href": "http://www.amazon.com/gp/product/0977080447/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0977080447&linkCode=as2&tag=vega032-20&linkId=7MKD2G75ALFTM7MF",
+        "title": "Generation V: The Complete Guide to Going, Being, and Staying Vegan as a Teenager"
+      },
+      {
+        "href": "http://www.amazon.com/gp/product/1566396921/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1566396921&linkCode=as2&tag=vega032-20&linkId=OZR7RR4T25T2KTP6",
+        "title": "Introduction to Animal Rights: Your Child or the Dog?"
+      },
+      {
+        "href": "http://www.amazon.com/gp/product/1604860790/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1604860790&linkCode=as2&tag=vega032-20&linkId=3MF63B7LZZJF22AJ",
+        "title": "Created by Vincent Guihain"
+      },
+      {
+        "href": "https://www.youtube.com/user/porolita22",
+        "title": "See more of Paola's videos"
+      },
+      {
+        "href": "https://fftradio.wordpress.com/",
+        "title": "Host of Food For Thought Radio"
+      }
+    ],
+    "videos": [
+      "E655GEXnIb4",
+      "KPkK-OBZ4Xs",
+      "J4ONfX6DyXI",
+      "14312477"
+    ],
+    "title": "Becoming Vegan",
+    "shortTitle": "Be",
+    "veganism_is_not": "Veganism is not about giving anything up or losing anything; it is about gaining the peace within yourself that comes from embracing nonviolence and refusing to participate in the exploitation of the vulnerable",
+    "where_to_start": "Where To Start?",
+    "some_of_our_newly": "Some of our newly vegan friends are worried they'll have trouble living in a small town where specialty soy products aren't available. To the contrary, eating a vegan version of a typical omnivore diet is one of the worst ways to kick off your first day as a vegan.",
+    "not_that_theres_anything": "Not that there's anything wrong with having a vegan soy patty or soy grilled cheese, but it's neither healthy, affordable, or practical to sustain yourself on those types of foods. Instead, familiarize yourself with new kinds of ingredients like tofu and tempeh.",
+    "try_out_some_of_our": "Try out some of our excellent vegan recipes.",
+    "weve_designed_these_recipes": "We've designed these recipes to be easy to make in any part of the world.",
+    "we_also_recommend_converting": "We also recommend converting your kitchen as well as yourself. Make sure you are stocked with vegan foods so it's easy to fulfill those late-night snack temptations. Consider buying granola and pouring it in a bowl. It's cheap, doesn't require preparation, and it's a nice standby for a vegan snack any time of the day.",
+    "if_you_think_you_can": "If you think you can go vegan overnight, don't even hesitate! However, if you still have cold feet, try eating a vegan breakfast for a few weeks, then a vegan lunch for a few weeks, and finally a vegan dinner for a few weeks.",
+    "is_veganism_expensive": "Is Veganism Expensive?",
+    "no_veganism_is_not_expensive": "No! Veganism is not expensive. While there are plenty of nonvegans ready to tell you otherwise, this is largely due to the myth that vegans are eating processed soy versions of what everyone else eats. In fact, vegans survive mainly on beans, rice, pasta, fruits, and vegetables--the cheapest ingredients on earth.",
+    "this_myth_is_also_perpetuated": "This myth is also perpetuated by specialty vegan restaurants with either the same processed ingredients or high quality prepared dishes. But is this really any different from other specialty restaurants?",
+    "veganism_is_actually_easy": "Veganism is actually easy, even on a college student's budget.",
+    "ridiculously_easy_lunchbox": "Ridiculously Easy Lunchbox Enchilada anyone?",
+    "if_youre_not_a_fan_of_recipes": "If you're not a fan of recipes, look into prepared thai and indian foods, which are often vegan or can be made so very easily.",
+    "see_our_recipes": "See our recipes",
+    "what_about_my_nonvegan": "What About My Nonvegan Things?",
+    "what_should_we_do_about": "What should we do about the leather wallets, shoes, or wool coats we have collected before we even heard about veganism? Of course, it would be ideal to have all vegan items, but shouldn't it be okay to use these since they've already been purchased?",
+    "this_is_a_good_time": "This is a good time to remind ourselves the issue of what we do to animals is not treatment, but use. Sure, wearing a leather belt another day doesn't cause the deceased to suffer even more, but an understanding of the injustice we cause to animals should have us asking why we consider a dead animal's body parts fashion?",
+    "if_you_see_animals_as": "If you see animals as something other than objects of our property, getting rid of animal based belongings isn't wasteful. Would we call the burying of our deceased loved ones \"wasteful\" because we did not turn them into leather shoes? We don't because we don't view them as resources in the first place and that's exactly what \"waste\" implies.",
+    "what_about_buying": "What about buying secondhand?",
+    "what_should_we_do_about": "What should we do about the leather wallets, shoes, or wool coats we have collected before we even heard about veganism? Of course, it would be ideal to have all vegan items, but shouldn't it be okay to use these since they've already been purchased?",
+    "this_is_a_good_time": "This is a good time to remind ourselves the issue of what we do to animals is not treatment, but use. Sure, wearing a leather belt another day doesn't cause the deceased to suffer even more, but an understanding of the injustice we cause to animals should have us asking why we consider a dead animal's body parts fashion?",
+    "if_you_see_animals": "If you see animals as something other than objects of our property, getting rid of animal based belongings isn't wasteful. Would we call the burying of our deceased loved ones \"wasteful\" because we did not turn them into leather shoes? We don't because we don't view them as resources in the first place and that's exactly what \"waste\" implies.",
+    "family_issues": "Family Issues",
+    "even_though_youre_motivated": "Even though you're motivated to go vegan, you may have some reservations about the reaction you'll get from those close to you. Here are a few tips and resources for making things work with your family.",
+    "being_vegan_in_a": "Being vegan in a nonvegan family",
+    "not_all_families_are": "Not all families are equally supportive of a vegan life. This is often fueled by negative myths about a vegan's diet as well as the importance of traditional foods within a family.",
+    "you_can_ease_any": "You can ease any resistance you may get from your family by doing your research. Learn as much as you can about vegan health and insure you have plenty of b12, omega-3, and iron on your menu.",
+    "as_for_your_familys": "As for your family's high regard for traditional foods, it may just take a while for them to get used to veganism. Be as respectful as possible and even try making some traditional dishes vegan. This will communicate to them you're not that far out there and you're still able to take part in important family traditions.",
+    "raising_vegan_children": "Raising vegan children",
+    "plenty_of_vegans_have": "Plenty of vegans have raised (very) healthy, happy children and it's easier than you think.",
+    "check_out_these_blogs": "Check out these blogs from actual vegan parents:",
+    "our_precious": "Our Precious Rose",
+    "from_vegan_parent": "From vegan parent Melissa Viau, this blog chronicles the life of the Viau family's vegan child, Rose and living as a vegan parent.",
+    "our_vegan_pregnancy": "Our Vegan Pregnancy ",
+    "vegan_couple_lucas": "Vegan couple Lucas and Kenya's blog orignally on vegan preganancy--which now continues with the lives of their healthy, growing vegan children.",
+    "recommended_reading": "Recommended Reading",
+    "eat_like_you_care": "Eat Like you Care\n",
+    "by_gary_francione_and_anna": "By Gary Francione and Anna Charlton",
+    "brilliantly_written_clear": "Brilliantly written. Clear, no nonsense, non emotional straight talk. A must read for everyone. Period. Too many people are ignorant of how their food is produced. This clears up any myths and states the facts irrevocably.",
+    "becoming_vegan": "Becoming Vegan",
+    "by_brenda_davis_and": "by Brenda Davis and Vesanto Melina",
+    "everything_you_need": "Everything you need to know about vegan nutrition. Advice for pregnant women, infants, kids, teens, the middle years, seniors, and athletes. Lots of sample meal plans.",
+    "vegan_freak": "Vegan Freak",
+    "by_bob_torres_and": "by Bob Torres and Jenna Torres\n",
+    "vegan_freak_offers": "VeganFreak offers solid advice for dealing with the non-vegan world. This is a book you'll want to keep handy, particularly if you are a new vegan trying to negotiate the grocery store, restaurants, and questions/challenges from friends and family.",
+    "generation_v": "Generation V: The Complete Guide To Going, Being, And Staying Vegan As A Teenager ",
+    "by_claire_askew": "by Claire Askew",
+    "essential_for_the_teen": "Essential for the teen vegan. Claire Askew is a talented writer who has filled a niche with \"Generation V\", providing vital information and support to teens who are vegans in a primarily non-vegan teen world.",
+    "introduction_to_animal_rights": "Introduction to Animal Rights: Your Child or the Dog?",
+    "by_gary_l_francione": "by Gary L. Francione",
+    "the_best_and_most_consistent": "The best and most consistent book ever written on animal rights.",
+    "it_caused_me_to_go": "It caused me to become vegan (and I am grateful for it).",
+    "be_the_change_you": "Be the change you want to see in the world",
+    "watch-our-cartoon-ve": "Watch our Cartoon \"Veganism in a Nutshell\"",
+    "paola-on-staying-veg": "Paola on Staying Vegan",
+    "on-her-regular-video": "On her regular video blog, long-time vegan Paola Aldana de Meoño talks about being vegan and staying there.",
+    "sam-tucker-on-being": "Sam Tucker on Being Vegan as a Teenager",
+    "host_of_food_for_thought": "Sam Tucker talks about his experience being vegan as a teenager.",
+    "im-vegan-regina": "I'm Vegan: Regina",
+    "regina-talks-about-h": "Regina talks about her life as a vegan",
+    "michaels-fight": "Michael's Fight to Live",
+    "read-about-michaels": "Read about Michael's will to live after arriving at Peaceful Prairie Sanctuary.",
+    "lucas-the-pig": "Lucas the Pig",
+    "read-about-lucass-un": "Read about Lucas's unrequited love."
   },
-  "eat": "",
-  "wear": "",
-  "use": "",
-  "think": "",
-  "locale": "fr",
-  "videos": "",
-  "resources": ""
+  "eat": {
+    "recommended_products": [
+      {
+        "title": "Curry Almond Rice Salad",
+        "href": "http://www.amazon.com/gp/product/B00J5LXQLA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00J5LXQLA&linkCode=as2&tag=vega032-20&linkId=4ETHOVVCUJJ477NQ",
+        "image": "mcdougall-curry-almond"
+      },
+      {
+        "title": "Egg Replacer",
+        "href": "http://www.amazon.com/gp/product/B0014DZGUQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0014DZGUQ&linkCode=as2&tag=vega032-20&linkId=HWGIRJZGTI7X5BMS",
+        "image": "ener-g"
+      },
+      {
+        "title": "Chana Masala",
+        "href": "http://www.amazon.com/gp/product/B002JF61XO/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002JF61XO&linkCode=as2&tag=vega032-20&linkId=P2W2CXOUOIOOH436",
+        "image": "chana-masala"
+      },
+      {
+        "title": "Seitan Jerky",
+        "href": "http://www.amazon.com/gp/product/B00L9IS504/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00L9IS504&linkCode=as2&tag=vega032-20&linkId=I7FJT7EA3OELIDZY",
+        "image": "primal-strips"
+      },
+      {
+        "title": "Goddess Dressing",
+        "href": "http://www.amazon.com/gp/product/B0046IEJ5O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0046IEJ5O&linkCode=as2&tag=vega032-20&linkId=6EXEIGWCLMYMNDSE",
+        "image": "goddess-dressing"
+      },
+      {
+        "title": "Peanut Butter Cups",
+        "href": "http://www.amazon.com/gp/product/B00CUKV3CW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CUKV3CW&linkCode=as2&tag=vega032-20&linkId=GD2GN74UGHSKAUAK",
+        "image": "peanot-cups"
+      }
+    ],
+    "videos": [
+      "vPJbYAYzP04",
+      "bW2D5a7XL4c",
+      "Zk6NUAieNsY",
+      "_6GE68qRqq8",
+      "Lmy7-LVCthY",
+      "ho47tKP-mjw",
+      "eYPQiQ6GFVk",
+      "PFm2rihqi9Q",
+      "YdNztq2Y8Ws",
+      "h-gYZfuIiYY"
+    ],
+    "images": [
+      "smoothie",
+      "veggies",
+      "tempeh_sized",
+      "tofu",
+      "seitan",
+      "nutritionalyeast_sized",
+      "vyy-pancakes-huge",
+      "vyy-sandwich-huge",
+      "vyy-pasta-huge",
+      "vyy-bundt-huge",
+      "nav",
+      "vyy",
+      "tvt",
+      "ltev",
+      "tmv",
+      "jovb",
+      "vctotw",
+      "mousse",
+      "pangea",
+      "pigandlamb",
+      "bvapamphlet_sized",
+      "recipebox",
+      "ic-2"
+    ],
+    "links": [
+      {
+        "title": "special foods.",
+        "href": "http://vegankit.com/eat#special-foods"
+      },
+      {
+        "title": "Also, be sure to check out The Boston Vegan Association’s Nutritional Pamphlet",
+        "href": "http://www.internationalvegan.org/boston/"
+      },
+      {
+        "href": "http://thevegantruth.blogspot.co.nz/2012/06/40-vegan-foods-their-scientifically.html",
+        "title": "40 Vegan Foods: Their Scientifically-Proven Health Benefits"
+      },
+      {
+        "title": "Nutritional Yeast",
+        "link": "http://www.veganstore.com/category/s?keyword=nutritional+yeast"
+      },
+      {
+        "title": "Buy B12 Spray",
+        "href": "http://www.amazon.com/gp/product/B00K5NEPJY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K5NEPJY&linkCode=as2&tag=vega032-20&linkId=BMYPVKES3FW5XDND\n"
+      },
+      {
+        "title": "Omega Tablets",
+        "href": "http://www.amazon.com/gp/product/B000V8BD4S/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000V8BD4S&linkCode=as2&tag=vega032-20&linkId=MTM3KZWOKCR3KTQV"
+      },
+      {
+        "href": "http://www.amazon.com/gp/product/B002XDQSSK/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002XDQSSK&linkCode=as2&tag=vega032-20&linkId=GW2YLM5JRD2KKQSS",
+        "title": "Omega Softgels"
+      },
+      {
+        "href": "http://www.amazon.com/gp/product/B009MHS9RI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009MHS9RI&linkCode=as2&tag=vega032-20&linkId=5KMBKZJZG5ZXY7YU",
+        "title": "Vegan Vitamin D3"
+      },
+      {
+        "href": "http://kblog.lunchboxbunch.com/2009/06/tempeh-bacon-recipe-vegan-facon-makes.html",
+        "title": "Check out our tempeh bacon recipe"
+      },
+      {
+        "title": "scrambled tofu",
+        "href": "http://vegandad.blogspot.com/2008/10/vegan-moms-scrambled-tofu.html"
+      },
+      {
+        "title": "pan fried tofu",
+        "href": "http://www.pbs.org/food/recipes/pan-fried-tofu/"
+      },
+      {
+        "title": "or even a chocolate mousse dessert",
+        "href": "http://vegetarian.about.com/video/Mousse.htm"
+      },
+      {
+        "title": "Try seitan broccolini with clementine teriyaki",
+        "href": "http://www.foodily.com/r/Nrc3j4FnA-seitan-and-broccolini-with-clementine-teriyaki-by-vegan-yumyum"
+      },
+      {
+        "href": "http://www.amazon.com/gp/product/B000173IHE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000173IHE&linkCode=as2&tag=vega032-20&linkId=K6YIKDTLVS6TDZVA",
+        "title": "Red Star Nutritional Yeast"
+      },
+      {
+        "href": "http://gentleworld.org/casein-2/",
+        "title": "Casein"
+      },
+      {
+        "title": "Carmine/Carminic Acid",
+        "href": "http://gentleworld.org/natural-colors-carmine-cochineal/"
+      },
+      {
+        "title": "Beeswax",
+        "href": "http://gentleworld.org/3-reasons-not-to-eat-honey/"
+      },
+      {
+        "title": "Why isn't honey vegan?",
+        "href": "http://www.vegetus.org/honey/honey.htm"
+      },
+      {
+        "title": "Gelatin",
+        "href": "http://gentleworld.org/gelatin/"
+      },
+      {
+        "title": "Some Alcoholic Beverages",
+        "href": "http://gentleworld.org/is-your-alcohol-vegan/"
+      },
+      {
+        "title": "To find out if your alcohol is vegan, look up the company on Barnivore.com",
+        "href": "http://www.barnivore.com"
+      },
+      {
+        "title": "You can also opt for many German beers and unfiltered wines.",
+        "href": "https://en.wikipedia.org/wiki/Reinheitsgebot"
+      },
+      {
+        "title": "Lactose",
+        "href": "https://en.wikipedia.org/wiki/Lactose"
+      },
+      {
+        "title": "Lanolin",
+        "href": "http://gentleworld.org/vitamin-d-and-lanolin/"
+      },
+      {
+        "title": "Vitamin D3",
+        "href": "http://gentleworld.org/vitamin-d-and-lanolin/"
+      },
+      {
+        "title": "Whey",
+        "href": "https://en.wikipedia.org/wiki/Whey"
+      },
+      {
+        "title": "Vegan Pancakes",
+        "href": "http://www.food.com/recipe/5-minute-vegan-pancakes-132263"
+      },
+      {
+        "title": "Fresh Fruit",
+        "href": "http://kblog.lunchboxbunch.com/2009/07/fresh-fruit-flag-plate-berries-and.html"
+      },
+      {
+        "title": "Green Smoothie",
+        "href": "http://kblog.lunchboxbunch.com/2012/03/salute-to-green-smoothies.html"
+      },
+      {
+        "title": "Vegan Cereal with Nondairy Milk",
+        "href": "http://kblog.lunchboxbunch.com/2010/06/puffed-grain-berry-cereal-bowl-vegan.html"
+      },
+      {
+        "title": "Scrambled Tofu",
+        "href": "http://vegandad.blogspot.com/2008/10/vegan-moms-scrambled-tofu.html"
+      },
+      {
+        "title": "Tempeh Bacon",
+        "href": "http://kblog.lunchboxbunch.com/2009/06/tempeh-bacon-recipe-vegan-facon-makes.html"
+      },
+      {
+        "title": "Waffles",
+        "href": "http://veganyumyum.com/index.php?s=waffles&searchbutton=Go%21"
+      },
+      {
+        "title": "Vegan Homemade Sausages",
+        "href": "http://vegandad.blogspot.com/2008/03/homemade-sausages.html"
+      },
+      {
+        "title": "Mango Breakfast Parfait with Cherry Banana Soft Serve",
+        "href": "http://ohsheglows.com/2011/05/31/mango-breakfast-parfait-with-cherry-banana-soft-serve/"
+      },
+      {
+        "title": "Blueberry Oatmeal Muffins",
+        "href": "http://happyherbivore.com/2009/10/blueberry-oatmeal-muffins/"
+      },
+      {
+        "href": "http://www.babble.com/best-recipes/apple-peanut-butter-banana-shake/",
+        "title": "Apple Peanut Butter Banana Shake"
+      },
+      {
+        "href": "http://www.babble.com/best-recipes/gingerbread-swirl-creamy-wheat-cereal/",
+        "title": "Cream of Wheat Hot Cereal with a Swirl of Gingerbread"
+      },
+      {
+        "href": "http://thescrumptiouspumpkin.com/2015/03/19/vegan-pancakes/",
+        "title": "Pancakes"
+      },
+      {
+        "title": "French Toast (1)",
+        "href": "http://minimalistbaker.com/basic-vegan-french-toast/"
+      },
+      {
+        "title": "French Toast (2)",
+        "href": "http://www.food.com/recipe/vegan-french-toast-68367"
+      },
+      {
+        "title": "Fat-Free Blueberry Oatmeal Muffins",
+        "href": "http://happyherbivore.com/2009/10/blueberry-oatmeal-muffins/"
+      },
+      {
+        "title": "Smokey Miso Tofu",
+        "href": "http://www.tastebook.com/recipes/730715-Smokey-Miso-Tofu"
+      },
+      {
+        "title": "Falafel",
+        "href": "http://www.allysonkramer.com/2010/11/roasted-red-pepper-garlic-falafel/"
+      },
+      {
+        "title": "Grilled Peanut Butter and Banana Sandwich",
+        "href": "http://thelaughingvegan.blogspot.com/2011/09/channelling-comfort-grilled-peanut.html"
+      },
+      {
+        "title": "Asparagus Pesto Pasta Salad",
+        "href": "http://blog.fatfreevegan.com/2009/07/asparagus-pesto-pasta-salad.html"
+      },
+      {
+        "title": "Smokey Miso Tofu Sandwich",
+        "href": "http://www.tastebook.com/recipes/730715-Smokey-Miso-Tofu"
+      },
+      {
+        "title": "Reuben Sandwich",
+        "href": "http://www.meettheshannons.net/2010/05/betty-crocker-project-reuben-sandwich.html"
+      },
+      {
+        "title": "Vegan Grilled Cheese",
+        "href": "http://kblog.lunchboxbunch.com/2010/05/vegan-grilled-cheese-daiya-fyh-bread.html"
+      },
+      {
+        "title": "Avocado Wasabi Salad",
+        "href": "http://www.epicurious.com/recipes/member/views/avocado-wasabi-salad-52757951"
+      },
+      {
+        "title": "Easy Mexican Red Rice",
+        "href": "http://vegandad.blogspot.com/2012/01/easy-mexican-red-rice.html"
+      },
+      {
+        "title": "Carrot-Ginger Soup",
+        "href": "http://kblog.lunchboxbunch.com/2009/02/recipe-vegan-carrot-ginger-soup-two.html"
+      },
+      {
+        "title": "Ridiculously Easy Lunchbox Enchilada Casserole",
+        "href": "http://blog.fatfreevegan.com/2008/02/ridiculously-easy-lunchbox-enchilada.html"
+      },
+      {
+        "title": "Pesto Cashew Ricotta Pizza",
+        "href": "http://kblog.lunchboxbunch.com/2012/04/pesto-cashew-ricotta-pizza.html"
+      },
+      {
+        "title": "Baked Corndogs",
+        "href": "http://happyherbivore.com/recipe/vegan-baked-corndogs/"
+      },
+      {
+        "title": "Spicy Chili Bean Soup",
+        "href": "http://www.babble.com/best-recipes/spicy-cozy-chili-bean-soup/"
+      },
+      {
+        "title": "Delicata Squash Bisque",
+        "href": "http://www.babble.com/best-recipes/spicy-cozy-chili-bean-soup/"
+      },
+      {
+        "title": "Alfredo Pasta from Vegan Yum Yum",
+        "href": "http://www.babble.com/best-recipes/spicy-cozy-chili-bean-soup/"
+      },
+      {
+        "title": "Burritos",
+        "href": "http://ohsheglows.com/2015/11/02/diy-burrito-bowl/"
+      },
+      {
+        "title": "Chickpea and Avocado Ceviche",
+        "href": "http://my-face-is-on-fire.blogspot.com/2012/04/new-american-vegan-winner.html"
+      },
+      {
+        "title": "Smoked Southwestern Burgers",
+        "href": "http://www.allysonkramer.com/2010/06/smoked-southwestern-burgers/#more-4119"
+      },
+      {
+        "title": "Seitan and Broccolini with Clementine Teriyaki",
+        "href": "http://veganyumyum.com/index.php?s=seitan&searchbutton=Go%21"
+      },
+      {
+        "title": "Orange Couscous Curry",
+        "href": "http://blog.fatfreevegan.com/2006/08/orange-couscous-curry.html"
+      },
+      {
+        "title": "Easy Pasta with Olive Oil, Walnuts, and Veggies",
+        "href": "http://ohsheglows.com/2011/03/07/olive-oil-pasta-with-walnuts-lentils-and-red-peppers/"
+      },
+      {
+        "title": "Chana Masala",
+        "href": "http://ohsheglows.com/2010/11/10/daily-picture-feature-chana-masala/"
+      },
+      {
+        "title": "Pan Fried Tofu, Kale and Stir Fried Noodles",
+        "href": "http://www.tablespoon.com/recipes/kale-and-crispy-tofu-stir-fry/3e8192a1-1105-41f6-b3ef-d34c009377e9"
+      },
+      {
+        "title": "Mushroom Kale Rice Bowl",
+        "href": "mushroom kale rice bowl"
+      },
+      {
+        "title": "Mac and Cheese",
+        "href": "http://veganyumminess.com/creamy-vegan-mac-and-cheese/"
+      },
+      {
+        "title": "Wild Mushroom Tostadas with Crème fraîche",
+        "href": "http://heyfranhey.com/post/66981824489/wild-mushroom-tostadas-with-lime-creme-fraiche"
+      },
+      {
+        "title": "Pasta with hearty lentil and spinach sauce",
+        "href": "http://www.allysonkramer.com/2014/08/pasta-with-hearty-lentil-and-spinach-sauce/"
+      },
+      {
+        "title": "Jeweled Basmati Rice",
+        "href": "http://www.allysonkramer.com/2009/10/jeweled-basmati-rice/#more-1357"
+      },
+      {
+        "title": "Tacos",
+        "href": "http://kblog.lunchboxbunch.com/2011/10/fun-vegan-tacos-and-mexican-fiesta.html"
+      },
+      {
+        "title": "Mini Coconut Blood Orange Bundt Cake",
+        "href": "http://www.cookthink.com/recipe/11604/Mini_Coconut_And_Blood_Orange_Bundt_Cakes"
+      },
+      {
+        "title": "Raspberry Chocolate Chip Cake with Homemade Fondant (Gluten-Free)",
+        "href": "http://www.allysonkramer.com/2012/02/raspberry-chocolate-chip-cake-with-homemade-fondant/#more-10188"
+      },
+      {
+        "title": "Brownies (+ Gluten Free Alternative)",
+        "href": "http://ohsheglows.com/2011/10/19/vegan-brownies-two-ways/"
+      },
+      {
+        "title": "Vegan Twix Bars",
+        "href": "http://www.allysonkramer.com/2011/01/vegan-gluten-free-twixx/#more-6969"
+      },
+      {
+        "title": "Carrot Cake Cupcakes",
+        "href": "http://www.meettheshannons.net/2010/08/betty-crocker-project-carrot-cake.html"
+      },
+      {
+        "title": "Peanut Butter Fudge (Gluten Free)",
+        "href": "http://www.allysonkramer.com/2010/12/addictively-easy-peanut-butter-fudge/#more-6739"
+      },
+      {
+        "title": "Rice Crispy Treats",
+        "href": "http://kblog.lunchboxbunch.com/2009/09/vegan-rice-crispy-treats-recipe-just.html"
+      },
+      {
+        "title": "Oatmeal Raisin Cookies",
+        "href": "http://ohsheglows.com/2010/09/11/the-ultimate-vegan-oatmeal-raisin-cookie/"
+      },
+      {
+        "title": "Sugar Cookies",
+        "href": "http://www.allysonkramer.com/2011/04/simple-rolled-sugar-cookies/#more-7882"
+      },
+      {
+        "title": "Pumpkin Cheesecake",
+        "href": "http://www.allysonkramer.com/2011/04/simple-rolled-sugar-cookies/#more-7882"
+      },
+      {
+        "title": "Double Chocolate Chip Cookies (Gluten Free)",
+        "href": "http://www.ambitiouskitchen.com/2014/11/chewy-double-chocolate-chip-cookies-sea-salt/"
+      },
+      {
+        "title": "Apple Pie Coffee Cake",
+        "href": "http://www.tastebook.com/recipes/2189007-Apple-Pie-Coffee-Cake"
+      },
+      {
+        "title": "Chocolate Berry Parfait (Gluten Free)",
+        "href": "http://www.midwestliving.com/recipe/vegan-chocolate-blueberry-parfait/"
+      },
+      {
+        "title": "Blueberry Hand Pie",
+        "href": "https://zandersveganmama.wordpress.com/2013/02/16/blueberry-hand-pies/"
+      },
+      {
+        "title": "Happy Healthy Life",
+        "href": "http://kblog.lunchboxbunch.com"
+      },
+      {
+        "title": "Vegan Yum Yum",
+        "href": "http://veganyumyum.com"
+      },
+      {
+        "title": "The Vegan Stoner",
+        "href": "http://theveganstoner.blogspot.ca"
+      },
+      {
+        "title": "Vegan Dad",
+        "href": "http://vegandad.blogspot.com"
+      },
+      {
+        "title": "Allyson Kramer",
+        "href": "http://www.allysonkramer.com"
+      },
+      {
+        "title": "Vegan Richa",
+        "href": "http://www.veganricha.com"
+      },
+      {
+        "title": "Olives for Dinner",
+        "href": "http://www.olivesfordinner.com"
+      },
+      {
+        "title": "Big Raw",
+        "href": "http://bigrawblog.blogspot.com"
+      },
+      {
+        "title": "Veganacious",
+        "href": "http://www.veganacious.com"
+      },
+      {
+        "title": "Vegan Eats And Treats",
+        "href": "http://veganeatsandtreats.blogspot.com"
+      },
+      {
+        "title": "Happy Herbivore",
+        "href": "http://happyherbivore.com/2009/10/blueberry-oatmeal-muffins/"
+      },
+      {
+        "title": "So What Do Vegans Eat?",
+        "href": "http://whatdoveganseatanyway.blogspot.com"
+      },
+      {
+        "title": "Fat-Free Vegan Kitchen",
+        "href": "http://blog.fatfreevegan.com"
+      },
+      {
+        "title": "Meet The Shannons",
+        "href": "http://www.meettheshannons.net"
+      },
+      {
+        "title": "Awesome Vegan Blog",
+        "href": "http://www.awesomeveganblog.com"
+      },
+      {
+        "title": "Oh She Glows",
+        "href": "http://ohsheglows.com"
+      },
+      {
+        "title": "Vegan Crunk",
+        "href": "http://vegancrunk.blogspot.com"
+      },
+      {
+        "title": "The Snarky Chickpea",
+        "href": "http://www.thesnarkychickpea.com"
+      },
+      {
+        "title": "Seitan Is My Motor",
+        "href": "http://www.seitanismymotor.com"
+      },
+      {
+        "title": "Ginger Is The New Pink",
+        "href": "http://gingeristhenewpink.blogspot.com"
+      },
+      {
+        "title": "I Eat Trees",
+        "href": "http://ieattrees.com/"
+      },
+      {
+        "title": "The New American Vegan",
+        "href": "http://www.amazon.com/gp/product/1604860790/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1604860790&linkCode=as2&tag=vega032-20&linkId=Z4FS4DKRDILFC3MM"
+      },
+      {
+        "title": "Vegan Yum Yum",
+        "href": "http://www.amazon.com/gp/product/0757313809/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0757313809&linkCode=as2&tag=vega032-20&linkId=3EET26NQTYURKEQ4"
+      },
+      {
+        "title": "The 30 Minute Vegan",
+        "href": "http://www.amazon.com/gp/product/0738213276/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738213276&linkCode=as2&tag=vega032-20&linkId=44TAN54IU7EXE6R4"
+      },
+      {
+        "title": "Color Me Vegan",
+        "href": "http://www.amazon.com/gp/product/1592334393/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592334393&linkCode=as2&tag=vega032-20&linkId=Y7J2SERVPYN5Q224"
+      },
+      {
+        "title": "The Quick Fix",
+        "href": "http://www.amazon.com/gp/product/1449407854/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449407854&linkCode=as2&tag=vega032-20&linkId=HB25YEPAE6AICT4H"
+      },
+      {
+        "title": "1000 Vegan Recipes",
+        "href": "http://www.amazon.com/gp/product/0470085029/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470085029&linkCode=as2&tag=vega032-20&linkId=MLGRHHR4UGYCUHA7"
+      },
+      {
+        "title": "The Vegan Diner",
+        "href": "http://www.amazon.com/gp/product/0762437847/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0762437847&linkCode=as2&tag=vega032-20&linkId=4QWSWIDAB2XR4BDV"
+      },
+      {
+        "title": "Vegan Yum Yum",
+        "href": "http://www.amazon.com/gp/product/0757313809/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0757313809&linkCode=as2&tag=vega032-20&linkId=367OIY32GWXORUU6"
+      },
+      {
+        "title": "Happy Herbivore",
+        "href": "http://www.amazon.com/gp/product/1935618121/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1935618121&linkCode=as2&tag=vega032-20&linkId=ZZEKE7WBM6GIS3NA"
+      },
+      {
+        "title": "Candle 79 Cookbook",
+        "href": "http://www.amazon.com/gp/product/1607740125/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1607740125&linkCode=as2&tag=vega032-20&linkId=DAWFDKYXNARAUUDZ"
+      },
+      {
+        "title": "How it All Vegan",
+        "href": "http://www.amazon.com/gp/product/1551522535/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1551522535&linkCode=as2&tag=vega032-20&linkId=CY7PYLPQON6XGAQL"
+      },
+      {
+        "title": "The Vegan Deli",
+        "href": "http://www.amazon.com/gp/product/1570671095/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1570671095&linkCode=as2&tag=vega032-20&linkId=46UL56DWZNIOMYEN"
+      },
+      {
+        "title": "Alternative Vegan",
+        "href": "http://www.amazon.com/gp/product/1604865083/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1604865083&linkCode=as2&tag=vega032-20&linkId=SPSAB56F5L2RS57I"
+      },
+      {
+        "title": "Vegan Fire And Spice",
+        "href": "http://www.amazon.com/gp/product/0980013100/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0980013100&linkCode=as2&tag=vega032-20&linkId=3HOF4B4WG45BPGLT"
+      },
+      {
+        "title": "The Vegan Table",
+        "href": "http://www.amazon.com/gp/product/1592333745/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592333745&linkCode=as2&tag=vega032-20&linkId=KNQEHSIIAA4JO5KM"
+      },
+      {
+        "title": "Veganomicon",
+        "href": "http://www.amazon.com/gp/product/156924264X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=156924264X&linkCode=as2&tag=vega032-20&linkId=ZHCPIZF6TA6DXCGU"
+      },
+      {
+        "title": "Eat Drink and Be Vegan",
+        "href": "http://www.amazon.com/gp/product/1551522241/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1551522241&linkCode=as2&tag=vega032-20&linkId=LM7UX2T6NJILLT2T"
+      },
+      {
+        "title": "Vegan Italiano",
+        "href": "http://www.amazon.com/gp/product/1557884943/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1557884943&linkCode=as2&tag=vega032-20&linkId=7BD6H7GKJH7T6AG7"
+      },
+      {
+        "title": "Viva Vegan",
+        "href": "http://www.amazon.com/gp/product/0738212733/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738212733&linkCode=as2&tag=vega032-20&linkId=TERRCVTNJDMIARGA"
+      },
+      {
+        "title": "Vegan with a Vengeance",
+        "href": "http://www.amazon.com/gp/product/1569243581/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1569243581&linkCode=as2&tag=vega032-20&linkId=MNIW63YJ2PIB4MMT"
+      },
+      {
+        "title": "Tofu 1-2-3",
+        "href": "http://www.amazon.com/gp/product/0471748099/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0471748099&linkCode=as2&tag=vega032-20&linkId=M3ZLXARWR4DNFBX5"
+      },
+      {
+        "title": "The Cookbook For People Who Love Animals",
+        "href": "http://www.amazon.com/gp/product/0929274180/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0929274180&linkCode=as2&tag=vega032-20&linkId=EJVBQQ4U76OWANYH"
+      },
+      {
+        "title": "The Meditterranean Vegan Kitchen",
+        "href": "http://www.amazon.com/gp/product/1557883599/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1557883599&linkCode=as2&tag=vega032-20&linkId=EIZP4FRYCPUTAD7M"
+      },
+      {
+        "title": "Let them Eat Vegan",
+        "href": "http://www.amazon.com/gp/product/0738215619/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738215619&linkCode=as2&tag=vega032-20&linkId=ONVFJS5YNUTV5GYC"
+      },
+      {
+        "title": "The Vegan Soul Kitchen",
+        "href": "http://www.amazon.com/gp/product/0738212288/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738212288&linkCode=as2&tag=vega032-20&linkId=6UV7VQ5JKOW67Z23"
+      },
+      {
+        "title": "The 30 Minute Vegan",
+        "href": "http://www.amazon.com/gp/product/0738213276/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738213276&linkCode=as2&tag=vega032-20&linkId=N3EX2ZI5BM2W5U2L"
+      },
+      {
+        "title": "Vegan Planet",
+        "href": "http://www.amazon.com/gp/product/1558328319/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1558328319&linkCode=as2&tag=vega032-20&linkId=3HCOM4BVYRWVBCAC"
+      },
+      {
+        "title": "The New McDougall Cookbook",
+        "href": "http://www.amazon.com/gp/product/0452274656/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0452274656&linkCode=as2&tag=vega032-20&linkId=SWKDDTRJ5BYAQRMA"
+      },
+      {
+        "title": "Great gluten-free vegan eats",
+        "href": "http://www.amazon.com/gp/product/1592335136/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592335136&linkCode=as2&tag=vega032-20&linkId=JTI3XRJFFWSYDHUJ"
+      },
+      {
+        "title": "Appetite for Reduction",
+        "href": "http://www.amazon.com/gp/product/1600940498/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1600940498&linkCode=as2&tag=vega032-20&linkId=HMBBPC2DW4EOIQPQ"
+      },
+      {
+        "title": "The 100 Best Gluten-Free Recipes for your Vegan Kitchen",
+        "href": "http://www.amazon.com/gp/product/1569758727/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1569758727&linkCode=as2&tag=vega032-20&linkId=HQGLMLGCZCHZMA2Z"
+      },
+      {
+        "title": "The Forks over Knives Cookbook",
+        "href": "http://www.amazon.com/gp/product/1615190619/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1615190619&linkCode=as2&tag=vega032-20&linkId=CHRZ3F7MPOF5EUBU"
+      },
+      {
+        "title": "The 30 Minute Vegan",
+        "href": "http://www.amazon.com/gp/product/0738213276/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738213276&linkCode=as2&tag=vega032-20&linkId=N3EX2ZI5BM2W5U2L"
+      },
+      {
+        "title": "Japanese Cooking",
+        "href": "http://www.amazon.com/gp/product/1570670722/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1570670722&linkCode=as2&tag=vega032-20&linkId=7TBPOCST7YU267F7"
+      },
+      {
+        "title": "Pregnancy, Children and the Vegan Diet",
+        "href": "http://www.amazon.com/gp/product/0961424826/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0961424826&linkCode=as2&tag=vega032-20&linkId=MHK7QL5F5HFKTIMI"
+      },
+      {
+        "title": "Dr. Neal Barnard’s Program For Reversing Diabetes",
+        "href": "http://www.amazon.com/gp/product/1594868107/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1594868107&linkCode=as2&tag=vega032-20&linkId=M47K2VVVMQC6IWHG"
+      },
+      {
+        "title": "Vegan Cupcakes Take Over the World",
+        "href": "http://www.amazon.com/gp/product/1569242739/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1569242739&linkCode=as2&tag=vega032-20&linkId=A5HGAAVLNYYLTNFP"
+      },
+      {
+        "title": "Vegan Cookies Invade Your Cookie Jar",
+        "href": "http://www.amazon.com/gp/product/160094048X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=160094048X&linkCode=as2&tag=vega032-20&linkId=ROKVDSHLXENXO46G"
+      },
+      {
+        "title": "Sweet Vegan",
+        "href": "http://www.amazon.com/gp/product/1906868352/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1906868352&linkCode=as2&tag=vega032-20&linkId=SXODWMYUKWGMRMQC"
+      },
+      {
+        "title": "Lick It",
+        "href": "http://www.amazon.com/gp/product/1570672377/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1570672377&linkCode=as2&tag=vega032-20&linkId=6GFIHMLLXNJARVWL"
+      },
+      {
+        "title": "Sticky Fingers' Sweets",
+        "href": "http://www.amazon.com/gp/product/1583335110/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1583335110&linkCode=as2&tag=vega032-20&linkId=AW2NL2HKBF2X3SNF"
+      },
+      {
+        "title": "The Joy of Vegan Baking",
+        "href": "http://www.amazon.com/gp/product/1592332803/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592332803&linkCode=as2&tag=vega032-20&linkId=7Y5Y7SSGXIR3AS4B"
+      },
+      {
+        "title": "The Joy of Vegan Baking",
+        "href": "http://www.amazon.com/gp/product/1592332803/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592332803&linkCode=as2&tag=vega032-20&linkId=7Y5Y7SSGXIR3AS4B"
+      },
+      {
+        "title": "Vegan Pie in the Sky",
+        "href": "http://www.amazon.com/gp/product/0738212741/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0738212741&linkCode=as2&tag=vega032-20&linkId=ZH37QVZEZPJHDMHL"
+      },
+      {
+        "title": "The Vegan Scoop",
+        "href": "http://www.amazon.com/gp/product/1592333923/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1592333923&linkCode=as2&tag=vega032-20&linkId=IU4CQKKCHE34RAIQ"
+      },
+      {
+        "title": "Have Your Cake and Vegan Too",
+        "href": "http://www.amazon.com/gp/product/1569759200/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1569759200&linkCode=as2&tag=vega032-20&linkId=366R7XDBQACU33LS"
+      },
+      {
+        "title": "Vegan Desserts: Sumptuous Sweets For Every Season",
+        "href": "http://www.amazon.com/gp/product/1626361347/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1626361347&linkCode=as2&tag=vega032-20&linkId=P6VHIUTXLP7ZGDZG"
+      },
+      {
+        "title": "Babycakes",
+        "href": "http://www.amazon.com/gp/product/0307408833/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0307408833&linkCode=as2&tag=vega032-20&linkId=LXMUXJO3CUVHCAA2"
+      },
+      {
+        "title": "Vegan Cupcakes Take Over the World",
+        "href": "http://www.amazon.com/gp/product/1569242739/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1569242739&linkCode=as2&tag=vega032-20&linkId=VMO2RGHPYAIHENUS"
+      },
+      {
+        "title": "Vegan Food is Everywhere",
+        "href": "http://veganfoodiseverywhere.com"
+      },
+      {
+        "title": "HappyCow",
+        "href": "http://www.happycow.net"
+      },
+      {
+        "title": "VegGuide",
+        "href": "http://www.vegguide.org"
+      },
+      {
+        "title": "Vegan Essentials",
+        "href": "http://veganessentials.com"
+      },
+      {
+        "title": "Amazon.com",
+        "href": "http://amazon.com/?_encoding=UTF8&camp=1789&creative=9325&linkCode=ur2&tag=vega032-20&linkId=C3ZO2W5P7U3V7M26"
+      },
+      {
+        "title": "Pangea",
+        "href": "http://www.veganstore.com"
+      },
+      {
+        "title": "Download the Pamphlet",
+        "href": "http://www.internationalvegan.org/wp-content/uploads/2014/08/Demystifying-Vegan-Nutrition-v2-HQ-Print.pdf"
+      },
+      {
+        "title": "Learn More",
+        "href": "http://bostonvegan.org/nutrition"
+      },
+      {
+        "title": "Visit Everyday Dish for the recipe.",
+        "href": "http://www.everydaydish.tv"
+      },
+      {
+        "title": "Leigh Chantelle from Viva La Vegan",
+        "href": "http://www.vivalavegan.net/community/"
+      },
+      {
+        "title": "Olga from FabLunch",
+        "href": "http://blog.fablunch.com/curried-cream-of-cauliflower-soup-simple-vegan-recipe/"
+      },
+      {
+        "title": "The Vegan Zombie",
+        "href": "http://theveganzombie.com"
+      },
+      {
+        "title": "View the recipe",
+        "href": "http://www.everydaydish.tv/videos/vegan-homestyle-chocolate-chip-cookies/"
+      },
+      {
+        "title": "Download",
+        "href": "http://cdn.everything.io/vegankit/downloads/recipes.pdf"
+      },
+      {
+        "title": "Ian the Turkey",
+        "href": "http://peacefulprairie.blogspot.com/2010/11/ians-crossing.html"
+      }
+    ],
+    "title": "Eating",
+    "recommended-products": "Recommended Products",
+    "products-we-love": "Here are some vegan products we personally love and come highly recommended by readers like you:",
+    "2-from-cookthink": "from CookThink",
+    "2-from-vyy": "from VeganYumYum",
+    "2-from-babble": "from Babble",
+    "2-from-tastebook": "from Tastebook",
+    "2-from-food-dot-com": "from Food.com",
+    "99-vitamin-c": "Vitamin C",
+    "99-b-12": "B12",
+    "99-omega-3": "Omega-3",
+    "99-vitamin-d": "Vitamin D",
+    "shortTitle": "Eat",
+    "72-about-the-vegan-d": "About the Vegan Diet",
+    "64-a-vegan-diet-is-o": "A vegan diet is one that consists of only plant-derived foods. Vegans don’t use or consume any animals or animal products including flesh (land or sea animals), milk, eggs, or honey.",
+    "38-eating-vegan-does": "Eating vegan doesn't require breaking the bank or moving to a big city. The most nutritious and inexpensive vegan foods which can be found in any supermarket, are fresh produce, grains, legumes and nuts/seeds.  These should make up the bulk of the diet for optimum health. Vegan processed foods in the form of soy hot dogs, vegan  \"cheeses,\" desserts, etc are best eaten only on occasion.",
+    "94-isnt-vegan-food-b": "Isn’t vegan food boring?",
+    "40-a-popular-myth-is": "A popular myth is that vegans subsist only on soybeans and salad. In reality, vegans eat everything non-vegans eat, but without the animal products and likely with more variety from",
+    "special_foods": "special foods.",
+    "44-common-vegan-dish": "Common vegan dishes include stir fry, pasta, rice and beans, chana masala, cucumber-avocado sushi, pad thai, quinoa, pizza, pancakes, french toast, waffles, veggie burgers, chili, soups, tacos, burritos, casseroles, stew, sandwiches, cookies, non-dairy ice-cream, cakes, pies, etc.",
+    "80-nutrition-amp-hea": "Nutrition & Health",
+    "20-nutritional-defic": "Nutritional deficiencies are a concern for everyone. While vegans statistically enjoy longer life spans than the average human being, we are not exempt from this reality. First and foremost, you should ensure you are receiving enough Vitamin B-12, Omega-3, and Vitamin D. See below for more detailed information on vegan nutrition.",
+    "92-strongproteinstro": "Protein: Because animal-based foods are high in protein, it’s a common misconception that vegans don’t get enough of it. In fact, the real problem is nonvegans getting too much protein. Vegans can get all the protein they need from lentils, tempeh, tofu, beans, nuts, seeds, and even vegetables.",
+    "72-we-highly-recomme": "We highly recommend the book, Becoming Vegan by Brenda Davis and Vesanto Melina. M.S., R.D for more detailed information pertaining to ones age and individual needs. They provide sample menu plans and nutrition recommendations for children, teenagers, pregnancy, and athletes as well as a wealth of information on proper nutrition.",
+    "59-strongcalciumstro": "Calcium:  (Approximately 1000 milligrams per day, 1200 milligrams for women over 51 and men over 70.)\nLeafy green vegetables-kale, collards, broccoli, okra, figs, oranges, almonds, pistachio nuts, hazelnuts, flaxseed, sunflower seeds, sesame seeds, soybeans, chickpeas, navy beans, pinto beans, kidney beans, lentils, tempeh, tofu*, fortified non-dairy yogurt, fortified non-dairy milks, fortified soy products, fortified breakfast cereals, and fortified orange juice. Note: Spinach, beet greens, and chard are healthy foods but not good sources of calcium.",
+    "70-emwhen-purchasing": "When purchasing tofu, look for the calcium-set tofu with \"calcium sulphate\" in the ingredients.",
+    "21-strongironstrong-": "Iron: Chickpeas (hummus), lentils, navy beans, pinto beans, kidney beans, soybeans, quinoa, tofu, raisins, goji berries, fortified veggie burgers and other soy products, pumpkin seeds, cashews, figs, sunflower seeds, sesame tahini, prunes, whole wheat, parsley, and pine nuts.",
+    "1-emtipsem": "Tips",
+    "95-vitamin-c-rich-fo": "Vitamin-C rich foods help with iron absorption. Try eating these foods in the same meal.\nUse cast-iron cookware.  If your iron status is low, avoid consuming foods high in zinc at the same meal.",
+    "95-40-vegan-foods-th": "40 Vegan Foods: Their Scientifically-Proven Health Benefits",
+    "2-strongb12strong-20": "(2000 micrograms once a week or 10-100 micrograms a day.)\nProduced by bacteria and found in soil, water, etc, it is necessary for vegans to supplement their diet since most vegetables are cleaned very well. Vegans supplement their diets with B12 by eating nutritional yeast  or fortified foods. Most non-dairy milks and cereals are fortified with B12. Consume at least three servings of vitamin B12-fortified food per day (each supplying at least 20% of the Daily Value on the label),\nOr, vegan B12 tablets.  (One 2000 mcg  tablet (ideally chewed or dissolved under your tongue) once a week; or\nat least 10-100 mcg once a day.)",
+    "91-strongomega-3stro": "Two tablespoons of ground flax seeds every day or two teaspoons daily of flax seed\noil. And/or, an omega 3 DHA supplement in the form of algae.",
+    "79-according-to-mich": "According to Michael Greger, MD, diabetics and pregnant or breast-feeding women should take 300 mg of DHA every day",
+    "41-dha-a-hrefhttpwww": "DHA",
+    "or": "or",
+    "22-strongvitamin-dst": "Light skin: about 10-15 minutes of sunshine. Dark skin: about 30 minutes of sunshine. or 1000-2000 iu daily depending on the time of year, etc.",
+    "note_vitamin_D3": "Note: Vitamin D3 found in many fortified orange juices comes from the wool of sheep and is not vegan.",
+    "19-important-if-you": "*Important: If you have any health problems-including obesity, or are taking medication (cholesterol medication, insulin, etc) you should inform your doctor of your plans to change your diet before making any changes.  A switch to a plant based diet can alter your need for medication.",
+    "16-disclaimer-the-in": "Disclaimer: The information in this kit is intended as a helpful overview but cannot cover all vegan nutrition topics. To make sure that your diet is meeting all the nutrients that your body and mind need, please consult a nutrition professional with expertise in vegan diets.",
+    "10-special-foods": "Special Foods",
+    "66-spend-some-time-w": "Spend some time with a vegan and you may be surprised to learn a vegan's diet is not just the standard diet minus animal products. There are several kinds of foods which have gained recognition as vegan staples.",
+    "27-tempeh": "Tempeh",
+    "6-tempeh-tem-pea-or": "Tempeh (\"tem-pea\" or \"tem-pay\") is like tofu, but fermented and pressed to be thick and savory. An easy way to prepare tempeh is to fry or grill with blended seasonings meant for grilling. Check your ingredients, of course, but surprsingly many are vegan.",
+    "55-tofu": "Tofu",
+    "77-tofu-is-a-solid-f": "Tofu is a solid food made from pressed soybean curd. It's one of the most unusual vegan staples in that it can be used to make a breakfast dish like",
+    "29-scrambled-tofu": "scrambled tofu",
+    "a_dinner_dish_like": ", a dinner dish like ",
+    "tofu_gets_a_bad": "Tofu gets a bad wrap in popular culture as a tasteless food, but tofu isn't meant to be a flavor agent. It works best at soaking up flavors and giving them a texture and consistency.",
+    "24-seitan": "Seitan",
+    "41-seitan-is-a-chewy": "Seitan is a chewy and naturally brown substance made from wheat gluten, an isolated protein found in wheat. Seitan is usually cut into strips and baked or fried to provide some protein and chewiness to a dish.",
+    "86-like-tempeh-seita": "Like tempeh, seitan is very easy to prepare and needs little to no seasoning.",
+    "50-nutritional-yeast": "Nutritional Yeast",
+    "31-nutritional-yeast": "Nutritional yeast is very different from the yeast used in bread. Nutritional yeast, which comes powdered or in flakes, is most often used to provide a cheesy consistency. Unlike cheese, nutritional yeast also lasts far longer and has no cholesterol. Sprinkle in soup, on popcorn, or add water to make cheesy sauces.",
+    "80-ingredients": "Ingredients",
+    "31-the-number-of-non": "The number of nonvegan ingredients found in food and products is too numerous to mention here, but we've included some of the most common below. ",
+    "92-common-nonvegan-i": "Common Nonvegan Ingredients",
+    "casein_is_a_protein": "Casein is a protein from milk. Surprisingly, this is often found in soy cheeses!",
+    "also_known_as": "Also known as Crimson Lake, Cochineal, Natural Red 4, C.I. 75470, or E120, carmine is made from crushed cochineal insects with bright red shells. Often used as a red food coloring.",
+    "beeswax_as_the": "Beeswax, as the name implies comes from honeybees",
+    "6-stronga-target_bla": "Gelatin is a subtance produced from the collagen found in animal bones and hoofs. This is often used for marshmallows, Jello®, and as a preservative.",
+    "some_alcohols_use": "Some alcohols use isinglass, egg albumen, or bone char to filter wines, beers, and liquors.",
+    "29-lactose": "Lactose",
+    "lactose_is_a_protein": "Lactose is a protein from milk. However, lactic acid is almost always vegan.",
+    "74-lanolin": "Lanolin",
+    "47-stronga-target_bl": "Lanolin, also known as wool fat, comes from the wool of sheep.",
+    "7-vitamin-d3": "Vitamin D3",
+    "34-stronga-target_bl": "Often found in fortified orange juice, vitamin D3 comes from Lanolin, a sheep product. D2, however, is vegan.",
+    "29-whey": "Whey",
+    "49-stronga-target_bl": "Whey is a milk protein often used as a protein boost in some commercial foods.",
+    "13-replacements": "Replacements",
+    "0-here-are-some-quic": "Here are some quick tips for using vegan ingredients to replace the animal products in your favorite recipes",
+    "71-eggs": "Eggs",
+    "apple-sauce": "Apple Sauce",
+    "36-strongapple-sauce": "Applesauce will give off a gas while being cooked, making your baked goods fluffy. It's also doesn't require adding as much liquid as powdered replacers. 1/4 cup applesauce = 1 egg",
+    "ground_flax_seed": "Ground Flax Seed",
+    "28-strongground-flax": "When ground to a powder and liquified with water, ground flax seed creates a gooey texture great for binding. It's also full of protein and omega-3s. 1 tbsp ground flax + 3 tbsp water = 1 egg.",
+    "banana": "Banana",
+    "17-strongbananastron": "Like applesauce, bananas are naturally sweet. They also have strong binding properties when used baked goods. <strong>1/2 banana = 1 egg</strong>",
+    "baking-soda-powder": "Baking soda/powder",
+    "28-strongbaking-soda": "When you really need your dish fluffy without extra flavor, simple baking soda or baking powder does wonders. 1 tsp baking powder + 1 1/2 tbs water + 1 1/2 tbs oil or 1 tbs vinegar + 1 tsp baking soda = 1 egg.",
+    "34-milk": "Milk",
+    "soy-oat-hemp": "Soy/Oat/Hemp/Almond/etc. milk",
+    "20-strongsoyoathempa": "By now, you've probably heard of the increasingly popular nut- and bean-derived milk products making their way into grocery stores. While soymilk is probably the most prevalent, some prefer rice milk for its naturally light and sweet flavor and almond milk for a boost of Vitamin E, monounsaturated fats, dietary fiber, and B vitamins.",
+    "vegetable-oil": "Vegetable Oil",
+    "15-strongvegetable-o": "The only difference between a fat and an oil is that a fat is a solid at room temperature. Often when milk is used in foods like mashed potatoes, it's the fat that makes it creamy. Substituting this for vegetable or olive oil is equally as satisfying and much healthier.",
+    "66-recipes": "Recipes",
+    "93-thinking-about-wh": "Thinking about what you'll eat as a vegan? Try out our menu suggestion. To learn more about the recipe, simply click on the link.",
+    "92-breakfast": "Breakfast",
+    "19-lunch": "Lunch",
+    "17-dinner": "Dinner",
+    "95-snacks-and-sweets": "Snacks and Sweets",
+    "91-for-purposes-of-r": "(For purposes of reference only. We do not necessarily endorse the opinions, links, or views expressed on the links provided.)",
+    "55-from-vegan-yum-yu": "From Vegan Yum Yum",
+    "42-food-blogs": "Food Blogs",
+    "37-cookbooks": "Cookbooks",
+    "by_vincent_j": "by Vincent J. Guihan",
+    "48-weaving-together": "Weaving together personal stories with 120 appetizing recipes, this friendly cookbook delivers authentically American and vegan cuisine that has to be tasted to be believed. Midwestern-inspired recipes range from very basic to the modestly complicated, but always with an eye on creating something beautiful and delicious in its simplicity.",
+    "26-clear-text-provid": "Clear text provides step-by-step instructions and helps new cooks find their feet in a vegan kitchen, with a whole chapter devoted to terms, tools, and techniques. With an eye towards improvisation, the cookbook provides a detailed basic recipe that is good as-is, while providing additional notes that explain how to take each recipe further—to increase flavor, to add drama to the presentation, or just to add extra flourish.\"",
+    "by_lauren_ulm": "by Lauren Ulm",
+    "78-when-lauren-ulm-w": "\"When Lauren Ulm went vegan, she faced the typical onslaught of questions from acquaintances and more than the occasional wince from unsuspecting dinner guests. Vowing to prove that vegan food can be decadent and delicious—and not a bland stand-in for 'normal' food—she created a blog, veganyumyum.com. What began as a hobby became an obsession....",
+    "31-here-in-her-debut": "Here in her debut cookbook, Lauren shows that vegan food is anything but dull, with her creative and quirky twists on everything from crowd-pleasing appetizers to indulgent desserts, from easy weekend breakfasts to speedy weeknight dinners, plus holiday- and company-worthy fare you can serve with pride.\"",
+    "by_colleen_patrick": "by Colleen Patrick-Goudreau",
+    "35-a-celebration-of": "\"A celebration of plant-based cuisine, The Vegan Table offers recipes and menus for every occasion and season, including romantic meals, traditional tea parties, formal dinners, casual gatherings, children’s parties, and holiday feasts.",
+    "0-packed-with-invalu": "Packed with invaluable tips, expert advice, fascinating lore, delicious recipes, and gorgeous full-color photographs, The Vegan Table is the ultimate guide, whether you are hosting an intimate gathering of close friends or a large party with an open guest list.",
+    "86-organized-by-them": "Organized by themed menus, the eclectic mix of recipes features cuisines from around the world, including Mediterranean, Middle Eastern, Mexican, Asian, Indian, and African. Follow the menus provided, or create your own using the array of appetizers, soups, stews, salads, main dishes, and desserts.\"",
+    "by_dreena_burton": "by Dreena Burton",
+    "41-vegan-food-has-co": "\"Vegan food has come a long way in the past decade. The once ubiquitous dry, packaged veggie burger is no longer the poster child for an animal-free diet.",
+    "48-it-has-evolved-in": "It has evolved into a creative, sophisticated cuisine touted by the likes of Food &amp; Wine magazine. Long at the fore of vegan blogging and cooking, Dreena Burton has been known for making healthy taste delicious. Let Them Eat Vegan! distills more than fifteen years of recipe development that emphasize unrefined, less-processed ingredients--no white flour or white sugar, but instead whole-grain flours, natural sweeteners, raw foods, and plenty of beans ’n greens.",
+    "61-theres-no-relying": "There’s no relying on meat analogues here, either--just hearty, healthy food that looks and tastes great. As the mother of three young girls, Burton always keeps their nutrition--and taste buds--in mind. From the simplest comfort foods like Warm 'Vegveeta' Cheese Sauce to the more sophisticated Anise-and Coriander-Infused Orange Lentil Soup, these recipes will delight and inspire even the pickiest eaters and provide lifelong vegans with the innovative, wholesome recipes they’ve always wanted.\"",
+    "86-the-vegan-soul-ki": "The Vegan Soul Kitchen",
+    "7-the-30-minute-vega": "The 30 Minute Vegan’s Taste Of The East",
+    "43-vegan-planet": "Vegan Planet",
+    "23-the-new-mcdougall": "The New McDougall Cookbook",
+    "15-great-gluten-free": "Great Gluten Free Vegan Eats",
+    "56-appetite-for-redu": "Appetite For Reduction",
+    "33-the-100-best-glut": "The 100 Best Gluten Free Recipes For Your Vegan Kitchen",
+    "9-forks-over-knives": "Forks Over Knives",
+    "by_mark_reinfeld_and_jennifer": "by Mark Reinfeld and Jennifer Murray",
+    "88-busy-vegans-rejoi": "\"Busy vegans, rejoice! award-winning husband and wife chefs/authors Reinfeld and Murray present 150 delicious, easy-to prepare recipes for everyday vegan cooking—all dishes that can be prepared in a half-hour.",
+    "10-sections-include": "Sections include The Lighter Side of Life: Smoothies &amp; Satiating Beverages; Snacks, Pick Me Ups &amp; Kids’ Favorites; Lunches: Wraps, Rolls, Bowls, and More; Extraordinary Salads; Sumptuous Soups; Small Plates: Appetizers, Side Dishes, Light Dinners; Wholesome Suppers; Guilt-Free Comfort Food: Healthy Translations of Old Stand-bys; and Divine Desserts.",
+    "75-the-30-minute-veg": "The 30-Minute Vegan also provides at-a-glance cooking charts, kids’ favorite dishes, and exciting menu suggestions for every occasion—making this an essential cookbook for busy vegans who want to enjoy delicious, healthful, whole-foods vegan fare every day.\"",
+    "25-desserts": "Desserts",
+    "96-a-seasoned-cookin": "\"A seasoned cooking instructor and self-described \"joyful vegan,\" author Colleen Patrick-Goudreau puts to rest the myth that vegan baking is an inferior alternative to non-vegan baking, putting it in its rightful place as a legitimate contender in the baking arena.",
+    "6-more-than-just-a-c": "More than just a collection of recipes, this informative cookbook is a valuable resource for any baker -- novice or seasoned. Learn just how easy it is to enjoy your favorite homespun goodies without compromising your health or values.\"",
+    "by_isa_chandra": "by Isa Chandra Moskowitz and Terry Hope Romero",
+    "6-the-hosts-of-the-v": "The hosts of the vegan cooking show The Post Punk Kitchen are back with a vengeance — and this time, dessert.",
+    "51-a-companion-volum": "A companion volume to Vegan with a Vengeance, Vegan Cupcakes Take Over the World is a sweet and sassy guide to baking everyone's favorite treat without using any animal products. This unique cookbook contains over 50 recipes for cupcakes and frostings — some innovative, some classics — with beautiful full color photographs. Isa and Terry offer delicious, cheap, dairy-free, egg-free and vegan-friendly recipes like Classic Vanilla Cupcakes (with chocolate frosting), Crimson Velveteen Cupcakes (red velvet with creamy white frosting), Linzer Torte Cupcakes (hazelnut with raspberry and chocolate ganache), Chai Latte Cupcakes (with powdered sugar) and Banana Split Cupcakes (banana-chocolate chip-pineapple with fluffy frosting). Included also are gluten-free recipes, decorating tips, baking guidelines, vegan shopping advice, and Isa's true cupcake anecdotes from the trenches.",
+    "93-when-vegan-cupcak": "When Vegan Cupcakes Take Over the World, no dessert lover can resist.",
+    "53-restaurants-near": "Restaurants Near You",
+    "47-even-if-you-dont": "Even if you don't live in a big city with fully vegan restaurants, there is a surprisingly large number of vegan options for eating out almost anywhere in the world. Check out two of the most popular resources below to find options near you. Please be advised, while these can be excellent resources for finding vegan options, the unfortunately also label options which are devoid of flesh, but still very nonvegan.",
+    "66-with-a-fresh-desi": "With a fresh design and tons of listings all over the world, VFIE is our number one recommendation for finding vegan and vegan-friendly establishments.",
+    "92-happycow-is-one-o": "HappyCow is one of the oldest resources for finding vegan restaurants near you.",
+    "95-vegguide-is-simil": "VegGuide is similar to HappyCow, but with a more streamlined, minimalist interface making it fast and easy to search.",
+    "9-vegan-stores": "Vegan Stores",
+    "89-here-are-a-few-pl": "Here are a few places to get vegan products delivered to you",
+    "28-vegan-essentials": "VE, as the name implies, is all vegan with a wide selection of foods for humans and nonhumans as well as clothing and other specialty items.",
+    "73-stronga-target_bl": "While not an exclusively vegan storefront, Amazon actually has a large directory of vegan foods available in bulk in their grocery department.",
+    "99-pangea": "Pangea, also known as TheVeganStore.com is an all vegan storefront much like Vegan Essentials.",
+    "veganism-is-not-just": "Veganism is not just a diet, but a moral obligation if we wish to strike at the roots of speciesism in all its forms. Veganism is a moral imperative if we wish to bring an end to an injustice to all animals. Veganism is the very least that we owe to the thinking, feeling creatures with whom we share the Earth. ",
+    "71-khaetlyn-l-grinde": "Khaetlyn L. Grindell",
+    "46-free-vegan-nutrit": "Free Vegan Nutrition Pamphlet",
+    "40-download-this-fre": "Download this free pamphlet from the Boston Vegan Association.",
+    "43-strong-classespec": "Veganism is an act of nonviolent defiance. It is our statement that we reject the notion that animals are things and that we regard sentient nonhumans as moral persons with the fundamental moral right not to be treated as the property or resources of humans.”\n\t\t\t",
+    "33-prof-gary-l-franc": "Prof. Gary L. Francione, Distinguished Professor of Law, Rutgers University",
+    "98-forks-over-knives": "Forks over Knives Trailer",
+    "23-this-documentary": "This documentary film discusses how easy it is to prevent many of the most prevalent diseases with a plant-based diet, rather than surgery and other extreme measures.",
+    "46-what-makes-you-si": "What Makes You Sick?",
+    "31-vegan-doctor-and": "Vegan doctor and nutrition advocate John McDougall discusses how important a plant-based diet is to one's health.",
+    "18-vegan-bodybuildin": "Vegan Bodybuilding",
+    "69-contrary-to-popul": "Contrary to popular belief, a vegan diet is optimal for building muscle. Just look at Robert Cheeke from Vegan Bodybuilding and Fitness.",
+    "27-quinoa-kitchari": "Quinoa Kitchari",
+    "89-chef-julie-hasson": "Chef Julie Hasson shows how to make quinoa kitchari from 30 Minute Vegan",
+    "20-viva-la-vegan-scr": "Viva La Vegan: Scrambled Tofu",
+    "makes-a-quick-and": "makes a quick and delicious scrambled tofu",
+    "94-creamy-cauliflowe": "Creamy Cauliflower Thyme Soup",
+    "demonstrates-her-creamy": "demonstrates her creamy cauliflower soup.",
+    "53-stuffed-broccoli": "Stuffed Broccoli and Spinach Pizza",
+    "creates-a-pizza-just": "creates a pizza just in time for the zombie apocalypse",
+    "7-vegan-baking-demys": "Vegan Baking Demystified",
+    "9-colleen-patrick-go": "Colleen Patrick Goudreau, author of Vegan Baking and other vegan cookbooks sheds light on what vegan baking is all about",
+    "59-peteys-pumpkin-cu": "Petey's Pumpkin Cupcakes",
+    "64-ptisseur-petey-ro": "Pâtisseur Petey Rojas demonstrates his favorite pumpkin cupcakes",
+    "78-chocolate-chip-co": "Chocolate Chip Cookies",
+    "30-everyday-dish-gue": "Everyday Dish guest Dreena Burton makes her tried and true recipe for easy homestyle chocolate chip cookies.",
+    "27-free-recipe-sheet": "Free Recipe Sheet",
+    "93-this-free-recipe": "This free recipe sheet lists a few of our favorite vegan recipes that range in effort and availability of ingredients.",
+    "0-people-who-talk-ab": "People who talk about part-time veganism, bigger cages, free range, grass fed, Michael Pollan, humane slaughter, etc etc etc want to oppose slavery without freeing their slaves. And that’s simply not possible.\n\t\t\t",
+    "22-david": "David",
+    "93-theres-even-vegan": "There's Even Vegan Ice Cream?",
+    "43-click-on-our-set": "Click on our set above to explore some popular vegan ice cream options.",
+    "39-have-you-ever-kno": "Have you ever known a turkey? Meet Ian."
+  },
+  "wear": {
+    "videos": [
+      "vcQ6yBEE5N0",
+      "NLQ1Neec0EE",
+      "_XQ1D6vW6IQ",
+      "QTIUBpR7wBk",
+      "misIhINQssU",
+      "4N68cuyThyU",
+      "PEqDFGRKFCo"
+    ],
+    "images": [
+      "goat",
+      "lamb2",
+      "willow",
+      "marcie"
+    ],
+    "links": [
+      {
+        "title": "More on wool production",
+        "href": "http://gentleworld.org/whats-wrong-with-wool/"
+      },
+      {
+        "title": "the video of Herbie on the Why page, acting much like a puppy",
+        "href": "http://vegankit.com/why#about-animals"
+      },
+      {
+        "title": "Cynthia King Vegan Ballet Slippers",
+        "href": "http://cynthiakingdance.com/veganballetslippers/"
+      },
+      {
+        "title": "Vegan Store",
+        "href": "http://www.veganstore.com"
+      },
+      {
+        "title": "Nice Shoes",
+        "href": "https://niceshoes.ca"
+      },
+      {
+        "title": "Okabashi",
+        "href": "http://www.okabashi.com"
+      },
+      {
+        "title": "MooShoes",
+        "href": "http://www.mooshoes.com"
+      },
+      {
+        "title": "Vegan Store UK",
+        "href": "http://www.veganstore.co.uk"
+      },
+      {
+        "title": "Alternative Outfitters",
+        "href": "http://www.alternativeoutfitters.com"
+      },
+      {
+        "title": "Vegan Chic",
+        "href": "http://www.veganchic.com"
+      },
+      {
+        "title": "Muso Koroni",
+        "href": "http://www.muso-koroni.com"
+      },
+      {
+        "title": "Noah",
+        "href": "http://www.noah-shop.com"
+      },
+      {
+        "title": "Vegetarian Shoes",
+        "href": "http://www.vegetarian-shoes.co.uk"
+      },
+      {
+        "title": "Cow Jones Industrials",
+        "href": "http://www.cowjonesindustrials.com"
+      },
+      {
+        "title": "Cri de Coeur",
+        "href": "http://cridecoeur.myshopify.com"
+      },
+      {
+        "title": "Olsen Haus",
+        "href": "http://www.olsenhaus.com"
+      },
+      {
+        "title": "Veganwares",
+        "href": "http://www.veganwares.com"
+      },
+      {
+        "title": "Freerangers",
+        "href": "http://www.freerangers.co.uk"
+      },
+      {
+        "title": "BBoheme",
+        "href": "http://www.bboheme.com"
+      },
+      {
+        "title": "Ethicalwares",
+        "href": "http://www.ethicalwares.com"
+      },
+      {
+        "title": "Melissa",
+        "href": "http://www.melissaaustralia.com.au"
+      },
+      {
+        "title": "Cynthia King Ballet Slippers",
+        "href": "http://cynthiakingdance.com/veganballetslippers/"
+      },
+      {
+        "title": "Neuaura Shoes",
+        "href": "http://www.neuaurashoes.com"
+      },
+      {
+        "title": "Roni Kantor",
+        "href": "https://www.etsy.com/shop/RoniKantorShoes"
+      },
+      {
+        "title": "Beyond Skin",
+        "href": "http://www.beyondskin.co.uk"
+      },
+      {
+        "title": "Cri de Coeur",
+        "href": "http://cridecoeur.myshopify.com/collections/frontpage"
+      },
+      {
+        "title": "Love is Mighty",
+        "href": "http://loveismighty.com/product.html"
+      },
+      {
+        "title": "Charmone",
+        "href": "http://charmone.com/shop"
+      },
+      {
+        "title": "No harm",
+        "href": "http://www.noharm.com"
+      },
+      {
+        "title": "Brave Gentleman",
+        "href": "http://www.bravegentleman.com"
+      },
+      {
+        "title": "Alternative Outfitters",
+        "href": "http://www.alternativeoutfitters.com"
+      },
+      {
+        "title": "Vegan Store",
+        "href": "http://www.veganstore.com"
+      },
+      {
+        "title": "MooShoes",
+        "href": "http://www.mooshoes.com"
+      },
+      {
+        "title": "Muso Koroni",
+        "href": "http://www.muso-koroni.com/en/home/"
+      },
+      {
+        "title": "Vaute Couture",
+        "href": "http://vautecouture.com"
+      },
+      {
+        "title": "Matt and Nat",
+        "href": "http://mattandnat.com"
+      },
+      {
+        "title": "Susan Nichole",
+        "href": "http://susannichole.com"
+      },
+      {
+        "title": "Gunas",
+        "href": "http://www.gunasthebrand.com"
+      },
+      {
+        "title": "Never Leather Land",
+        "href": "http://neverleatherland.spreadshirt.com"
+      },
+      {
+        "title": "Couch Guitar Straps",
+        "href": "https://www.couchguitarstraps.com"
+      },
+      {
+        "title": "Vintage Style Women's Shoes",
+        "href": "https://www.etsy.com/shop/RoniKantorShoes"
+      },
+      {
+        "title": "Laptop Case",
+        "href": "http://mattandnat.com"
+      },
+      {
+        "title": "Weightlifting Gloves",
+        "href": "http://www.newgrip.com/vegan.html"
+      },
+      {
+        "title": "Dance Shoes",
+        "href": "http://www.ethicalwares.com/catalogsearch/result/?q=dance"
+      },
+      {
+        "title": "Cynthia King Ballet Slippers",
+        "href": "http://cynthiakingdance.com/veganballetslippers/"
+      },
+      {
+        "title": "Birkenstocks",
+        "href": "http://www.ethicalwares.com/catalogsearch/result/?q=birkenstock"
+      },
+      {
+        "title": "An exciting look at all vegan shoe company Olsen Haus",
+        "href": "http://www.olsenhaus.com"
+      },
+      {
+        "title": "Cri de Coeur",
+        "href": "http://cridecoeur.myshopify.com"
+      },
+      {
+        "title": "Roni Kantor",
+        "href": "https://www.etsy.com/shop/RoniKantorShoes"
+      },
+      {
+        "title": "Love is Mighty Vegan Shoes",
+        "href": "http://loveismighty.com/product.html"
+      },
+      {
+        "title": "Willow's Whisper",
+        "href": "http://peacefulprairie.blogspot.com/2012/01/willows-whisper-to-world.html"
+      },
+      {
+        "title": "A Portrait of Marcie",
+        "href": "http://peacefulprairie.blogspot.com/2007/05/portrait-of-sheep.html"
+      },
+      {
+        "title": "Novacas",
+        "href": "http://novacas.com/mens.htm"
+      },
+      {
+        "title": "Novacas",
+        "href": "http://novacas.com/womens.htm"
+      },
+      {
+        "title": "Good Guys",
+        "href": "http://goodguys.bigcartel.com"
+      }
+    ],
+    "title": "Wearing",
+    "shortTitle": "Wear",
+    "76-there-is-no-moral": "There is no morally coherent difference between fur and other animal clothing, such as leather, wool, etc., just as there is no morally coherent distinction between meat and milk or eggs.\n\t\t        ",
+    "46-gary-l-francione": "Gary L Francione",
+    "13-what-do-vegans-we": "What do Vegans Wear?",
+    "73-the-selection-of": "The selection of items and analogues available for vegan to wear is so wide, it's simply impossible to tell someone is a vegan by looking at their belt, shoes, or coat.",
+    "5-some-vegans-will-s": "Some vegans will shop at specialty all-vegan stores while others order online. Either way, vegan clothing, shoes, and accessories are actually affordable and stylish. Like shopping for anything else, it's all about finding good deals.",
+    "76-whats-wrong-with": "What's Wrong with Wool?",
+    "6-the-reason-for-avo": "The reason for avoiding leather is probably more obvious than avoiding wool. However, while the practice of taking wool off a sheep does not immediately require killing, sheep are still property. This means they are bred and enslaved to be products for humans. Often they are bred genetically to grow so much skin (and therefore wool) they form folds in which insects lay eggs. Producers must then cut off these folds in a process called \"mulesing.\" After their \"productivity\" declines, they are sent to slaughter.",
+    "58-leather": "Leather",
+    "98-strongleather-isn": "Leather isn't merely a \"by-product\" of the beef industry. In fact, most leather doesn't even come from the same type of cow used for beef.",
+    "4-even-if-this-were": "Even if this were the case, it's important, again, to think of what we do to animals not in terms of \"inflicting suffering,\" but their property status. If an animal is killed to create two different products, what sense does it make to say one product is a by-product while the other is the real thing? Animals are killed because their dead bodies can be sold in the form of various products.",
+    "12-recycledsecondhan": "Recycled/Secondhand",
+    "57-emis-it-vegan-to": "Is it vegan to buy products second-hand which contain leather or wool? After all, since they already exist, one is not causing additional suffering. It's important, again, not to think of this purely as an issue of \"inflicting suffering.\" If you have seen",
+    "ask_yourself": ", ask yourself why a vegan would even want to wear that being's body regardless of the economic effect it has?",
+    "24-being-vegan-means": "Being vegan means acknowledging the notion that animals are not lifeless objects which are on the planet for all of us humans to use.",
+    "71-so-regardless-of": "So regardless of the amount of suffering you may not be causing to an animal, is it in line with your own beliefs to wear the body parts of murdered animals?",
+    "9-vegan-clothing-lin": "Vegan Clothing Links",
+    "86-above-a-data-orig": "(Above)\n",
+    "94-em-denotes-price": "\"$\" denotes price range ($ = low, $$$$ = high)",
+    "14-mens-and-womens-s": "Mens and womens shoes, clothing, accessories, as well as food items, vitamins, home goods and more.",
+    "70-shoes-for-men-and": "Shoes for men and women and everything else a vegan may need including belts, bags, food, books, candles, etc.",
+    "51-vegan-and-environ": "Vegan and environmentally-friendly sandals and simple shoes.",
+    "0-shoes-jackets-belt": "Shoes, jackets, belts, bags, wallets, etc for men and women.",
+    "75-shoes-for-men-and": "Shoes for men and women, and all things vegan.",
+    "46-shoes-and-accesso": "Shoes and accessories for men and women.",
+    "96-shoes-and-accesso": "Shoes and accessories for women, men and kids.",
+    "3-mens-and-womens-cl": "Men's and Women's Clothes, shoes, accessories, products.",
+    "64-a-data-original-t": "Birkenstocks",
+    "62-italian-vegan-sho": "Italian vegan shoes for men and women.",
+    "6-a-data-original-ti": "Vintage Style Women's Shoes",
+    "52-all-vegan-despite": "(All vegan, despite the name) Shoes, clothes, accessories and products. (UK international orders.)",
+    "17-vegan-boutique-fo": "Vegan Boutique for Women (shoes, clothing, products).",
+    "65-couture-womens-sh": "Couture women’s shoes and basics.",
+    "96-couture-womens-ch": "Couture women’s (children’s and some men’s) footware.",
+    "66-womens-mens-and-c": "Women’s, men’s, and children’s shoes and accessories.",
+    "69-shoes-for-women-a": "Shoes for women and men.",
+    "82-vegan-shoes-belt": "Vegan shoes, belt, and accessories for women and men.",
+    "40-quality-shoes-and": "Quality shoes and accessories for men and women.",
+    "26-shoes-for-men-and": "Shoes for men and women.",
+    "57-recycled-plastic": "Recycled plastic designer shoes.",
+    "53-vegan-eco-friendl": "Vegan, eco-friendly, high quality ballet slippers. Comes in three colors.",
+    "28-women-only": "Women Only",
+    "75-shoes-for-women": "Shoes for Women",
+    "41-vintage-style-sho": "Vintage style shoes, clothing and accessories for women. International customers place order inquiries here",
+    "83-womens-shoes": "Women's Shoes",
+    "72-cri-de-coeur": "Cri de Coeur",
+    "52-womens-shoes-and": "Women’s shoes and basics.",
+    "87-womens-shoes": "Women's Shoes",
+    "3-womens-shoes-and-a": "Women’s shoes and accessories.",
+    "3-womens-shoes": "Women's Shoes",
+    "35-men-only": "Men Only",
+    "30-all-mens-shoe-col": "All mens shoe collection.",
+    "48-a-data-original-t": "Never Leather Land",
+    "54-mens-shoes-clothe": "Mens shoes, clothes, ties, cologne and more.",
+    "38-children-only": "Children Only",
+    "74-cute-bags-backpac": "Cute  bags, backpacks, lunchbags, change purses and more for kids.",
+    "25-coats": "Coats",
+    "94-coats-for-women-a": "Coats for women and men.",
+    "18-vegan-store": "Vegan Store",
+    "90-special-section-f": "Special section for winter gear including a peacoat and pleather jacket.",
+    "47-offering-jackets": "Offering jackets, shirts, sweatshirts and outerwear.",
+    "36-features-a-winter": "Features a winterwear category for men and women.",
+    "86-a-data-original-t": "An exciting look at all vegan shoe company Olsen Haus",
+    "53-coats-for-men-and": "Coats for men and women.",
+    "45-bags": "Bags",
+    "94-wide-selection-of": "Wide selection of stylish bags",
+    "16-designer-quality": "Designer-quality bags with a fresh style.",
+    "38-designer-of-vegan": "Designer of vegan bags that are both affordable and fashionable.",
+    "35-colorful-vegan-ba": "Colorful vegan bags and wallets.",
+    "99-luxury-designer-b": "Luxury designer bags for men and women.",
+    "73-messenger-bags-an": "Messenger bags and some clothing for men and women.",
+    "68-miscellaneous": "Miscellaneous",
+    "87-an-all-vegan-line": "An all-vegan line of guitar straps with a wide selection of styles.",
+    "4-one-of-our-favorit": "One of our favorite vegan shoe designers. Roni Kantor's shoe line is adorable and stylish.",
+    "44-minka-bag-from-ma": "Minka bag From Matt and Natt.",
+    "37-special-vegan-hea": "Special vegan heavy duty workout gloves from NewGrip",
+    "9-stylish-dancing-sh": "Stylish dancing shoes for men and women.",
+    "98-beautiful-ballet": "Beautiful ballet shoes with materials that are soft yet made to perform.",
+    "63-identical-to-the": "Identical to the classic Birkenstock shoe style, EthicalWares offers a decent selection of this simple sandal shoe.",
+    "71-im-vegan-because": "I'm vegan because I believe all animals are members of the moral community, and I reject violence against them by not using any animal products.\n\t\t\t      \t\t\t\t    ",
+    "87-elizabeth-collins": "Elizabeth Collins",
+    "41-meeting-the-cows": "Meeting the Cows Used for Leather",
+    "76-meet-some-of-the": "Meet some of the gentle beings whom are routinely killed directly for leather.",
+    "9-the-truth-about-le": "The Truth About Leather",
+    "24-span-stylecolorre": "WARNING: Graphic Footage",
+    "74-isnt-leather-just": "Isn't leather just a byproduct of meat production? The excerpt from Earthlings explains the reality behind animals used for leather.",
+    "88-mary-had-a-little": "Mary had a Little Lamb",
+    "41-this-video-of-a-l": "This video of a lamb running playfully around a house makes you wonder why we treat cats and dogs so differently from the animals we send to slaughterhouses.",
+    "35-of-all-wrongs-i-h": "Of all wrongs I have committed in life, I consider being violent to non-humans by consuming and using them in all forms the most regrettable one.\n  \t\t  ",
+    "19-vera-cristofani": "Vera Cristofani",
+    "49-olsen-haus-media": "Olsen Haus Media Reel",
+    "21-cri-de-coeur-2011": "Cri de Coeur 2011 Fall/Winter Collection",
+    "73-an-artistic-video": "An artistic video showcasing the fall and winter collection from all-vegan clothing company",
+    "96-roni-kantor-vinta": "Roni Kantor Vintage Womens Shoes",
+    "1-a-fun-commercial-f": "A fun commercial for all vegan vintage womens' shoes from",
+    "2-a-peek-at-the-fair": "A peek at the fair trade practices and artisans overseas who make",
+    "42-love-is-mighty-ve": "Love is Mighty vegan shoes.",
+    "51-read-about-willow": "Read about Willow, a llama left outside to freeze to death.",
+    "34-meet-the-sheep-wh": "Meet the sheep who literally knocked on the door of her caretakers.",
+    "47-willows-whisper": "Willow's Whisper",
+    "10-a-portrait-of-mar": "A Portrait of Marcie",
+    "good-guys-description": "French brand of stylish shoes for men"
+  },
+  "use": {
+    "videos": [
+      "4_Pn0l6ddMw",
+      "LP9sZRgTX4I",
+      "W-B2sdtpo7g"
+    ],
+    "images": [
+      "rats",
+      "bigeyebunny",
+      "catandgoat",
+      "sidebar_image_company_list"
+    ],
+    "links": [
+      {
+        "title": "Ambergris",
+        "href": "https://en.wikipedia.org/wiki/Ambergris"
+      },
+      {
+        "title": "Down",
+        "href": "https://en.wikipedia.org/wiki/Down_feather"
+      },
+      {
+        "title": "Gelatin",
+        "href": "https://en.wikipedia.org/wiki/Gelatin"
+      },
+      {
+        "title": "Lanolin",
+        "href": "https://en.wikipedia.org/wiki/lanolin"
+      },
+      {
+        "title": "Suede",
+        "href": "https://en.wikipedia.org/wiki/suede"
+      },
+      {
+        "title": "Tallow",
+        "href": "https://en.wikipedia.org/wiki/tallow"
+      },
+      {
+        "title": "Vegetable Scrub",
+        "href": "http://lifehacker.com/5906220/mix-baking-soda-and-water-for-a-cheap-effective-diy-vegetable-scrub"
+      },
+      {
+        "title": "Hand Sanitizer",
+        "href": "http://lifehacker.com/5905294/make-your-own-all+natural-hand-sanitizer-with-ingredients-you-already-have"
+      },
+      {
+        "title": "Wet Cleaning Wipes",
+        "href": "http://lifehacker.com/5893511/diy-wet-cleaning-wipes-are-easy-to-make-cost-less-than-store+bought-wipes"
+      },
+      {
+        "title": "Stove Cleaner",
+        "href": "http://lifehacker.com/5880914/clean-stove-burners-and-grates-effortlessly-with-ammonia"
+      },
+      {
+        "title": "Dishwasher Detergent",
+        "href": "http://lifehacker.com/5880183/diy-dishwasher-detergent"
+      },
+      {
+        "title": "Soap Nuts",
+        "href": "https://www.google.com/search?sugexp=chrome,mod=8&sourceid=chrome&ie=UTF-8&q=soap+nuts#q=soap+nuts&hl=fr&prmd=imvns&source=lnms&tbm=shop&ei=RbTJT4_VDuLI6gHu640f&sa=X&oi=mode_link&ct=mode&cd=6&ved=0CGQQ_AUoBQ&bav=on.2,or.r_gc.r_pw.r_cp.r_qf.,cf.osb&fp=aa4e0379f443b53d&biw=1241&bih=611"
+      },
+      {
+        "title": "How to clean every room in your house using items you already have",
+        "href": "http://lifehacker.com/5861821/how-to-clean-every-room-in-your-home-with-items-you-already-have"
+      },
+      {
+        "title": "Vegan Essentials",
+        "href": "http://veganessentials.com/"
+      },
+      {
+        "title": "Amazon.com",
+        "href": "http://www.amazon.com/s/ref=sr_nr_i_1?rh=k%3Avegan+groceries%2Ci%3Agrocery&keywords=vegan+groceries&ie=UTF8&qid=1337463204#/ref=sr_nr_p_n_feature_browse-b_9?rh=k%3Avegan+groceries%2Cn%3A16310101%2Cp_n_feature_browse-bin%3A114322011&bbn=16310101&keywords=vegan+groceries&ie=UTF8&qid=1337463210&rnid=114319011"
+      },
+      {
+        "title": "Pangea",
+        "href": "http://www.veganstore.com/"
+      },
+      {
+        "title": "Download",
+        "href": "http://cdn.everything.io/vegankit/downloads/testers.pdf"
+      }
+    ],
+    "title": "Using",
+    "shortTitle": "Use",
+    "34-ingredients": "Ingredients",
+    "20-here-are-some-ani": "Here are some animal-derived ingredients commonly found in household products",
+    "30-stronga-data-orig": "A solid substance produced in the intestines of sperm whales often used in perfumes and cosmetic products.",
+    "19-stronga-data-orig": "Down is the name for bird feathers, often from a duck or a chicken used for stuffing pillows, comforters, and coats.",
+    "61-stronga-data-orig": "Also used in food products, gelatin is derived from the collagen extracted by the bones, ligaments, and hooves of animals.",
+    "97-stronga-data-orig": "Lanolin, a fat derived from wool, is often used in cosmetics and personal care products.",
+    "96-stronga-data-orig": "Suede, like leather, comes from the skin of cows.",
+    "37-stronga-data-orig": "Once widely used for lubrication and candle wax, tallow is now primarily used in the production of certain biofuels. Commercially, it may be found in some shaving products.",
+    "35-what-are-the-test": "What are The Tests?",
+    "57-animals-used-in-l": "Animals used in laboratory tests include mice, rats, dogs, cats, and rabbits, and many more. The kinds of tests done on animals vary and are not always by name, as are the two below.",
+    "94-commonly-testing": "Commonly, testing is performed on animals to determine toxicity (how poisonous a substance is), irritancy (how a substance reacts with animal tissue), or mutagenicity (how a substance affects DNA).",
+    "1-draize-test": "Draize Test",
+    "84-when-you-first-he": "When you first heard products like shampoos were tested on the same bunny rabbits you saw at the pet store, you might have imagined these rabbits getting their fur washed on a daily basis.",
+    "58-actually-tests-li": "Actually, tests like the Draize test are tests for toxicity. The Draize test involves dabbing a substance in the eye of a conscious animal (often a rabbit) and letting it linger to study its possible effects on the human eye.",
+    "68-why-are-rabbits-u": "Why are rabbits used specifically? Because rabbits have no tear ducts.",
+    "94-median-lethal-dos": "Median Lethal Dose",
+    "54-the-median-lethal": "The Median Lethal Dose, also known as LD50, is a metric of toxicity determined by the dosage required to kill half of a group of animals.",
+    "39-for-example-this": "For example this test shows it takes 90,000 mg/kg of water (yes, water) or 50 mg/kg of Nicotine to kill half of a group of rats.",
+    "37-homemade-cleaning": "Homemade Cleaning Products",
+    "1-while-there-are-pl": "While there are plenty of excellent products not tested on animals, it's often dramatically cheaper to just make them yourself!",
+    "61-emplease-note-som": "Please note, some commercial products in the attached media are not vegan.",
+    "0-vegan-vendors": "Vegan Vendors",
+    "68-stronga-data-orig": "VE, as the name implies, is all vegan with a wide selection of foods for humans and nonhumans as well as clothing and other specialty items.",
+    "46-stronga-data-orig": "While not an exclusively vegan storefront, Amazon actually has a large directory of vegan foods available in bulk in their grocery department.",
+    "63-stronga-data-orig": "Pangea, also known as TheVeganStore.com is an all vegan storefront much like Vegan Essentials.",
+    "99-the-time-will-com": "The time will come when men such as I will look upon the murder of animals as they now look upon the murder of men\n\t\t",
+    "13-leonardo-davinci": "Leonardo DaVinci",
+    "47-is-animal-experim": "Is Animal Experimentation Good Science?",
+    "72-veterinary-doctor": "Veterinary doctor Andre Menache argues against animal experimentation as bad science and discusses non animal alternatives.",
+    "38-companies-that-te": "Companies that Test or Don't Test on Animals",
+    "96-download-this-fre": "Download this free print out",
+    "26-i-believe-veganis": "I believe veganism is the most important social justice movement today and is the most important form of activism one can engage in.\n\t\t    ",
+    "5-trisha-roberts": "Trisha Roberts",
+    "83-im-vegan-sandy": "I'm Vegan: Sandy",
+    "18-sandy-talks-about": "Sandy talks about her journey to understanding animal rights and her becoming a vegan with her husband.",
+    "4-im-vegan-minku": "I'm Vegan: Minku",
+    "43-long-time-vegan-m": "Long time vegan Minku Sharma talks about his transition into taking the beliefs he already had and applying them to nonhumans.",
+    "52-human-beings-have": "Human beings have capitalized on the silence of animals, just as certain human beings have historically imposed silence on certain other human beings by denying slaves the right to literacy, denying women the right to own property, and denying both the right to vote.\n\t\t\t  ",
+    "64-gary-steiner-prof": "Gary Steiner, Professor of Philosophy at Bucknell University"
+  },
+  "learn": {
+    "videos": [
+      "Z7Gbq3lkKwY",
+      "T5pDU1yMWMw",
+      "l08as25vCVc",
+      "3DKaSaK0usc",
+      "4dssK8SitDA",
+      "BwHH6TRvsXw",
+      "fW8amMCVAJQ",
+      "4YO1_1CaaGI"
+    ],
+    "images": [
+      "crab",
+      "rwt",
+      "vf",
+      "aap",
+      "mak",
+      "aaid",
+      "tard",
+      "jumpinglamb",
+      "sidebar_image_book",
+      "arpamphlet_sized"
+    ],
+    "links": [
+      {
+        "title": "Rain Without Thunder: The Ideology of the Animal Rights Movement",
+        "href": "http://www.amazon.com/gp/product/1566394619/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1566394619&linkCode=as2&tag=vega032-20&linkId=OXBAZAFRCJ6R6VW5"
+      },
+      {
+        "title": "Vegan Freak: Being Vegan in a Non-Vegan World",
+        "href": "http://www.amazon.com/gp/product/1604860154/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1604860154&linkCode=as2&tag=vega032-20&linkId=PSE5P4RV65HO4D4E"
+      },
+      {
+        "title": "Animals as Persons",
+        "href": "http://www.amazon.com/gp/product/0231139519/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0231139519&linkCode=as2&tag=vega032-20&linkId=PY3FOXJUYF5NAGSH"
+      },
+      {
+        "title": "Making a Killing",
+        "href": "http://www.amazon.com/gp/product/B003Z0CR3K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003Z0CR3K&linkCode=as2&tag=vega032-20&linkId=5DBZPYWGVMQVGT2O"
+      },
+      {
+        "title": "Anthropocentrism and its Moral Discontents",
+        "href": "http://www.amazon.com/gp/product/0822961199/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0822961199&linkCode=as2&tag=vega032-20&linkId=VAZC5MXMELH5KPPQ"
+      },
+      {
+        "title": "The Animal Rights Debate",
+        "href": "http://www.amazon.com/gp/product/0231149557/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0231149557&linkCode=as2&tag=vega032-20&linkId=QK27UHVHER2OUOTX"
+      },
+      {
+        "title": "Abolitionism describes a particular animal rights approach",
+        "href": "http://www.abolitionistapproach.com/about/"
+      },
+      {
+        "title": "The \"happy\" slaves of the South.",
+        "href": "http://quotesonslavery.org/what-you-might-not-see/"
+      },
+      {
+        "title": "Slaveholders of the south are \"proverbially hospitable.\"",
+        "href": "http://quotesonslavery.org/they-tell-us-also-that-the-slaveholders-of-the-south-are-proverbially-hospitable-kind-and-generous/"
+      },
+      {
+        "title": "The bond that unites master and servant.",
+        "href": "http://quotesonslavery.org/2010/11/07/they-know-nothing-of-the-bond-that-unites-the-master-and-servant/"
+      },
+      {
+        "title": "Abolitionism as \"fanatical.\"",
+        "href": "http://quotesonslavery.org/abolition-spurns-all/"
+      },
+      {
+        "title": "An abolitionist among you.",
+        "href": "http://quotesonslavery.org/fellow-citizens-an-abolitionist-of-the-most-revolting-character-is-among-you/"
+      },
+      {
+        "title": "Read more at QuotesOnSlavery.com",
+        "href": "http://quotesonslavery.org/"
+      },
+      {
+        "title": "More abolitionist myths debunked",
+        "href": "http://uvearchives.wordpress.com/category/ten-myths-of-new-welfarism/"
+      },
+      {
+        "title": "Five Fatal Flaws of Animal Welfarism",
+        "href": "http://www.guardian.co.uk/commentisfree/2010/jan/18/five-fatal-flaws-animal-activism"
+      },
+      {
+        "title": "Welfarism is no weapon against the animal industry",
+        "href": "http://www.abolitionistapproach.com/what-to-do-on-proposition-2/"
+      },
+      {
+        "title": "Welfarism is paradoxically very bad for animals",
+        "href": "http://www.abolitionistapproach.com/the-absurdity-of-competing-humane-labels-hsus-v-perdue/"
+      },
+      {
+        "title": "it makes the public feel better about exploiting animals",
+        "href": "http://m.theage.com.au/victoria/pork-back-in-flavour-as-chefs-put-a-twist-in-little-piggy-tale-20120526-1zc3m.html#ixzz1w15t61DM"
+      },
+      {
+        "title": "simply dishonest",
+        "href": "http://www.peacefulprairie.org/freerange1.html"
+      },
+      {
+        "title": "There is actually a lot to say about the economics of animal use and how welfarism fails.",
+        "href": "http://abolitionistanimalrights.blogspot.com/2009/07/happy-meat-movement-and-animal-welfare.html"
+      },
+      {
+        "title": "Speaking from experience, it's actually much easier than you think",
+        "href": "http://uvearchives.wordpress.com/2012/02/25/creative-non-violent-vegan-advocacy-a-beginners-guide/"
+      },
+      {
+        "title": "Wouldn't it be better to promote vegetarianism?",
+        "href": "http://vegan-times.com/2012/05/12/why-vegetarianism-isnt-enough/"
+      },
+      {
+        "title": "Wouldn't it be easier to promote vegetarianism?",
+        "href": "http://www.abolitionistapproach.com/gateway-arguments/"
+      },
+      {
+        "title": "it's not simply that welfarism doesn't work, it cannot work.",
+        "href": "http://uvearchives.wordpress.com/2007/12/12/property-status-and-animal-welfare-two-deep-roots-of-cruelty-3/"
+      },
+      {
+        "title": "Read more about single-issue campaigns.",
+        "href": "http://uvearchives.wordpress.com/2008/10/27/picking-the-low-hanging-fruit-what-is-wrong-with-single-issue-campaigns/"
+      },
+      {
+        "title": "AbolitionistApproach.com",
+        "href": "http://abolitionistapproach.com/"
+      },
+      {
+        "title": "View Samples",
+        "href": "#samples"
+      },
+      {
+        "title": "Eat Like You Care Website: www.EatLikeYouCareBook.com.",
+        "href": "http://eatlikeyoucarebook.com"
+      },
+      {
+        "title": "Get the book",
+        "href": "http://www.amazon.com/gp/product/1604860154/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1604860154&linkCode=as2&tag=vega032-20&linkId=PSE5P4RV65HO4D4E"
+      },
+      {
+        "title": "Get the book",
+        "href": "http://www.amazon.com/gp/product/0231139519/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0231139519&linkCode=as2&tag=vega032-20&linkId=2GRTZ4NANZQEZHVI"
+      },
+      {
+        "title": "Get the book",
+        "href": "http://www.amazon.com/gp/product/B003Z0CR3K/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003Z0CR3K&linkCode=as2&tag=vega032-20&linkId=A36ZDKEOJSNLY7O2"
+      },
+      {
+        "title": "Get the book",
+        "href": "http://www.amazon.com/gp/product/0822961199/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0822961199&linkCode=as2&tag=vega032-20&linkId=LVODOVCIEQWCWFS5"
+      },
+      {
+        "title": "The Animal Rights Debate",
+        "href": "http://www.amazon.com/gp/product/0231149557/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0231149557&linkCode=as2&tag=vega032-20&linkId=VPS56IDOWX5YC62L"
+      },
+      {
+        "title": "Download",
+        "href": "http://cdn.everything.io/vegankit/downloads/aapamphlet.pdf"
+      }
+    ],
+    "title": "Thinking Vegan",
+    "shortTitle": "Learn",
+    "0-speciesism": "Speciesism",
+    "76-strongspeciesism": "Speciesism is the unfair discrimination of two individuals based on species. Some species-based discrimination is not unfair--For example, it's perfectly reasonable to give a driver's license to an human but not a nonhuman.",
+    "38-however-strongspe": "However, species is irrelevant when considering whether or not to exploit a sentient being. Discriminating between a cow and a human to say it is right to kill one for food but not the other is an example of speciesism.",
+    "16-speciesism-is-mor": "Speciesism is morally objectionable because, like racism, sexism, and heterosexism, it links personhood with an irrelevant criterion. Those who reject speciesism are committed to rejecting racism, sexism, heterosexism, and other forms of discrimination as well.\n        ",
+    "53-gary-l-francione": "Gary L Francione",
+    "81-what-is-sentience": "What is sentience?",
+    "34-like-us-the-anima": "Like us, the animals we use for food, clothing, labor, etc. are \"sentient.\"  They feel pain, fear violence and are highly aware of the world around them. While we can draw lines between some intellectual differences of humans and other animals, all sentient beings have nerves and a brain.",
+    "91-that-is-a-system": "That is, a system to consciously understand impulses like touch, pain, and sight in a nervous system.  Whether it be a human, an ape, a cat, or a gerbil, no sentient being has “better” or more advanced nerves.  The animals we use for enjoyment and convenience have families, desires, and personalities. They taste food, enjoy the company of others, and value many of the qualities of life we as humans hold sacred in the experience of living. So while we may have some very different cognitive abilities, what we take from animals by reducing them to our “things” is as devastating to them as it is would be to us.",
+    "91-animal-rights-boo": "Animal Rights Books",
+    "58-by-gary-l-francio": "By Gary L. Francione",
+    "11-what-is-the-aboli": "What is the Abolitionist Approach?",
+    "54-are-animal-welfar": "Are 'animal welfare' supporters indistinguishable from the animal exploiters they oppose? Do reformist measures reaffirm the underlying principles that make animal exploitation possible in the first place? In this provocative book, Gary L. Francione argues that the modern animal rights movement has become indistinguishable from a century-old concern with the welfare of animals that in no way prevents them from being exploited. Francione maintains that advocating humane treatment of animals retains a sense of them as instrumental to human ends. When they are considered dispensable property, he says, they are left fundamentally without 'rights'. Until the seventies, Francione claims, this was the paradigm within which the Animal Rights Movement operated, as demonstrated by laws such as the Federal Humane Slaughter Act of 1958.",
+    "98-in-this-wide-rang": "In this wide-ranging book, Francione takes the reader through the philosophical and intellectual debates surrounding animal welfare to make clear the difference between animal rights and animal welfare. Through case studies such as campaigns against animal shelters, animal laboratories, and the wearing of fur, Francione demonstrates the selectiveness and confusion inherent in reformist programs that target fur, for example, but leave wool and leather alone. The solution to this dilemma, Francione argues, is not in a liberal position that espouses the humane treatment of animals, but in a more radical acceptance of the fundamental inalienability of animal rights. Author note: Gary L. Francione is Professor of Law and Nicholas de B. Katzenbach Scholar of Law at Rutgers University Law School, Newark. He is the co-director of the \"Rutgers Animal Rights Law Center\" and the author of \"Animals, Property, and the Law\" (Temple).\"",
+    "43-by-bob-and-jenna": "By Bob and Jenna Torres",
+    "0-curious-about-vega": "\"Curious about veganism? Want to be a vegan? Already a vegan? Just wondering how to be vegan without going insane? In this informative and practical guide on veganism, two seasoned vegans help you love your inner vegan freak. Loaded with tips, advice, stories, and comprehensive lists of resources that no vegan should live without, this book is key to helping you thrive as a happy, healthy, and sane vegan in a decidedly non-vegan world. In this sometimes funny, sometimes irreverent, and sometimes serious guide that's not afraid to tell it like it is, new, long-time, and potential vegans will find: -how to go vegan in 3 weeks or less using the \"cold tofu\" program; -the arguments for ethical veganism; -how to get along with friends, family, and others, including other vegetarians; -tons of useful and practical tips for surviving the grocery store, restaurants, and dinners with omnivores; -how to respond when people ask you if you \"like live on apples and twigs.\"",
+    "66-by-gary-l-francio": "By Gary L. Francione",
+    "35-virtually-all-the": "\"Virtually all the articles and essays collected here are milestones in the formation of the modern theory of the legal and moral rights of animals. Gary L. Francione knows his philosophy as well as his law and these juridical studies work close to the line where law and philosophy merge. His prose, furthermore, is clear and free of legal jargon. I strongly recommend this collection of important essays. It provides a lucid summary of a significant body of thought on animal rights.\"<br><br>\n\t\t\t\t\t\t\t(Julian H. Franklin, professor emeritus of political philosophy, Columbia University )",
+    "64-by-bob-torres": "By Bob Torres",
+    "71-suggest-to-the-av": "Suggest to the average leftist that animals should be part of broader liberation struggles and—once they stop laughing—you'll find yourself casually dismissed. With a focus on labor, property, and the life of commodities, Making a Killing contains key insights into the broad nature of domination, power, and hierarchy. It explores the intersections between human and animal oppressions in relation to the exploitative dynamics of capitalism.",
+    "83-combining-nuts-an": "Combining nuts-and-bolts Marxist political economy, a pluralistic anarchist critique, as well as a searing assessment of the animal rights movement, Bob Torres challenges conventional anti-capitalist thinking and convincingly advocates for the abolition of animals in industry—and on the dinner plate.\n\t\t\t\t\t\t\tMaking A Killing is sure to spark wide debate in the animal rights and anarchist movements for years to come.",
+    "87-by-gary-steiner": "By Gary Steiner",
+    "93-anthropocentrism": "Anthropocentrism and Its Discontents is the first-ever comprehensive examination of views of animals in the history of Western philosophy, from Homeric Greece to the twentieth century.",
+    "87-in-recent-decades": "In recent decades, increased interest in this area has been accompanied by scholars' willingness to conceive of animal experience in terms of human mental capacities: consciousness, self-awareness, intention, deliberation, and in some instances, at least limited moral agency. This conception has been facilitated by a shift from behavioral to cognitive ethology (the science of animal behavior), and by attempts to affirm the essential similarities between the psychophysical makeup of human beings and animals. ",
+    "36-gary-steiner-sket": "Gary Steiner sketches the terms of the current debates about animals and relates these to their historical antecedents, focusing on both the dominant anthropocentric voices and those recurring voices that instead assert a fundamental kinship relation between human beings and animals. He concludes with a discussion of the problem of balancing the need to recognize a human indebtedness to animals and the natural world with the need to preserve a sense of the uniqueness and dignity of the human individual.",
+    "76-the-animal-rights": "The Animal Rights Debate presents the views of two preeminent thinkers working on a key debate in the study of the moral status of animals-namely, do animals deserve to be treated well while we use them to satisfy our needs and desires, or do animals deserve not to be used to satisfy human desires at all? This is a subject of extremely heated debate in animal studies and society at large, and Gary L. Francione and Robert Garner address it as no others can.",
+    "61-gary-steiner-buck": "(Gary Steiner, Bucknell University )",
+    "21-youre-already-fam": "You're already familiar with this concept from human slavery. Before slavery was abolished in the United States, there were \"abolitionists\" who fought to end slavery, not merely make it \"better.\"",
+    "34-at-a-time-there-w": "At a time, there was a dominant group which argued we ought to fight for slaves to be treated better. This was either because they believed slavery was justified or that however wrong it was, complete abolition was not attainable.",
+    "40-welfarism-in-the": "Welfarism in the days of human slavery",
+    "89-my-scheme-was-vis": "My scheme was visionary—fanatical—unattainable… But opposition served only to increase my ardor, and confirm my purpose.\n",
+    "44-william-lloyd-gar": "William Lloyd Garrison (July 14, 1830)",
+    "71-of-course-we-all": "Of course, we all know the outcome of that political era, but when thinking about this in terms of nonhumans you may look to the welfarist side and think, 'we can't stop animal use overnight.'",
+    "89-its-important-to": "It's important to resist thinking of abolitionism as an \"all-or-nothing\" approach. Any significant shift in human culture or politics requires time and gradual change.",
+    "95-while-abolitionis": "While abolitionists want to abolish the use of animals entirely, so too do advocates of any social justices with their campaigns. Anyone who is against murder would like it to be abolished, not just made less painful. However, we wouldn't assume these activists expect murder to be wiped clean overnight!",
+    "51-now-you-may-be-th": "Now you may be thinking welfarism is something we can do now--something to use in the meantime before we achieve complete abolition.",
+    "82-lets-clarify-one": "Let's clarify one thing first: ",
+    "its_a_needed_and": "It's a needed and highly desirable component of raising animals for food because it ensures an orderly flow of product. Why wouldn't you want to take care of property you're about to sell?",
+    "53-producers-can-hav": "Producers can have a competitive advantage by applying better animal welfare standards and delivering high quality goods.\n",
+    "90-animal-welfare-co": "Animal Welfare Commission Report on the benefit of using \"enriched\" cages.",
+    "43-many-animal-organ": "Many animal organizations will point to new welfare practices as if they are their own victories. Suffice it to say, this is great for donations.",
+    "83-but-if-welfarism": "But if welfarism is bogus, what can we do for animals now? Simple: vegan education. With every new vegan we have in the world, the demand for animal use is greatly diminished. ",
+    "10-as-well-because": "as well because",
+    "09-also-the-supposed": "Also, the supposed benefits it gives to animals, (bigger cages, free ranges, painless deaths) are",
+    "08-or-marketing": "or marketing doublespeak",
+    "30-yet-you-may-be-th": "Yet you may be thinking vegan education is unrealistic. How do you convince someone to go without all the things vegans don't eat? ",
+    "in_fact_there": "In fact, there are plenty of people in the world ready to go vegan but just need a little push.",
+    "40-does-animal-welfa": "Does animal welfare really help animals? Professor Gary Francione debates author Erik Marcus on the efficacy of welfarism.",
+    "6-welfare-cant-be-al": "Welfare can't be all that bad can it?",
+    "63-its-understandabl": "It's understandable to resist throwing out welfarism completely. After all, it's welfarism! What can be so wrong with that?",
+    "73-the-more-you-sear": "The more you search for redeemable aspects of welfarism, you'll begin to realize ",
+    "welfarism-involves": "Welfarism involves time and money which could otherwise be spent on educating the public on veganism.",
+    "66-as-long-as-animal": "As long as animals remain the property of humans, and are legally allowed to be used as economic production units—living “machines” who produce eggs, milk, flesh, skin, fur and other bodily parts and secretions for human profit—they will be afforded no significant protection under the law, as the economic interests of the property owner will always trump even the most crucial interests of his or her property.\n\t",
+    "63-angel-flinn": "Angel Flinn",
+    "75-single-issue-camp": "Single Issue Campaigns",
+    "93-youve-probably-he": "You've probably heard of campaigns to end the clubbing of seals or ban fur. These campaigns are based on the idea that fighting these battles are easier, so it's worth spending time battling them as single issues.",
+    "11-although-its-inde": "Although it's indeed unethical to club seals or kill animals for their fur, these campaigns only tell the public it's more ethical to use one animal over another, even if that's not what we mean to say.",
+    "11-making-matters-wo": "Making matters worse, these campaigns often praise establishments for removing fur from their lineup, even though they still sell leather and wool.",
+    "71-whatever-the-case": "Whatever the case, we don't really need single issue campaigns. We can make a more significant impact educating the public about veganism. Good vegan education leads the public to the kind of thinking needed to shun fur and seal clubbing.",
+    "55-social-justice-is": "Social Justice Issues",
+    "86-are-there-more-im": "Are there more important issues to worry about than animal rights? Shouldn't we be focusing on the issues that affect humans first?",
+    "64-regardless-of-how": "Regardless of how you answer this question, understand, there's no reason being a vegan should prevent you from being an activist for any other cause. In fact, the \"animal\" in \"animal rights\" does not necessarily mean \"nonhuman animal.\" When we say an animal has the right not to be property, this includes humans as well.",
+    "85-indeed-strongan-a": "Indeed, an animal rights activist should be concerned with other social justice issues. Really, at the heart of many social injustices is a recurring theme of treating outgroups as the \"other.\" The injustice of racism happens because we view the \"others\" as different, so we find it acceptible to use them as our slaves.",
+    "27-women-face-discri": "Women face discrimination because, especially in the eyes of men, they are an \"other.\" Because they are different, it is deemed acceptible to treat them as an inferior and to assume less of their abilities.",
+    "14-the-same-thinking": "The same thinking manifests itself in our relationship with nonhumans. While nonhumans do indeed possess some different mental and physical traits from humans, they want freedom just as much as we do, yet we do not give this interest the same consideration as we do with fellow humans.",
+    "53-never-doubt-that": "Never doubt that a small group of thoughtful, committed citizens can change the world. Indeed, it is the only thing that ever has.\"\n  ",
+    "86-margaret-mead": "Margaret Mead",
+    "8-im-vegan-gary-fran": "I'm Vegan: Gary Francione",
+    "17-rutgers-law-profe": "Rutgers Law Professor Gary Francione discusses the history of the animal rights and welfare movement.",
+    "83-emprof-franciones": "Prof. Francione's Site: ",
+    "69-read-samples-of-a": "Read Samples of Animal Rights Books",
+    "84-start-reading-fro": "Start reading from our suggested books on Animal Rights",
+    "22-lets-stop-talking": "Let’s stop talking about veganism as a matter of compassion, benevolence and other nice-sounding, but ultimately anthropocentric missives. The idea that we are “being kind”, “acting compassionately”, or “saving lives” just by being vegan is misguided. It’s also paternalistic. Veganism is a matter of justice, and it reflects the absolute minimum of justice that I owe other persons (human and non). That doesn’t mean we’re not compassionate people. It doesn’t mean we can’t act compassionately toward other animals (human or non). It just means that veganism is what we owe them. It’s not an act of charity.",
+    "80-vincent-j-guihan": "Vincent J. Guihan",
+    "50-im-vegan-risa": "I'm Vegan: Risa",
+    "62-musician-risa-tal": "Musician Risa Talks about her experience as a vegan.",
+    "22-vegan-freak-radio": "Vegan Freak Radio",
+    "56-the-authors-of-ve": "The authors of Vegan Freak, Bob and Jenna Torres, discuss a plethora of vegan topics on their hit (vintage) podcast.",
+    "92-a-discussion-on-v": "A Discussion on Veganism",
+    "85-watch-our-cartoon": "Watch our cartoon of two bears in the park talking about animal rights. From ",
+    "88-trisha-roberts": "Trisha Roberts",
+    "31-promoting-veganis": "Promoting Veganism at School",
+    "84-clare-demonstrate": "Clare demonstrates an easy and affordable way to table for veganism at school.",
+    "87-download-our-free": "Download our free Animal Rights Pamphlet",
+    "13-this-two-sided-tr": "This two-sided tri-fold pamphlet written by Professor ",
+    "57-gary-francione": "Gary Francione",
+    "explains_the_abolitionist": "explains the abolitionist approach and why veganism is a moral imperative.",
+    "22-button-classbtn-b": "Download",
+    "92-button-classbtni": "Preview",
+    "99-leadership-lesson": "Leadership Lessons from a Dancing Guy",
+    "11-this-video-shows": "This video shows us what we can learn about starting a movement from a crazy dancing guy in a park.",
+    "88-i-urge-all-advoca": "I urge all advocates for animal rights, all vegans and anyone who cares about nonviolence, justice, morality and respect, and who wants to see an end to oppression, discrimination and slavery, to go vegan, to nonviolently promote veganism unequivocally in everything they say and do as an advocate, and to unequivocally oppose all discrimination, including against our fellow human beings, in everything they say and do and in their actions as a member of their community.\n        ",
+    "39-elizabeth-collins": "Elizabeth Collins",
+    "55-animals-as-food-t": "Animals as Food: The Legal Treatment of Animals in Contemporary Agribusiness and Factory Farming",
+    "82-gary-l-francione": "Gary L. Francione gives this keynote speech at a DePaul University College of Law event on October 30, 2013.",
+    "20-gary-l-francione": "Gary L. Francione is Board of Governors Professor, Distinguished Professor of Law &amp; Nicholas deB. Katzenbach Scholar of Law and Philosophy at Rutgers School of Law - Newark. He is one of the most well-known figures in the modern animal rights movement. He is the author/co-author of seven books, most recently with Anna Charlton -- Eat Like You Care: An Examination of the Morality of Eating Animals.",
+    "19-professor-francio": "Professor Francione's Website: www.AbolitionistApproach.com"
+  }
 }
