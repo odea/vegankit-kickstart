@@ -1540,6 +1540,10 @@
       {
         "title": "Create&Case",
         "href": "http://createandcase.com"
+      },
+      {
+        "title": "Lookie Lou",
+        "href": "http://lookielou.com/"
       }
     ],
     "title": "Wearing",
@@ -1645,7 +1649,8 @@
     "47-willows-whisper": "Willow's Whisper",
     "10-a-portrait-of-mar": "A Portrait of Marcie",
     "good-guys-description": "French brand of stylish shoes for men.",
-    "create-and-case-description": "Cases, bags, wallets with a focus on supporting local artists."
+    "create-and-case-description": "Cases, bags, wallets with a focus on supporting local artists.",
+    "lookie-lou-description": "Women's apparel and accessories"
   },
   "use": {
     "videos": [
