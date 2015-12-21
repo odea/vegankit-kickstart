@@ -1536,6 +1536,10 @@
       {
         "title": "Good Guys",
         "href": "http://goodguys.bigcartel.com"
+      },
+      {
+        "title": "Create&Case",
+        "href": "http://createandcase.com"
       }
     ],
     "title": "Wearing",
@@ -1640,7 +1644,8 @@
     "34-meet-the-sheep-wh": "Meet the sheep who literally knocked on the door of her caretakers.",
     "47-willows-whisper": "Willow's Whisper",
     "10-a-portrait-of-mar": "A Portrait of Marcie",
-    "good-guys-description": "French brand of stylish shoes for men"
+    "good-guys-description": "French brand of stylish shoes for men.",
+    "create-and-case-description": "Cases, bags, wallets with a focus on supporting local artists."
   },
   "use": {
     "videos": [
