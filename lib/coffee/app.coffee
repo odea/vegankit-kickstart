@@ -16,6 +16,5 @@ document.addEventListener 'DOMContentLoaded', ->
   # locale redirect
   k$.locale = getLang().substr(0, 2)
   k$.redirect_locale = (page) ->
-    # Old website not working :(
-    # if k$.locale == "pt" or k$.locale == "sv" or k$.locale == "ro" or k$.locale == "es"
-    #   location.href = "http://legacy.vegankit.com/#{page}"
+    if k$.locale == "pt" or k$.locale == "sv" or k$.locale == "ro" or k$.locale == "es"
+      location.href = "http://legacy.vegankit.com/#{page}"
